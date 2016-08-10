@@ -1,0 +1,198 @@
+Return-path: <bounce-vb@vonage.com>
+Envelope-to: mike@thelaundromatguys.com
+Delivery-date: Tue, 22 Mar 2016 08:25:21 -0700
+Received: from strong-eds-01.kewr0.s.vonagenetworks.net ([69.59.253.70]:39484)
+	by a2plcpnl0434.prod.iad2.secureserver.net with esmtp (Exim 4.85_1)
+	(envelope-from <bounce-vb@vonage.com>)
+	id 1aiOBN-002mDY-En
+	for mike@thelaundromatguys.com; Tue, 22 Mar 2016 08:25:21 -0700
+Received: from localhost ([127.0.0.1])
+	by strong-eds-01.kewr0.s.vonagenetworks.net (-); Tue, 22 Mar 2016 15:25:21 +0000
+X-VirtualServer: Default, strong-eds-01.kewr0.s.vonagenetworks.net, 69.59.253.70
+X-VirtualServerGroup: Default
+X-MailingID: 33628789::55202::1452617286::35804::2016032203251625q2i0000016532215::6920_0
+X-SMHeaderMap: mid="X-MailingID"
+X-Destination-ID: mike@thelaundromatguys.com
+X-SMFBL: bWlrZUB0aGVsYXVuZHJvbWF0Z3V5cy5jb20=
+DomainKey-Signature: a=rsa-sha1;
+ c=nofws;
+ s=vonagedkim;
+ d=vonage.com;
+ q=dns;
+ b=jAYHYQfJs6kwcUnOiU9GxCB1304g4+6Jbsv3AxOlXnB0SHJJtOEX4H/I55hTl6XjtVI11OrrX9IYFhUma/Jrr+LNacK6zIXJvJj6BwpMSy6MGvsyUjYxH4HUdWO/KmI1N8dhiqFzm8/WjF0zRaJy1OL3F7W5n/b8DfUg6xH03eQ=
+DKIM-Signature: v=1; a=rsa-sha1; c=simple; d=vonage.com;
+	s=vonagedkim; i=@vonage.com; h=Content-Transfer-Encoding:
+	Content-Disposition:Content-Type:x-vonage-category:
+	x-vonage-escrow:x-vonage-confirmation:x-vonage-mailing_name:
+	x-vonage-emailuuid:x-rpcampaign:x-vonage-account_number:
+	x-vonage-add_param:Reply-To:MIME-Version:Message-ID:
+	X-ReportingKey:Subject:Date:To:From; bh=oqJG/YDgA3Tv7I9IYHJLE1TD
+	/gA=; b=jZS66iGBfCJUnLoIUjoEDXh3zAfIux+VSexa7C6x4ONq7VK/OOgW6MN5
+	sjVLdoNrgpAxXcCGXYwzPfgO0yYQkCAzIz7fVoKWiTp+tQ5SIjnMfMZexQSL287h
+	aTNOO89yISjo9ScPK/Y7cDYvgxFcM1CHUVQVxKPEjTBD21TMfio=
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+Content-Type: text/html;
+	charset="UTF-8"
+x-vonage-category: 
+x-vonage-escrow: 
+x-vonage-confirmation: 
+x-vonage-mailing_name: VBS_Z_quote
+x-vonage-emailuuid: 2016032203251625q2i0000016532215
+x-rpcampaign: 
+x-vonage-account_number: 0
+x-vonage-add_param: VBS
+Reply-To: <sales-vb@vonage.com>
+MIME-Version: 1.0
+Message-ID: <33628789.6920@vonage.com>
+X-ReportingKey: LJ80HQ543R1BGC8CBQKLAFITJJ103NJJ::mike@thelaundromatguys.com::2016032203251625q2i0000016532215
+Subject: For Your Review | Your Quote from Vonage Business
+Date: Tue, 22 Mar 2016 15:25:21 +0000
+To: mike@thelaundromatguys.com
+From: Vonage Business <sales-vb@vonage.com>
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">=
+
+<meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge,chrome=3D1">
+<meta charset=3D"utf-8">
+<meta name=3D"viewport" content=3D"width=3Ddevice-width">
+<style type=3D"text/CSS">
+=09/**This is to overwrite Outlook.com=E2=80=99s Embedded CSS************=
+/
+=09a, a:link, a:visited {color:#49494b;} /*optional*/
+</style>
+</head>
+<body leftmargin=3D"0" topmargin=3D"0" marginwidth=3D"0" marginheight=3D"=
+0" bgcolor=3D"#ffffff" style=3D"margin:0; padding:0; -webkit-text-size-ad=
+just:none; -ms-text-size-adjust:none;">
+<IMG SRC=3D"http://custview.vonage.com:80/track?eas=3D2&amp;msid=3D1&amp;=
+auid=3D&amp;mailingid=3D55202&amp;messageid=3D35804&amp;databaseid=3D1452=
+617286&amp;type=3Dopen&amp;serial=3D33628789&amp;emailid=3Dmike@thelaundr=
+omatguys.com&amp;userid=3D2016032203251625q2i0000016532215&amp;targetid=3D=
+&amp;fl=3D&amp;extra=3DMultivariateId=3D&amp;&amp;&amp;" WIDTH=3D"1" HEIG=
+HT=3D"1" STYLE=3D"border-width:0; border-style:hidden;" ALT=3D""><img alt=
+=3D"" width=3D"1" height=3D"1" src=3D"http://pixel.monitor1.returnpath.ne=
+t/pixel.gif?r=3D6fa61c5528e240de05221dc1e8adfd2a8b556d22&amp;s=3Dabc1234&=
+amp;c=3DVBS_Z_quote&amp;campaignid=3DVBS_Z_quote&amp;gender=3Dmale"><tabl=
+e border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" align=3D=
+"center"><tbody><tr><td><table border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" align=3D"center"><tbody>
+<tr><td>
+<a href=3D"http://custview.vonage.com:80/track?type=3Dclick&amp;eas=3D2&a=
+mp;msid=3D1&amp;auid=3D&amp;mailingid=3D55202&amp;messageid=3D35804&amp;d=
+atabaseid=3D1452617286&amp;serial=3D33628789&amp;emailid=3Dmike@thelaundr=
+omatguys.com&amp;userid=3D2016032203251625q2i0000016532215&amp;targetid=3D=
+&amp;fl=3D&amp;extra=3DMultivariateId=3D&amp;&amp;&amp;561&amp;&amp;&amp;=
+https://my.vonagebusiness.com"><img src=3D"http://www.vonage.com/static/s=
+trongmail/VBS_logo.png" alt=3D"Right Click to Download Images"></a><br>
+</td></tr>
+<tr><td height=3D"20">=C2=A0</td></tr>
+<tr><td><a href=3D"http://custview.vonage.com:80/track?type=3Dclick&amp;e=
+as=3D2&amp;msid=3D1&amp;auid=3D&amp;mailingid=3D55202&amp;messageid=3D358=
+04&amp;databaseid=3D1452617286&amp;serial=3D33628789&amp;emailid=3Dmike@t=
+helaundromatguys.com&amp;userid=3D2016032203251625q2i0000016532215&amp;ta=
+rgetid=3D&amp;fl=3D&amp;extra=3DMultivariateId=3D&amp;&amp;&amp;694&amp;&=
+amp;&amp;https://www.confirmorder.vonage.com/?ref=3Da3g14000000M7HaAAK"><=
+img width=3D"100%" height=3D"90" src=3D"http://www.vonage.com/static/stro=
+ngmail/VBS/BANNER_QUOTE_READY.png" alt=3D"Right Click to Download Images"=
+></a></td></tr>
+<tr><td style=3D"font-family:Arial, Helvetica, sans-serif; font-size:14px=
+;color: #49494b; word-wrap:break-word;" width=3D"100%"><table border=3D"0=
+"><tbody><tr><td style=3D"font-family:Arial, Helvetica, sans-serif; font-=
+size:14px;color: #49494b; word-wrap:break-word;" width=3D"673">
+<br><strong style=3D"font-family:Arial, Helvetica, sans-serif; font-size:=
+20px;color: #49494b;">Dear Michael=C2=A0Settembre,</strong><br><br>Thank =
+you for taking the time to speak with me today about setting up your phon=
+e system and service with Vonage Business!=C2=A0 <br><br>Please <strong><=
+a href=3D"http://custview.vonage.com:80/track?type=3Dclick&amp;eas=3D2&am=
+p;msid=3D1&amp;auid=3D&amp;mailingid=3D55202&amp;messageid=3D35804&amp;da=
+tabaseid=3D1452617286&amp;serial=3D33628789&amp;emailid=3Dmike@thelaundro=
+matguys.com&amp;userid=3D2016032203251625q2i0000016532215&amp;targetid=3D=
+&amp;fl=3D&amp;extra=3DMultivariateId=3D&amp;&amp;&amp;694&amp;&amp;&amp;=
+https://www.confirmorder.vonage.com/?ref=3Da3g14000000M7HaAAK" style=3D"c=
+olor: #ff8601; text-decoration: underline;">CLICK HERE</a></strong> to re=
+view and accept your quote that was drafted based on our conversation. Le=
+t me know if I can make any adjustments or answer any questions.=C2=A0=C2=
+=A0<br><br><em>This quote includes greatly reduced monthly rates availabl=
+e until March 31, 2016.</em><br><br><span style=3D"text-decoration: under=
+line;"><strong>Learn more about our phone service by clicking the links b=
+elow:</strong></span><br><br><table style=3D"font-family:Arial, Helvetica=
+, sans-serif; font-size:14px;color: #49494b; word-wrap:break-word;" borde=
+r=3D"0" cellspacing=3D"0" cellpadding=3D"4" width=3D"98%" align=3D"center=
+"><tbody>
+<tr height=3D"15">
+<td width=3D"1%" valign=3D"top">=C2=A0</td>
+<td width=3D"1%" valign=3D"top"><strong>=E2=80=A2</strong></td>
+<td style=3D"font-family:Arial, Helvetica, sans-serif; font-size:14px;col=
+or: #49494b; word-wrap:break-word;padding-left:6px" align=3D"left"><a hre=
+f=3D"http://custview.vonage.com:80/track?type=3Dclick&amp;eas=3D2&amp;msi=
+d=3D1&amp;auid=3D&amp;mailingid=3D55202&amp;messageid=3D35804&amp;databas=
+eid=3D1452617286&amp;serial=3D33628789&amp;emailid=3Dmike@thelaundromatgu=
+ys.com&amp;userid=3D2016032203251625q2i0000016532215&amp;targetid=3D&amp;=
+fl=3D&amp;extra=3DMultivariateId=3D&amp;&amp;&amp;589&amp;&amp;&amp;http:=
+//business.vonage.com/wp-content/uploads/2014/12/Features-and-Pricing.pdf=
+" style=3D"text-decoration: underline;color:#ff8601;font-weight:bold;">Ma=
+ny Included Features</a></td>
+</tr>
+<tr height=3D"15">
+<td width=3D"1%" valign=3D"top">=C2=A0</td>
+<td width=3D"1%" valign=3D"top"><strong>=E2=80=A2</strong></td>
+<td style=3D"font-family:Arial, Helvetica, sans-serif; font-size:14px;col=
+or: #49494b; word-wrap:break-word;padding-left:6px" align=3D"left"><a hre=
+f=3D"http://custview.vonage.com:80/track?type=3Dclick&amp;eas=3D2&amp;msi=
+d=3D1&amp;auid=3D&amp;mailingid=3D55202&amp;messageid=3D35804&amp;databas=
+eid=3D1452617286&amp;serial=3D33628789&amp;emailid=3Dmike@thelaundromatgu=
+ys.com&amp;userid=3D2016032203251625q2i0000016532215&amp;targetid=3D&amp;=
+fl=3D&amp;extra=3DMultivariateId=3D&amp;&amp;&amp;590&amp;&amp;&amp;http:=
+//business.vonage.com/wp-content/uploads/2014/02/VBS-Suggested-Phones.pdf=
+" style=3D"text-decoration: underline;color:#ff8601;font-weight:bold;">Su=
+ggested Phones</a></td>
+</tr>
+<tr height=3D"15">
+<td width=3D"1%" valign=3D"top">=C2=A0</td>
+<td width=3D"1%" valign=3D"top"><strong>=E2=80=A2</strong></td>
+<td style=3D"font-family:Arial, Helvetica, sans-serif; font-size:14px;col=
+or: #49494b; word-wrap:break-word;padding-left:6px" align=3D"left"><a hre=
+f=3D"http://custview.vonage.com:80/track?type=3Dclick&amp;eas=3D2&amp;msi=
+d=3D1&amp;auid=3D&amp;mailingid=3D55202&amp;messageid=3D35804&amp;databas=
+eid=3D1452617286&amp;serial=3D33628789&amp;emailid=3Dmike@thelaundromatgu=
+ys.com&amp;userid=3D2016032203251625q2i0000016532215&amp;targetid=3D&amp;=
+fl=3D&amp;extra=3DMultivariateId=3D&amp;&amp;&amp;704&amp;&amp;&amp;https=
+://businesssupport.vonage.com/app/answers/detail/a_id/21546" style=3D"tex=
+t-decoration: underline;color:#ff8601;font-weight:bold;">Network Equipmen=
+t Setup and Compatibility Guide</a></td>
+</tr>
+</tbody></table>
+<br>Our onboarding process is simple and streamlined so your phone system=
+ can be up and running quickly. <br><br>Please contact me directly for an=
+y assistance you need. I appreciate the opportunity to earn your valued b=
+usiness! <br><br>Thank you,<br><br><strong>Kofi Gyawu</strong><br>404-537=
+-1295 | kofi.gyawu@vonagebusiness.com<br>3200 Windy Hill Rd Suite 200 Eas=
+t | Atlanta, GA 30339<br><br><a href=3D"http://custview.vonage.com:80/tra=
+ck?type=3Dclick&amp;eas=3D2&amp;msid=3D1&amp;auid=3D&amp;mailingid=3D5520=
+2&amp;messageid=3D35804&amp;databaseid=3D1452617286&amp;serial=3D33628789=
+&amp;emailid=3Dmike@thelaundromatguys.com&amp;userid=3D2016032203251625q2=
+i0000016532215&amp;targetid=3D&amp;fl=3D&amp;extra=3DMultivariateId=3D&am=
+p;&amp;&amp;636&amp;&amp;&amp;http://www.vonage.com/bizbetter?CMP=3DOther=
+-bizbetter-lp"><img src=3D"http://www.vonage.com/static/strongmail/VBS/BA=
+NNER_SIGNATURE.png" alt=3D"Right Click to Download Images"></a><br><br><a=
+ href=3D"http://custview.vonage.com:80/track?type=3Dclick&amp;eas=3D2&amp=
+;msid=3D1&amp;auid=3D&amp;mailingid=3D55202&amp;messageid=3D35804&amp;dat=
+abaseid=3D1452617286&amp;serial=3D33628789&amp;emailid=3Dmike@thelaundrom=
+atguys.com&amp;userid=3D2016032203251625q2i0000016532215&amp;targetid=3D&=
+amp;fl=3D&amp;extra=3DMultivariateId=3D&amp;&amp;&amp;636&amp;&amp;&amp;h=
+ttp://www.vonage.com/bizbetter?CMP=3DOther-bizbetter-lp" style=3D"text-de=
+coration: underline;color:#0074c8;">We transform how people connect. See =
+how we=E2=80=99re doing it for businesses.<br><br></a> NOTE: The informat=
+ion contained in this email message  is considered confidential and propr=
+ietary to the sender and is intended solely  for review and use by the na=
+med recipient.=C2=A0 Any unauthorized review, use  or distribution is str=
+ictly prohibited. If you have received this message in  error, please adv=
+ise the sender by reply email and delete the message.<br><br>
+</td></tr></tbody></table></td></tr>
+</tbody></table></td></tr></tbody></table>
+</body>
+</html>
+

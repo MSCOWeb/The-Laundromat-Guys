@@ -1,0 +1,134 @@
+Return-path: <soojoonlee@gmail.com>
+Envelope-to: mike@thelaundromatguys.com
+Delivery-date: Wed, 20 Jul 2016 07:21:39 -0700
+Received: from mail-vk0-f45.google.com ([209.85.213.45]:33047)
+	by a2plcpnl0434.prod.iad2.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <soojoonlee@gmail.com>)
+	id 1bPsNX-003K4R-OT
+	for mike@thelaundromatguys.com; Wed, 20 Jul 2016 07:21:39 -0700
+Received: by mail-vk0-f45.google.com with SMTP id x130so71181121vkc.0
+        for <mike@thelaundromatguys.com>; Wed, 20 Jul 2016 07:21:19 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to;
+        bh=vjvYnRJAe/XE6W/CsZxM9QTXD9Ze1+CaGWIXbKeFzew=;
+        b=WS2ROJ1mlmBaNUXDxkcyCb1Q0frgjqjweMRxNeHdvBd5n6FjUu3e9REp2GJ1d9Ude6
+         9zH8eSE4yFFEza/cIxnmeIIctEToqsGqDXr1j7AwboNOZuHg6FzvdlKylQp20gOxRD4X
+         vGm4VzZnx0k6wsopw+IBa/gOUePvbB0huqPqyERmzPNCivNDKcrSOeKciB1xIyeblgEe
+         AAWW9iWE/fSV9jQNkucHoBjyJGQ+mOJQAEyHSLg6ikzSVEr1wTF1GKEt5BMSQRE4z0+q
+         LFoo1BLWa1+OdWbLooahqEWwSM+1R7Vdh461JSUGddaWRpH3xy4wiVro6ozaCiz/Vkup
+         0dQg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to;
+        bh=vjvYnRJAe/XE6W/CsZxM9QTXD9Ze1+CaGWIXbKeFzew=;
+        b=KSyo7LN1h6OgB61zomNHzYSgSkFVGXq2smo8FQ0PMjDfQMpfM9oRTK69AeuAZS0z9I
+         jvlp/ZNvSlPz92Dh+3WO8tG2NkGYd4lUctb29XGS778t4CbhqoLgrE7CZq62JNmeuBEU
+         JcnoUQ8yQneyZjaWjwgSqf4kiv3f6P/2JxUyMMDQxsqZAB/s4tLnI9SIkHcuc92qHHgt
+         fnxsugoyxPBx6r6tyy4SOKDLjP2A3RWGxgX9l0Q2BdUwiTAHV6dzKniBDpuHVkc7U2oc
+         bCpRh+nYB6yHeq9JkX9xk12q4uECrsCSG5yOoKQyfcVIJzXnz+a47QnqkSFj9/sA/lei
+         Lv/A==
+X-Gm-Message-State: ALyK8tLPS7BXXZVgZqC2iYDjfCK3FrW7uMTlPyfd4WQQCYaxwGfb8RKl6S4g9/Z8Kz8ueL6x2/x+2oW4jUi7fg==
+X-Received: by 10.31.185.9 with SMTP id j9mr10808149vkf.144.1469024458991;
+ Wed, 20 Jul 2016 07:20:58 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.176.69.138 with HTTP; Wed, 20 Jul 2016 07:20:58 -0700 (PDT)
+In-Reply-To: <20160720060831.Horde.ZFEZlRLFo0suNuqWUfR7aj5@a2plcpnl0434.prod.iad2.secureserver.net>
+References: <20160720060831.Horde.ZFEZlRLFo0suNuqWUfR7aj5@a2plcpnl0434.prod.iad2.secureserver.net>
+From: Soo Lee <soojoonlee@gmail.com>
+Date: Wed, 20 Jul 2016 10:20:58 -0400
+Message-ID: <CACALJyz9LoZ+jv7WCcN1gRJ=n6ykZCo8ti9DKbuRh+LpB8jA2Q@mail.gmail.com>
+Subject: Re: Laundromat NDA
+To: mike@thelaundromatguys.com
+Content-Type: multipart/mixed; boundary=001a11439cbc0c625e053811e968
+
+--001a11439cbc0c625e053811e968
+Content-Type: multipart/alternative; boundary=001a11439cbc0c6258053811e966
+
+--001a11439cbc0c6258053811e966
+Content-Type: text/plain; charset=UTF-8
+
+On Wed, Jul 20, 2016 at 9:08 AM, <mike@thelaundromatguys.com> wrote:
+
+> Hello Soo,
+>
+> Attached is our NDA, please fill out and sign and return to me.  Once
+> received I will send you the P&L for the laundromat.
+>
+> Regards,
+>
+> Michael Settembre
+> THE LAUNDROMAT GUYS
+> 646-294-0491 (cell)
+> 201-326-1060 (office)
+> 201-326-1070 (fax)
+>
+>
+
+--001a11439cbc0c6258053811e966
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><br></div><div class=3D"gmail_extra"><br><div class=3D"gma=
+il_quote">On Wed, Jul 20, 2016 at 9:08 AM,  <span dir=3D"ltr">&lt;<a href=
+=3D"mailto:mike@thelaundromatguys.com" target=3D"_blank">mike@thelaundromat=
+guys.com</a>&gt;</span> wrote:<br><blockquote class=3D"gmail_quote" style=
+=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex"><u></u>
+
+
+
+
+
+<div style=3D"font-family:Arial;font-size:14px">
+<p>Hello Soo,<br>
+<br>
+Attached is our NDA, please fill out and sign and return to me.=C2=A0 Once =
+received I will send you the P&amp;L for the laundromat.<br>
+<br>
+Regards,</p>
+<div>
+<h3 style=3D"color:blue">=C2=A0</h3>
+<div>
+<div>Michael Settembre</div>
+<div>THE LAUNDROMAT GUYS</div>
+<div><a href=3D"tel:646-294-0491" value=3D"+16462940491" target=3D"_blank">=
+646-294-0491</a> (cell)</div>
+<div><a href=3D"tel:201-326-1060" value=3D"+12013261060" target=3D"_blank">=
+201-326-1060</a> (office)</div>
+<div><a href=3D"tel:201-326-1070" value=3D"+12013261070" target=3D"_blank">=
+201-326-1070</a> (fax)</div>
+</div>
+<br></div>
+</div>
+</blockquote></div><br></div>
+
+--001a11439cbc0c6258053811e966--
+--001a11439cbc0c625e053811e968
+Content-Type: application/octet-stream; 
+	name="jp.co.canon.InkjetExtendedSurveyProgram.doSurveyDeviceStatus.plist"
+Content-Disposition: attachment; 
+	filename="jp.co.canon.InkjetExtendedSurveyProgram.doSurveyDeviceStatus.plist"
+Content-Transfer-Encoding: base64
+X-Attachment-Id: f_iquz5t2g1
+
+PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCFET0NUWVBFIHBsaXN0IFBV
+QkxJQyAiLS8vQXBwbGUvL0RURCBQTElTVCAxLjAvL0VOIiAiaHR0cDovL3d3dy5hcHBsZS5jb20v
+RFREcy9Qcm9wZXJ0eUxpc3QtMS4wLmR0ZCI+CjxwbGlzdCB2ZXJzaW9uPSIxLjAiPgo8ZGljdD4K
+CTxrZXk+c3RhdHVzPC9rZXk+Cgk8c3RyaW5nPmVuZDwvc3RyaW5nPgo8L2RpY3Q+CjwvcGxpc3Q+
+Cg==
+--001a11439cbc0c625e053811e968
+Content-Type: application/octet-stream; 
+	name="jp.co.canon.InkjetExtendedSurveyProgram.doSurveyDeviceStatus.plist"
+Content-Disposition: attachment; 
+	filename="jp.co.canon.InkjetExtendedSurveyProgram.doSurveyDeviceStatus.plist"
+Content-Transfer-Encoding: base64
+X-Attachment-Id: f_iquz8c3v2
+
+PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCFET0NUWVBFIHBsaXN0IFBV
+QkxJQyAiLS8vQXBwbGUvL0RURCBQTElTVCAxLjAvL0VOIiAiaHR0cDovL3d3dy5hcHBsZS5jb20v
+RFREcy9Qcm9wZXJ0eUxpc3QtMS4wLmR0ZCI+CjxwbGlzdCB2ZXJzaW9uPSIxLjAiPgo8ZGljdD4K
+CTxrZXk+c3RhdHVzPC9rZXk+Cgk8c3RyaW5nPmVuZDwvc3RyaW5nPgo8L2RpY3Q+CjwvcGxpc3Q+
+Cg==
+--001a11439cbc0c625e053811e968--

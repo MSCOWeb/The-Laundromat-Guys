@@ -1,0 +1,130 @@
+Return-path: <james@advisorsenergy.net>
+Envelope-to: mike@thelaundromatguys.com
+Delivery-date: Fri, 26 Feb 2016 08:09:33 -0700
+Received: from mail-qk0-f169.google.com ([209.85.220.169]:33452)
+	by a2plcpnl0434.prod.iad2.secureserver.net with esmtps (TLSv1.2:AES128-GCM-SHA256:128)
+	(Exim 4.85)
+	(envelope-from <james@advisorsenergy.net>)
+	id 1aZK1N-000f2l-AL
+	for mike@thelaundromatguys.com; Fri, 26 Feb 2016 08:09:33 -0700
+Received: by mail-qk0-f169.google.com with SMTP id s5so32673409qkd.0
+        for <mike@thelaundromatguys.com>; Fri, 26 Feb 2016 07:09:33 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=advisorsenergy-net.20150623.gappssmtp.com; s=20150623;
+        h=from:to:subject:date:message-id:mime-version:thread-index
+         :content-language;
+        bh=QYcgxplgG1RUF+NPAnD+rbC/syPbJi3V0zlEmySr4eg=;
+        b=gyIrQPbuLf9cjYWt52zvA19+Zp5adOZua+p/ODA/1nf9imzehV3d96LPMkOxB3JG2C
+         MsXVINgExzPXq/XyLa+DMOKfyE1N4idjX4SmXv0WKccLPqQo0KM5FF0YCXizjkXJB0eq
+         aLNBAzn9sHXLgdjM4aykZacLN89M1dYpXwOBKnVXZx21agSNbwzWozKQ/JkAxxvyRW4W
+         jK+Mq5r7cv7I97qchyo+2jSr46Z5oNQ+6u35EEFFErpp2W8EPkB2OVBER6/NWqRNrtia
+         vwaO5iypoXZXNN3g+4PSGBKA2G8ZxFqVVZauC6HNghSkfRNtzE+vNvk2p0+EjzYrmQuX
+         7tJA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:from:to:subject:date:message-id:mime-version
+         :thread-index:content-language;
+        bh=QYcgxplgG1RUF+NPAnD+rbC/syPbJi3V0zlEmySr4eg=;
+        b=U5f16Qle9pyym2B3wZimicDV/JfjBNu/p1IzwRlBD7+PqygTeawbSDKOp2x47UANz1
+         PdD3G5wQiF8LXxK4rAxAk/t5dvuvOboRraswNyYQeIltgHnFS7iBTJwpITldWcu0ucVl
+         SxypeJY75Md4Oz78pyhTaDPaP4Yr1poLVFQjh+/VRPg8dLETpS3Tj9MlhFOi7wQihRxA
+         qOWcWoMrrA0x7OPpuwVo7B9Wt4POkMuUU8gYtxAVZvB8KITTGL6GmFKtcNDXnD7tXzSV
+         T9aZaqc0hdyLcria2wm8ffqOkR1TG9xzgg6eXnkUS51+j+XuqOA+PClhzCt6fi7wAqFC
+         vQsw==
+X-Gm-Message-State: AD7BkJJ7gua2AXLI+MiGAHnqAEuESMyaQO85q47FsRrZ7EHZxvArR8VdMvsKUDJiXEtCAQ==
+X-Received: by 10.55.201.219 with SMTP id m88mr2520818qkl.41.1456499367860;
+        Fri, 26 Feb 2016 07:09:27 -0800 (PST)
+Received: from Jim ([2601:8c:4100:610e:1d63:419c:44fe:6201])
+        by smtp.gmail.com with ESMTPSA id e65sm5460602qge.12.2016.02.26.07.09.26
+        for <mike@thelaundromatguys.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Fri, 26 Feb 2016 07:09:26 -0800 (PST)
+From: "James Angilella" <james@advisorsenergy.net>
+To: <mike@thelaundromatguys.com>
+Subject: Natural gas
+Date: Fri, 26 Feb 2016 10:09:30 -0500
+Message-ID: <000801d170a7$b19a3de0$14ceb9a0$@advisorsenergy.net>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0009_01D1707D.C8C79140"
+X-Mailer: Microsoft Outlook 16.0
+Thread-Index: AdFwp6d8tEcLuao0T2m4ZOTLE7lfJg==
+Content-Language: en-us
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_0009_01D1707D.C8C79140
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+http://www.barchart.com/commodityfutures/Natural_Gas_Futures/NGU1
+
+ 
+
+James Angilella
+
+732-259-7570
+
+
+------=_NextPart_000_0009_01D1707D.C8C79140
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><META =
+HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Dus-ascii"><meta name=3DGenerator content=3D"Microsoft Word 15 =
+(filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US =
+link=3D"#0563C1" vlink=3D"#954F72"><div class=3DWordSection1><p =
+class=3DMsoNormal><a =
+href=3D"http://www.barchart.com/commodityfutures/Natural_Gas_Futures/NGU1=
+">http://www.barchart.com/commodityfutures/Natural_Gas_Futures/NGU1</a><o=
+:p></o:p></p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal>James Angilella<o:p></o:p></p><p =
+class=3DMsoNormal>732-259-7570<o:p></o:p></p></div></body></html>
+------=_NextPart_000_0009_01D1707D.C8C79140--
+

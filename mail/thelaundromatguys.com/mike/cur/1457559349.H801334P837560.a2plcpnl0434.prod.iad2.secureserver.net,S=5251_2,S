@@ -1,0 +1,134 @@
+Return-path: <warmon28@gmail.com>
+Envelope-to: mike@thelaundromatguys.com
+Delivery-date: Wed, 09 Mar 2016 14:35:49 -0700
+Received: from mail-lb0-f181.google.com ([209.85.217.181]:35384)
+	by a2plcpnl0434.prod.iad2.secureserver.net with esmtps (TLSv1.2:AES128-GCM-SHA256:128)
+	(Exim 4.85_1)
+	(envelope-from <warmon28@gmail.com>)
+	id 1adlll-003Vsg-KX
+	for mike@thelaundromatguys.com; Wed, 09 Mar 2016 14:35:49 -0700
+Received: by mail-lb0-f181.google.com with SMTP id bc4so84796485lbc.2
+        for <mike@thelaundromatguys.com>; Wed, 09 Mar 2016 13:35:49 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to;
+        bh=32BQISu352l8DyL7iJ7K+fbGvBmIoXHuJbyl97f3Fl0=;
+        b=q+wB9OGWLPbBPw96UL9lfl5zMDiltts/kDvxuTDXhiEGr9Ae37QTAFMFKXcB+CnBGO
+         qgSAiHtZIfBbp+lpjJDp4KOZfKEVYpAN9nA9OXUII3KQDUv8pJeT0QXN8smbdZzEFxFj
+         rESWGTEksRrrZCAVPl1cNMm/s85MontaExY5xyd9EL0pvG1uMX9WMLo4Z+XMSpChmRHW
+         DzEUjcdzSgRmLQuUh693lFkN193XoN40pew6PTqWGduxo/84S75R8w0PExzt9ZAWNopW
+         A9AtRDEa9hW0sCH/iUbqO3vkFOyMifzmeUpZHFG0o3uwKxy94IbcYzfifp2a1vdxQZk5
+         Smtg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:in-reply-to:references:date
+         :message-id:subject:from:to;
+        bh=32BQISu352l8DyL7iJ7K+fbGvBmIoXHuJbyl97f3Fl0=;
+        b=FnwNyX5/OM8rChtur7tiLMMFORMEZE+9QfrjQPBZyuoZBEaV7BErPuA3WHlC/K3HuG
+         GFHQUsgS30arVpsqvth4CQOrDDSTXKy3ekkIzsldWJiT/wXZad0hPHtVJyc52KTshqzr
+         OA9QngRv5eHwYYkJmvtWjd+YRzFWsEUyY4jaoAbnt5NtauS+cYibMvKUrddcgtlTdOPO
+         AnlkkhpSo04zdunseWOkfz4N6hf82WhfCD8h2LFA2TThw5bSXdxX7FOcGkk/bvgGLPDS
+         c7l37uFHqPKOCLskwaM6+/cymz6djkF8DdLtvtu/ch+0ka9zMLnQ7faZSY6Dj2mVV/ER
+         PVcA==
+X-Gm-Message-State: AD7BkJLq5IC8akCYHeK4KP7++MzICHdEh0i38nIAXBm6bi/fQ2MW+xyfW66VUjgH/uBCNLr3NMF1d2tIl2e6EA==
+MIME-Version: 1.0
+X-Received: by 10.112.16.230 with SMTP id j6mr150030lbd.27.1457559348068; Wed,
+ 09 Mar 2016 13:35:48 -0800 (PST)
+Received: by 10.112.3.167 with HTTP; Wed, 9 Mar 2016 13:35:48 -0800 (PST)
+In-Reply-To: <20160309211425.Horde.PysezeMv-ZPywFZSXDUpHw1@a2plcpnl0434.prod.iad2.secureserver.net>
+References: <0F6A8A34-6F76-4162-9487-BED04C9F32D4@gmail.com>
+	<20160309211425.Horde.PysezeMv-ZPywFZSXDUpHw1@a2plcpnl0434.prod.iad2.secureserver.net>
+Date: Wed, 9 Mar 2016 16:35:48 -0500
+Message-ID: <CADryN_jcx4dd4sL6gA8VWHL12+JbomxVAhdbe6qUQORTi=Qnjw@mail.gmail.com>
+Subject: Re: Warwick laundromat
+From: John Peruso <warmon28@gmail.com>
+To: mike@thelaundromatguys.com
+Content-Type: multipart/alternative; boundary=001a11c3c6d22e48e5052da47bf2
+
+--001a11c3c6d22e48e5052da47bf2
+Content-Type: text/plain; charset=UTF-8
+
+Mike,
+           Here are the water and sewer costs in the Village of warwick :
+
+Base monthly fee $ 22.20 per month
+Water costs The first 25,00 gallons at $ 4.82 per thousand
+26,000 to 75,999 gallons at $ 6.05 per thousand
+76,000 gallons and over at $ 8.31 per thousand
+Sewer costs   Up to 100,000 gallons at $ 3.60 per thousand
+                      100,001 gallons and above at $ 6.07 per thousand
+
+Thanks
+John
+
+On Wed, Mar 9, 2016 at 4:14 PM, <mike@thelaundromatguys.com> wrote:
+
+> Hey John,
+>
+> Call me to discuss.
+>
+> Thanks,
+>
+> Mike
+>
+>
+>
+>
+> Michael Settembre
+> THE LAUNDROMAT GUYS
+> 646-294-0491 (cell)
+> 201-326-1060 (office)
+> 201-326-1070 (fax)
+>
+>
+
+--001a11c3c6d22e48e5052da47bf2
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Mike,<div>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0Here ar=
+e the water and sewer costs in the Village of warwick :</div><div><br></div=
+><div>Base monthly fee $ 22.20 per month</div><div>Water costs The first 25=
+,00 gallons at $ 4.82 per thousand</div><div>26,000 to 75,999 gallons at $ =
+6.05 per thousand</div><div>76,000 gallons and over at $ 8.31 per thousand<=
+/div><div>Sewer costs =C2=A0 Up to 100,000 gallons at $ 3.60 per thousand</=
+div><div>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 100,001 gallons and above at $ 6.07 per thousand</div><div><br><=
+/div><div>Thanks</div><div>John=C2=A0</div></div><div class=3D"gmail_extra"=
+><br><div class=3D"gmail_quote">On Wed, Mar 9, 2016 at 4:14 PM,  <span dir=
+=3D"ltr">&lt;<a href=3D"mailto:mike@thelaundromatguys.com" target=3D"_blank=
+">mike@thelaundromatguys.com</a>&gt;</span> wrote:<br><blockquote class=3D"=
+gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-=
+left:1ex"><u></u>
+
+
+
+
+
+<div style=3D"font-family:Arial;font-size:14px">
+<p>Hey John,<br>
+<br>
+Call me to discuss.<br>
+<br>
+Thanks,<br>
+<br>
+Mike</p>
+<p><br>
+<br></p>
+<div>
+<h3 style=3D"color:blue">=C2=A0</h3>
+<div>
+<div>Michael Settembre</div>
+<div>THE LAUNDROMAT GUYS</div>
+<div><a href=3D"tel:646-294-0491" value=3D"+16462940491" target=3D"_blank">=
+646-294-0491</a> (cell)</div>
+<div><a href=3D"tel:201-326-1060" value=3D"+12013261060" target=3D"_blank">=
+201-326-1060</a> (office)</div>
+<div><a href=3D"tel:201-326-1070" value=3D"+12013261070" target=3D"_blank">=
+201-326-1070</a> (fax)</div>
+</div>
+<br></div>
+</div>
+</blockquote></div><br></div>
+
+--001a11c3c6d22e48e5052da47bf2--

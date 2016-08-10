@@ -1,0 +1,112 @@
+Return-path: <jchesmore@godaddy.com>
+Envelope-to: mike@thelaundromatguys.com
+Delivery-date: Fri, 05 Aug 2016 05:20:52 -0700
+Received: from mail-bl2nam02on0099.outbound.protection.outlook.com ([104.47.38.99]:41408 helo=NAM02-BL2-obe.outbound.protection.outlook.com)
+	by a2plcpnl0434.prod.iad2.secureserver.net with esmtps (TLSv1:ECDHE-RSA-AES256-SHA:256)
+	(Exim 4.87)
+	(envelope-from <jchesmore@godaddy.com>)
+	id 1bVe7Q-000pkM-BQ
+	for mike@thelaundromatguys.com; Fri, 05 Aug 2016 05:20:52 -0700
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=secureservernet.onmicrosoft.com; s=selector1-godaddy-com;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=9hkDxmxSc01zDYtweQ+zX7VwnlOOmcoH8EiCXZLcSv0=;
+ b=TnwCqKMMhyQ52rNnpjOeejEzq9PRb6OsW3JJ7CYMhFYKLHBowEB7Tk++5sdZG4KGNMQN/x0WT0zSH5fEMTkIucmZb8vkGa8Ch+qLIVglbXevcj+o/c53ddHq+/sOIqblnzLFayTxwMH34OmgOHK9PFQmLbpeqPqXMyMcY5asnbg=
+Received: from DM2PR0201MB0974.namprd02.prod.outlook.com (10.160.217.12) by
+ DM2PR0201MB0973.namprd02.prod.outlook.com (10.160.217.11) with Microsoft SMTP
+ Server (TLS) id 15.1.539.14; Fri, 5 Aug 2016 12:20:10 +0000
+Received: from DM2PR0201MB0974.namprd02.prod.outlook.com ([10.160.217.12]) by
+ DM2PR0201MB0974.namprd02.prod.outlook.com ([10.160.217.12]) with mapi id
+ 15.01.0549.016; Fri, 5 Aug 2016 12:20:11 +0000
+From: Jason L Chesmore <jchesmore@godaddy.com>
+To: "mike@thelaundromatguys.com" <mike@thelaundromatguys.com>
+Subject: Host Support 
+Thread-Topic: Host Support 
+Thread-Index: AQHR7xO1ByAZhDKGNEifxuvYExl9+A==
+Date: Fri, 5 Aug 2016 12:20:10 +0000
+Message-ID: <DM2PR0201MB0974E6E49EE8023EF0451F64A3180@DM2PR0201MB0974.namprd02.prod.outlook.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: spf=none (sender IP is )
+ smtp.mailfrom=jchesmore@godaddy.com; 
+x-ms-exchange-messagesentrepresentingtype: 1
+x-originating-ip: [64.202.161.57]
+x-ms-office365-filtering-correlation-id: 4ff7e2ce-2ed5-45f9-5a14-08d3bd2ad8ae
+x-microsoft-exchange-diagnostics: 1;DM2PR0201MB0973;6:/YerRXeLPwmqc0VhsZCtk9L7LhQRaBp155yvzBlC4h7g8BqfSJKa29VtGuSAKUVh2rbAzTSWUcj1g9eGBXM90Vom6Ra6hScZmpPg6TmWBGf9l9cWnzd++MwauCBSLAQjqLBbb42lDwdSEJHHsdT4W2CDA9tcrdSak1B5FBKOcsn4HM6LQS1jpbJcsdLBASbNb5xVNu2ep2a/XnfthqmNqnGMeNJwpE5dTbhMaSHjMAJNJMNMSZ4lAhBhCr++yLNUnfs5CDVM3pfLyBxB/vndTOeTs20EDdqF2Hr69q0dVvm1fQYf11j/SNftkfqN+pWcHwQtDXGlibQLdBbeaxJJ4A==;5:uufsP0r0SvlpXnMERyw4gr/mNIy7Jbp+Ti3OuxNXIA+lXsJP/Wwt8Ixfk10eVh9t4TeeT8s6uLUA3526mVvmLaH1jSt7PqbC2P99T1Oil75DhaD5j16u9oPKMX/dW7kCmSTKmcevs8KirghAFT9vaQ==;24:sQL/lcP8LEcGAg9R2RgS7rMP4IOdQ9eXZFryRkvrQBCRxWURLvN/sz6f1c8R4UWpTddZG8otcx9wtnNIMcQVtPkM0wF7vgGArRjEgNR+Oqo=;7:6blhPzKh/ScU7t/tet+XL39oWHGQueHF3oLQxwSS67/1Sajme6f144tAmcG4fjxXjx8ymI2Esm1tFTZNvSZSjYyawdgvDKnWbsqgPDQQqJhkpmG8ZNfNdJ9zjzyt7plp1yodXoaJFoVmpVyU0GMtvaEwyfKzO3nt1xibABoFW+mELffG7VPU5Zv0E5PAZ1dMcjxq5QnyTFOBJZ4wcbEFtOL/W88bQGUs2Lipfew9yMSPvhxbiGGfaMUZkWq306k7
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:;SRVR:DM2PR0201MB0973;
+x-microsoft-antispam-prvs: <DM2PR0201MB097313AD413E5836535392C0A3180@DM2PR0201MB0973.namprd02.prod.outlook.com>
+x-exchange-antispam-report-test: UriScan:(246761809553906);
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(601004)(2401047)(8121501046)(5005006)(10201501046)(3002001)(6055026);SRVR:DM2PR0201MB0973;BCL:0;PCL:0;RULEID:;SRVR:DM2PR0201MB0973;
+x-forefront-prvs: 0025434D2D
+x-forefront-antispam-report: SFV:NSPM;SFS:(10019020)(6009001)(7916002)(189002)(199003)(76576001)(586003)(101416001)(9686002)(74316002)(68736007)(66066001)(7736002)(10400500002)(92566002)(558084003)(99286002)(81166006)(450100001)(3846002)(2906002)(2501003)(102836003)(50986999)(54356999)(105586002)(86362001)(7846002)(229853001)(87936001)(19627405001)(7696003)(8936002)(19625215002)(8676002)(107886002)(97736004)(106356001)(6116002)(189998001)(5002640100001)(110136002)(16236675004)(3280700002)(81156014)(3480700004)(106116001)(77096005)(2351001)(2900100001)(33656002)(5640700001)(19580395003)(3660700001)(122556002)(1730700003);DIR:OUT;SFP:1102;SCL:1;SRVR:DM2PR0201MB0973;H:DM2PR0201MB0974.namprd02.prod.outlook.com;FPR:;SPF:None;PTR:InfoNoRecords;MX:1;A:1;LANG:en;
+received-spf: None (protection.outlook.com: godaddy.com does not designate
+ permitted sender hosts)
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_DM2PR0201MB0974E6E49EE8023EF0451F64A3180DM2PR0201MB0974_"
+MIME-Version: 1.0
+X-OriginatorOrg: godaddy.com
+X-MS-Exchange-CrossTenant-originalarrivaltime: 05 Aug 2016 12:20:10.4738
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: d5f1622b-14a3-45a6-b069-003f8dc4851f
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: DM2PR0201MB0973
+
+--_000_DM2PR0201MB0974E6E49EE8023EF0451F64A3180DM2PR0201MB0974_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+
+
+Thank You,
+
+Jason Chesmore
+GoDaddy
+480.505.8877
+Tuesday - Saturday 6am - 230pm  (CST)
+Host Support
+jchesmore@godaddy.com
+
+--_000_DM2PR0201MB0974E6E49EE8023EF0451F64A3180DM2PR0201MB0974_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" style=3D"display:none;"><!-- P {margin-top:0;margi=
+n-bottom:0;} --></style>
+</head>
+<body dir=3D"ltr">
+<div id=3D"divtagdefaultwrapper" style=3D"font-size:12pt;color:#000000;back=
+ground-color:#FFFFFF;font-family:Calibri,Arial,Helvetica,sans-serif;">
+<p><br>
+</p>
+<p><br>
+</p>
+<div id=3D"Signature">
+<div id=3D"divtagdefaultwrapper" style=3D"font-size:12pt; color:#000000; ba=
+ckground-color:#FFFFFF; font-family:Calibri,Arial,Helvetica,sans-serif">
+<div name=3D"divtagdefaultwrapper" style=3D"font-family:Calibri,Arial,Helve=
+tica,sans-serif; font-size:; margin:0">
+Thank You,<br>
+<br>
+<b>Jason Chesmore</b><br>
+<b><font color=3D"339966">GoDaddy</font></b><br>
+480.505.8877<br>
+Tuesday - Saturday&nbsp;6am -&nbsp;230pm&nbsp; (CST)<br>
+Host Support<br>
+<font color=3D"3366FF"><u><font color=3D"0000FF">jches<font color=3D"0000FF=
+">more</font>@godaddy.com</font><br>
+</u></font></div>
+</div>
+</div>
+</div>
+</body>
+</html>
+
+--_000_DM2PR0201MB0974E6E49EE8023EF0451F64A3180DM2PR0201MB0974_--

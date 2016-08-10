@@ -1,0 +1,316 @@
+Return-path: <koenigmgmt@gmail.com>
+Envelope-to: mike@thelaundromatguys.com
+Delivery-date: Mon, 25 Apr 2016 13:54:05 -0700
+Received: from mail-qk0-f169.google.com ([209.85.220.169]:34002)
+	by a2plcpnl0434.prod.iad2.secureserver.net with esmtps (TLSv1.2:AES128-GCM-SHA256:128)
+	(Exim 4.85_1)
+	(envelope-from <koenigmgmt@gmail.com>)
+	id 1aunW9-002wZY-N0
+	for mike@thelaundromatguys.com; Mon, 25 Apr 2016 13:54:05 -0700
+Received: by mail-qk0-f169.google.com with SMTP id r184so67505889qkc.1
+        for <mike@thelaundromatguys.com>; Mon, 25 Apr 2016 13:54:05 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=from:to:references:in-reply-to:subject:date:message-id:mime-version
+         :thread-index:content-language;
+        bh=Q29Yib4uJyutjZHaIk7SUq18xH6MJFQOSkHN/y74Z4E=;
+        b=CSKncduoTWaVtXQdAbaogv/1AwG41evpv562LLkD752ABYahRviWgIp3vAv2jVEvc+
+         KT4PZJt/R18QmVWqvYMy8qNzLlWb+NYlKYOkyXmi0UUlFNPRYD7x6GTjV4XcbtShMc44
+         vU0rC0xf3Ojpv+k5JkJwVpTnRUEaH0vzWtmlb6hpHSDohWwe+MQvtcEZ1EcKzdYIYXZh
+         oDB/Ai6gjII21Mountix3YO/K2gpnrRr2u8/FPQHpzfOV0x4WpFa4Ax4ZKiEpxtfQOl8
+         L6CmRxKVtnJ1cTXhBSwRa+Risy81gk4EvM4WdDiUzLrXXi2pWGPB9R9sU9mmJyEESr64
+         XUZA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:from:to:references:in-reply-to:subject:date
+         :message-id:mime-version:thread-index:content-language;
+        bh=Q29Yib4uJyutjZHaIk7SUq18xH6MJFQOSkHN/y74Z4E=;
+        b=UDNkX0SbqTdHTJO1ZHpQANebj4KERKikWbG0gsRZcu9aZnPwkpWVx3eFUGheatVe/W
+         1edpfGMumc7DjJk4a+qN2tFDtbE2uwijH7BUr3KKuKZojgaeevTQ3drOMX5UnZDOvb9T
+         bLf9O7LDDqFRDjRwj0WswAzeP1jyW97zhCHoFIeHILy2mZ8X04ki7kVvGZBFXsz4r82t
+         7vSkBpLwuUmH4bIaJVulvRVclUNdYhHQQvLFnDsBo35rkGAfGJUKt2gSh/zM0CWH7a/G
+         QfVqkpS34jUrkJiPiOJ7SYVqrUD4T6h207p/7StdwV/Zk9rhZs/mVQ0jmMBRy966pAo3
+         Trng==
+X-Gm-Message-State: AOPr4FXtBrx7K1b/7S8CFHngsl0BMwkkVPs8Q1MxWJmgQtqo/2E5aaP9zG+RrPUHnnm5hg==
+X-Received: by 10.233.223.67 with SMTP id t64mr20834779qkf.162.1461617645323;
+        Mon, 25 Apr 2016 13:54:05 -0700 (PDT)
+Received: from TrudyQBPC (ool-45799e0d.dyn.optonline.net. [69.121.158.13])
+        by smtp.gmail.com with ESMTPSA id r130sm7726756qha.25.2016.04.25.13.54.04
+        for <mike@thelaundromatguys.com>
+        (version=TLS1 cipher=ECDHE-RSA-AES128-SHA bits=128/128);
+        Mon, 25 Apr 2016 13:54:04 -0700 (PDT)
+From: "Koenig Management" <koenigmgmt@gmail.com>
+To: <mike@thelaundromatguys.com>
+References: <20160425135524.Horde.URwCoqzdh9ZL1-8TKDSVSA3@a2plcpnl0434.prod.iad2.secureserver.net>
+In-Reply-To: <20160425135524.Horde.URwCoqzdh9ZL1-8TKDSVSA3@a2plcpnl0434.prod.iad2.secureserver.net>
+Subject: RE: EZ Wash Newark
+Date: Mon, 25 Apr 2016 16:54:03 -0400
+Message-ID: <00e401d19f34$9a0cf030$ce26d090$@gmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_00E5_01D19F13.12FD9A20"
+X-Mailer: Microsoft Outlook 16.0
+Thread-Index: AQFkA5ELKTY2/CIzJZkXBZOzxTKhYaB2YQag
+Content-Language: en-us
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_00E5_01D19F13.12FD9A20
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Michael,
+
+=20
+
+Orlando is currently being billed for 70% of the water usage. As of =
+Friday, April 23rd, the separate meters have been installed and we will =
+be billing for actual usage going forward.
+
+=20
+
+Regards,
+
+=20
+
+Trudy Descarfino
+
+Koenig Management, Ltd
+
+=20
+
+=20
+
+=20
+
+From: mike@thelaundromatguys.com [mailto:mike@thelaundromatguys.com]=20
+Sent: Monday, April 25, 2016 9:55 AM
+To: koenigmgmt@gmail.com
+Subject: EZ Wash Newark
+
+=20
+
+Hello Jeff,
+
+Thank you for speaking with me the other day regarding the sale of EZ =
+Wash in Newark.  Can you please provide me with the percentage of the =
+water bill that Orlando is currently paying and when you expect to =
+switch over to the submeters?  There are a few interested buyers, one in =
+particular who I expect to make an offer as soon as I can give him an =
+idea of what his rent terms will be.  Here is a little backround on the =
+buyer and what i see his plans are for the laundromat:
+
+- He is an attorney and a cash buyer.
+- He will be offering somewhere arounf $250-350k for the business.
+- Immediate expenses to get the laundromat where it needs to be will =
+include but not limited to replacing (18) 20lb washers which are =
+currently not working, repairing all out of order washers and dryers, =
+cleaning/painting, new counter area, replacing light fixtures with LEDs, =
+new signage inside and out, replacing ceiling tiles, etc.  I estimate =
+the cost of the upfront work to be $125-$150k.
+- The remaining washers/dryers are 13+ years old and will need to be =
+replaced in the next 3-5 years depending on cost of repairs.  This will =
+be inevitable as any equipment has a reasonable lifespan of 15-20 years. =
+ Estimated cost of equipment alone will be in the $600-$700k range.
+- Any buyer investing this amount of money is going to need a long term =
+lease to protect their investment, as well as the equipment comany =
+requires it in order to obtain financing.
+- After analyzing the current net profit, including potential growth =
+under new management along with improvements both cosmetically and =
+equipment, the total rent for this store will need to be in the =
+$7000-$8000 (total) range for it to make sense for the new tenant and =
+ensure long term success.  This would equate to approx. $21-$24 sq. ft. =
+in year one.
+- Most investors will be looking for a minimum 10 year lease with 2 or 3 =
+five yr options.
+
+Thank you for your time and please let me know your thoughts asap as the =
+buyer is anxious to move forward.
+
+Rergards,
+
+
+=20
+
+
+Michael Settembre
+
+THE LAUNDROMAT GUYS
+
+646-294-0491 (cell)
+
+201-326-1060 (office)
+
+201-326-1070 (fax)
+
+=20
+
+
+------=_NextPart_000_00E5_01D19F13.12FD9A20
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><meta =
+http-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8"><meta =
+name=3DGenerator content=3D"Microsoft Word 15 (filtered =
+medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+h3
+	{mso-style-priority:9;
+	mso-style-link:"Heading 3 Char";
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	font-size:13.5pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+p
+	{mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.msonormal0, li.msonormal0, div.msonormal0
+	{mso-style-name:msonormal;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+span.Heading3Char
+	{mso-style-name:"Heading 3 Char";
+	mso-style-priority:9;
+	mso-style-link:"Heading 3";
+	font-family:"Calibri Light",sans-serif;
+	color:#1F4D78;}
+span.EmailStyle20
+	{mso-style-type:personal-reply;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US =
+link=3D"#0563C1" vlink=3D"#954F72"><div class=3DWordSection1><p =
+class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif'>Michael,<o:p>=
+</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif'><o:p>&nbsp;</=
+o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif'>Orlando is =
+currently being billed for 70% of the water usage. As of Friday, April =
+23<sup>rd</sup>, the separate meters have been installed and we will be =
+billing for actual usage going forward.<o:p></o:p></span></p><p =
+class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif'><o:p>&nbsp;</=
+o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif'>Regards,<o:p>=
+</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif'><o:p>&nbsp;</=
+o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif'>Trudy =
+Descarfino<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif'>Koenig =
+Management, Ltd<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif'><o:p>&nbsp;</=
+o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif'><o:p>&nbsp;</=
+o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif'><o:p>&nbsp;</=
+o:p></span></p><div><div style=3D'border:none;border-top:solid #E1E1E1 =
+1.0pt;padding:3.0pt 0in 0in 0in'><p class=3DMsoNormal><b><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif'>From:</span><=
+/b><span style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif'> =
+mike@thelaundromatguys.com [mailto:mike@thelaundromatguys.com] =
+<br><b>Sent:</b> Monday, April 25, 2016 9:55 AM<br><b>To:</b> =
+koenigmgmt@gmail.com<br><b>Subject:</b> EZ Wash =
+Newark<o:p></o:p></span></p></div></div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p><span =
+style=3D'font-size:10.5pt;font-family:"Arial",sans-serif'>Hello =
+Jeff,<br><br>Thank you for speaking with me the other day regarding the =
+sale of EZ Wash in Newark.&nbsp; Can you please provide me with the =
+percentage of the water bill that Orlando is currently paying and when =
+you expect to switch over to the submeters?&nbsp; There are a few =
+interested buyers, one in particular who I expect to make an offer as =
+soon as I can give him an idea of what his rent terms will be.&nbsp; =
+Here is a little backround on the buyer and what i see his plans are for =
+the laundromat:<br><br>- He is an attorney and a cash buyer.<br>- He =
+will be offering somewhere arounf $250-350k for the business.<br>- =
+Immediate expenses to get the laundromat where it needs to be will =
+include but not limited to replacing (18) 20lb washers which are =
+currently not working, repairing all out of order washers and dryers, =
+cleaning/painting, new counter area, replacing light fixtures with LEDs, =
+new signage inside and out, replacing ceiling tiles, etc.&nbsp; I =
+estimate the cost of the upfront work to be $125-$150k.<br>- The =
+remaining washers/dryers are 13+ years old and will need to be replaced =
+in the next 3-5 years depending on cost of repairs.&nbsp; This will be =
+inevitable as any equipment has a reasonable lifespan of 15-20 =
+years.&nbsp; Estimated cost of equipment alone will be in the $600-$700k =
+range.<br>- Any buyer investing this amount of money is going to need a =
+long term lease to protect their investment, as well as the equipment =
+comany requires it in order to obtain financing.<br>- After analyzing =
+the current net profit, including potential growth under new management =
+along with improvements both cosmetically and equipment, the total rent =
+for this store will need to be in the $7000-$8000 (total) range for it =
+to make sense for the new tenant and ensure long term success.&nbsp; =
+This would equate to approx. $21-$24 sq. ft. in year one.<br>- Most =
+investors will be looking for a minimum 10 year lease with 2 or 3 five =
+yr options.<br><br>Thank you for your time and please let me know your =
+thoughts asap as the buyer is anxious to move =
+forward.<br><br>Rergards,<o:p></o:p></span></p><div><h3><span =
+style=3D'font-family:"Arial",sans-serif;color:blue'>&nbsp;<o:p></o:p></sp=
+an></h3><div><div><p class=3DMsoNormal><span =
+style=3D'font-size:10.5pt;font-family:"Arial",sans-serif'>Michael =
+Settembre<o:p></o:p></span></p></div><div><p class=3DMsoNormal><span =
+style=3D'font-size:10.5pt;font-family:"Arial",sans-serif'>THE LAUNDROMAT =
+GUYS<o:p></o:p></span></p></div><div><p class=3DMsoNormal><span =
+style=3D'font-size:10.5pt;font-family:"Arial",sans-serif'>646-294-0491 =
+(cell)<o:p></o:p></span></p></div><div><p class=3DMsoNormal><span =
+style=3D'font-size:10.5pt;font-family:"Arial",sans-serif'>201-326-1060 =
+(office)<o:p></o:p></span></p></div><div><p class=3DMsoNormal><span =
+style=3D'font-size:10.5pt;font-family:"Arial",sans-serif'>201-326-1070 =
+(fax)<o:p></o:p></span></p></div></div><p class=3DMsoNormal><span =
+style=3D'font-size:10.5pt;font-family:"Arial",sans-serif'><o:p>&nbsp;</o:=
+p></span></p></div></div></body></html>
+------=_NextPart_000_00E5_01D19F13.12FD9A20--
+

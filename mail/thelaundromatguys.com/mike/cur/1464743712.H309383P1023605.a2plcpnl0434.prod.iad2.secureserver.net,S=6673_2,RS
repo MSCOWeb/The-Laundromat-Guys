@@ -1,0 +1,181 @@
+Return-path: <ojpapa@optonline.net>
+Envelope-to: mike@thelaundromatguys.com
+Delivery-date: Tue, 31 May 2016 18:15:12 -0700
+Received: from mta5.srv.hcvlny.cv.net ([167.206.4.200]:49040)
+	by a2plcpnl0434.prod.iad2.secureserver.net with esmtps (TLSv1.2:DHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.85_1)
+	(envelope-from <ojpapa@optonline.net>)
+	id 1b7uka-004IHa-7Z
+	for mike@thelaundromatguys.com; Tue, 31 May 2016 18:15:12 -0700
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=optonline.net;
+	s=dkim-001; t=1464743711;
+	bh=GP7SyAdccNJfPy+Qa4eXd7nExEmO1C19V6cxcJoSlq8=;
+	h=From:Subject:Message-Id:Date:To;
+	b=GR5k4CKR0W9QJ0UKqnaSCha0Tus9dTKdJ3crRBM6O2kXS5HvbUDCfFhyvBa0J4itU
+	 d/P4X3cJ7BX1VmWdlb18xP2eya3Sxq36OsmgEGxgFcOFHXsrdaSfIGfmlCyd58ahDG
+	 2PLcmF2bF4JNBVHiVPGD9vcSvolbB84S3/W0OEbjyhai304gEkcmbwbCh6Pk2fThb5
+	 2Ed7HUbx0rE0dgSho0pt9VsqLJe4oFNC7uYzozDN/8UVRj2TeXMcjfx7Brnqqd5Tfn
+	 atU4rBTEnjuvnmQZ8lox947tIy2pSZrV6YG/3sz7WnDr2jCZeznAj/wD5M5nSEek9A
+	 ZYer77BHPxcaA==
+Authentication-Results:  mta1.srv.hcvlny.cv.net smtp.user=ojpapa@optonline.net; auth=pass (LOGIN)
+X-Content-Analysis: v=2.1 cv=YsvyPNsX c=1 sm=1 tr=0 a=AfOW/zY+HsWP9/cqC8spww==:117 a=AfOW/zY+HsWP9/cqC8spww==:17 a=L9H7d07YOLsA:10 a=9cW_t1CCXrUA:10 a=s5jvgZ67dGcA:10 a=FksurZriAAAA:8 a=xRfjoxBpAAAA:8 a=laNkPgMLhrOFaExb2XIA:9 a=CjuIK1q_8ugA:10 a=IElf2ab8YEIA:10 a=0yHR6aPr2hUA:10 a=4nsCAS2xlR4A:10 a=uikGwI9bhLIA:10 a=rDZGPZdMh5k3HyHMu8wA:9 a=W7EHAt8C4zNAoBrh:21 a=QEXdDO2ut3YA:10 a=_W_S_7VecoQA:10 a=btBHrAeG74nsRHXE2QS4:22 a=4plUlNce3Gdv3FjnGo9M:22
+Received: from [66.87.65.8] ([66.87.65.8:10526] helo=[29.63.101.8])
+	by mta1.srv.hcvlny.cv.net (envelope-from <ojpapa@optonline.net>)
+	(ecelerity 3.6.9.48312 r(Core:3.6.9.0)) with ESMTPA
+	id 10/D5-22125-F173E475; Tue, 31 May 2016 21:15:11 -0400
+From: Orlando Papaleo <ojpapa@optonline.net>
+Content-Type: multipart/alternative;
+	boundary=Apple-Mail-9AD208A2-277D-43E1-9EB3-F29F339663C1
+Content-Transfer-Encoding: 7bit
+Mime-Version: 1.0 (1.0)
+Subject: Re: Letter of Intent
+Message-Id: <9FB93306-E48B-4C6A-ACC1-2660C714D76D@optonline.net>
+Date: Tue, 31 May 2016 18:15:09 -0700
+References: <20160525115103.Horde.LdiUdBo2YKv1sPewwN44MA9@a2plcpnl0434.prod.iad2.secureserver.net> <65FAE702-E258-4F8A-A30E-6FCCCE503621@optonline.net> <D31DC0AE-7470-459F-A7C6-A7DF0C074B08@thelaundromatguys.com> <3B53BEC6-703C-41C8-B787-76ECD97A5C62@optonline.net> <20160601005340.Horde.t2DoZiE7_l-qn4LHrHYq1w7@a2plcpnl0434.prod.iad2.secureserver.net>
+In-Reply-To: <20160601005340.Horde.t2DoZiE7_l-qn4LHrHYq1w7@a2plcpnl0434.prod.iad2.secureserver.net>
+To: mike@thelaundromatguys.com
+X-Mailer: iPhone Mail (13F69)
+
+
+--Apple-Mail-9AD208A2-277D-43E1-9EB3-F29F339663C1
+Content-Type: text/plain;
+	charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+I need his contact information. Thanks=20
+
+Orlando J. Papaleo
+917-417-0789
+
+> On May 31, 2016, at 5:53 PM, mike@thelaundromatguys.com wrote:
+>=20
+> Here is the signed LOI.  He is an attorney and is handeling himself.
+>=20
+> Quoting Orlando Papaleo <ojpapa@optonline.net>:
+>=20
+>> Please send me the signed copy and his attorney information. Thanks
+>>=20
+>> Orlando J. Papaleo
+>> 917-417-0789
+>>=20
+>>> On May 31, 2016, at 5:42 AM, Michael Settembre <mike@thelaundromatguys.c=
+om> wrote:
+>>> =20
+>>> Yes, are you having the contract drawn up or should I do it?  He is alre=
+ady calling me for it.=20
+>>>=20
+>>> Sent from my iPhone
+>>>=20
+>>>> On May 30, 2016, at 8:14 PM, Orlando Papaleo <ojpapa@optonline.net> wro=
+te:
+>>>> =20
+>>>> Did the buyer sign this yet? I am in San Diego returning this Friday.
+>>>>=20
+>>>> Orlando J. Papaleo
+>>>> 917-417-0789
+>>>>=20
+>>>>> On May 25, 2016, at 7:51 AM, mike@thelaundromatguys.com wrote:
+>>>>> =20
+>>>>> Please review
+>>>>>=20
+>>>>> =20
+>>>>>=20
+>>>>> Michael Settembre
+>>>>> THE LAUNDROMAT GUYS
+>>>>> 646-294-0491 (cell)
+>>>>> 201-326-1060 (office)
+>>>>> 201-326-1070 (fax)
+>>>>> <EZ Wash Letter of Intent.docx>
+>=20
+>=20
+> =20
+>=20
+> Michael Settembre
+> THE LAUNDROMAT GUYS
+> 646-294-0491 (cell)
+> 201-326-1060 (office)
+> 201-326-1070 (fax)
+>=20
+> <LOI.EZWASH.pdf>
+
+--Apple-Mail-9AD208A2-277D-43E1-9EB3-F29F339663C1
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<html><head><meta http-equiv="content-type" content="text/html; charset=utf-8"></head><body dir="auto"><div>I need his contact information. Thanks&nbsp;<br><br>Orlando J. Papaleo<div>917-417-0789</div></div><div><br>On May 31, 2016, at 5:53 PM, <a href="mailto:mike@thelaundromatguys.com">mike@thelaundromatguys.com</a> wrote:<br><br></div><blockquote type="cite"><div>
+
+
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<title></title>
+
+
+<p>Here is the signed LOI.&nbsp; He is an attorney and is handeling himself.<br>
+<br>
+Quoting Orlando Papaleo &lt;<a href="mailto:ojpapa@optonline.net">ojpapa@optonline.net</a>&gt;:</p>
+<blockquote style="border-left:2px solid blue;margin-left:2px;padding-left:12px;" type="cite">
+<div>Please send me the signed copy and his attorney information. Thanks<br>
+<br>
+Orlando J. Papaleo
+<div>917-417-0789</div>
+</div>
+<div><br>
+On May 31, 2016, at 5:42 AM, Michael Settembre &lt;<a href="mailto:mike@thelaundromatguys.com">mike@thelaundromatguys.com</a>&gt; wrote:<br>
+&nbsp;</div>
+<blockquote type="cite">
+<div>
+<div>Yes, are you having the contract drawn up or should I do it? &nbsp;He is already calling me for it.&nbsp;<br>
+<br>
+Sent from my iPhone</div>
+<div><br>
+On May 30, 2016, at 8:14 PM, Orlando Papaleo &lt;<a href="mailto:ojpapa@optonline.net">ojpapa@optonline.net</a>&gt; wrote:<br>
+&nbsp;</div>
+<blockquote type="cite">
+<div>
+<div>Did the buyer sign this yet? I am in San Diego returning this Friday.<br>
+<br>
+Orlando J. Papaleo
+<div>917-417-0789</div>
+</div>
+<div><br>
+On May 25, 2016, at 7:51 AM, <a href="mailto:mike@thelaundromatguys.com">mike@thelaundromatguys.com</a> wrote:<br>
+&nbsp;</div>
+<blockquote type="cite">
+<div>
+<p>Please review</p>
+<div>
+<h3 style="color:blue;">&nbsp;</h3>
+<div>
+<div>Michael Settembre</div>
+<div>THE LAUNDROMAT GUYS</div>
+<div>646-294-0491 (cell)</div>
+<div>201-326-1060 (office)</div>
+<div>201-326-1070 (fax)</div>
+</div>
+</div>
+</div>
+</blockquote>
+<blockquote type="cite">
+<div>&lt;EZ Wash Letter of Intent.docx&gt;</div>
+</blockquote>
+</div>
+</blockquote>
+</div>
+</blockquote>
+</blockquote>
+<p><br>
+<br></p>
+<div>
+<h3 style="color:blue;">&nbsp;</h3>
+<div>
+<div>Michael Settembre</div>
+<div>THE LAUNDROMAT GUYS</div>
+<div>646-294-0491 (cell)</div>
+<div>201-326-1060 (office)</div>
+<div>201-326-1070 (fax)</div>
+</div>
+<br></div>
+
+
+</div></blockquote><blockquote type="cite"><div>&lt;LOI.EZWASH.pdf&gt;</div></blockquote></body></html>
+--Apple-Mail-9AD208A2-277D-43E1-9EB3-F29F339663C1--

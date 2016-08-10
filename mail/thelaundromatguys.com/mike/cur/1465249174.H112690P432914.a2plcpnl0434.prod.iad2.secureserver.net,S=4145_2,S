@@ -1,0 +1,67 @@
+Return-path: <aperretti@comcast.net>
+Envelope-to: mike@thelaundromatguys.com
+Delivery-date: Mon, 06 Jun 2016 14:39:34 -0700
+Received: from resqmta-po-05v.sys.comcast.net ([96.114.154.164]:49780)
+	by a2plcpnl0434.prod.iad2.secureserver.net with esmtps (TLSv1.2:DHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.85_1)
+	(envelope-from <aperretti@comcast.net>)
+	id 1bA2FB-001ocG-W8
+	for mike@thelaundromatguys.com; Mon, 06 Jun 2016 14:39:34 -0700
+Received: from resomta-po-12v.sys.comcast.net ([96.114.154.236])
+	by comcast with SMTP
+	id A2FBbai9VmXdbA2FBbn8Yt; Mon, 06 Jun 2016 21:39:33 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=comcast.net;
+	s=q20140121; t=1465249173;
+	bh=Xjmx8urBcrZkml5k60I6xyYh/WhUXfwUm8YLlzAagQI=;
+	h=Received:Received:Date:Subject:From:To:MIME-Version:Content-Type;
+	b=TnXk4pLNTB8RqdLzjDl10d4jhn7sCPT+epfzVmF2b1QkcZWaxK6KSVW07rziKm/tg
+	 P+N4T+2ldHcWuvTNmMgQJrBbi1CqQG4KddxuX3eMR+JsUWWQZ1YELe4ldvUDMICJU9
+	 S50tacXNLzGO11kVLOtuOCmXA9WfZiwihWEzGhcxJz+2xF6hYlPs2ksxyN/VShBeyl
+	 sUDyaclVSotGJcuNPEGgSYLyCXv0AacyC3wRXC4hv+xkjjlksL/7CVQdUGGknOkuJR
+	 /8pb78FiLqMuh1vGpu7WZovrepBwlYzCJudkLAgrUMtKuWThfthXg1ddhzSLMoM4Nc
+	 4tTynlQecyRrg==
+Received: from [IPv6:2600:1001:b00a:c4ad:f13d:df62:1ec0:4826] ([IPv6:2600:1001:b00a:c4ad:f13d:df62:1ec0:4826])
+	by resomta-po-12v.sys.comcast.net with comcast
+	id 3ZfM1t00F00SyfR01ZfSVQ; Mon, 06 Jun 2016 21:39:31 +0000
+Date: Mon, 06 Jun 2016 17:40:08 -0400
+Subject: Re: Laundromat
+From: aperretti <aperretti@comcast.net>
+To: Michael Settembre <mike@thelaundromatguys.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: base64
+
+PGh0bWw+TWlrZSB3b3VsZCAxLDUwMC4wMCBiZSBPSyBhcyBhIHJldGFpbmVyIHRvIGdldCBtZSBz
+dGFydGVkPGJyPjxicj5TZW50IGZyb20gbXkgVmVyaXpvbiA0RyBMVEUgU21hcnRwaG9uZTwvaHRt
+bD48ZGl2IGNsYXNzPSJxdW90ZSI+T24gSnVuIDMsIDIwMTYgODoyMCBQTSwgTWljaGFlbCBTZXR0
+ZW1icmUgJmx0O21pa2VAdGhlbGF1bmRyb21hdGd1eXMuY29tJmd0OyB3cm90ZTo8YnIgdHlwZT0n
+YXR0cmlidXRpb24nPjxibG9ja3F1b3RlIGNsYXNzPSJxdW90ZSIgc3R5bGU9Im1hcmdpbjowIDAg
+MCAuOGV4O2JvcmRlci1sZWZ0OjFweCAjY2NjIHNvbGlkO3BhZGRpbmctbGVmdDoxZXgiPjxodG1s
+PjxoZWFkPjxtZXRhIGh0dHAtZXF1aXY9ImNvbnRlbnQtdHlwZSIgY29udGVudD0idGV4dC9odG1s
+OyBjaGFyc2V0PXV0Zi04Ij48L2hlYWQ+PGJvZHkgZGlyPSJhdXRvIj48ZGl2Pkkgd2lsbCBjYWxs
+IG15IHNlcnZpY2UgZ3V5IGFuZCBmaW5kIG91dC4gSGUgd2lsbCBrbm93IGJlY2F1c2UgaGUgc2Vy
+dmljZXMgaGlzIG1hY2hpbmVzLjxicj48YnI+U2VudCBmcm9tIG15IGlQaG9uZTwvZGl2PjxkaXY+
+PGJyPk9uIEp1biAzLCAyMDE2LCBhdCA4OjA1IFBNLCBhcGVycmV0dGkgJmx0OzxhIGhyZWY9Im1h
+aWx0bzphcGVycmV0dGlAY29tY2FzdC5uZXQiPmFwZXJyZXR0aUBjb21jYXN0Lm5ldDwvYT4mZ3Q7
+IHdyb3RlOjxicj48YnI+PC9kaXY+PGJsb2NrcXVvdGUgdHlwZT0iY2l0ZSI+PGRpdj48bWV0YSBo
+dHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRleHQvaHRtbDsgY2hhcnNldD1VVEYt
+OCI+DQogICAgDQo8ZGl2PlNwb2tlIHdpdGggSm9zZSBhZ2Fpbi4gJm5ic3A7IFNheXMgcmVidWls
+dCB3YXNoZXJzIGFsc288L2Rpdj48ZGl2Pjxicj48L2Rpdj48ZGl2Pjxicj48L2Rpdj48ZGl2Pjxi
+cj48L2Rpdj48ZGl2IGlkPSJjb21wb3Nlcl9zaWduYXR1cmUiPjxkaXYgc3R5bGU9ImZvbnQtc2l6
+ZTo4NSU7Y29sb3I6IzU3NTc1NyI+U2VudCBmcm9tIG15IFZlcml6b24gV2lyZWxlc3MgNEcgTFRF
+IHNtYXJ0cGhvbmU8L2Rpdj48L2Rpdj48YnI+PGJyPi0tLS0tLS0tIE9yaWdpbmFsIG1lc3NhZ2Ug
+LS0tLS0tLS08YnI+RnJvbTogPGEgaHJlZj0ibWFpbHRvOm1pa2VAdGhlbGF1bmRyb21hdGd1eXMu
+Y29tIj5taWtlQHRoZWxhdW5kcm9tYXRndXlzLmNvbTwvYT4gPGJyPkRhdGU6IDA2LzAzLzIwMTYg
+IDQ6MDMgUE0gIChHTVQtMDU6MDApIDxicj5UbzogPGEgaHJlZj0ibWFpbHRvOmFwZXJyZXR0aUBj
+b21jYXN0Lm5ldCI+YXBlcnJldHRpQGNvbWNhc3QubmV0PC9hPiA8YnI+U3ViamVjdDogTGF1bmRy
+b21hdCA8YnI+PGJyPg0KPHA+SGV5IEFudGhvbnksPGJyPg0KPGJyPg0KQXR0YWNoZWQgaXMgb3Vy
+IHF1ZXN0aW9ubmFpcmUgYW5kIHByb3Bvc2FsIHRoYXQgd2Ugc3Bva2UgYWJvdXQuJm5ic3A7IFBs
+ZWFzZSByZXZpZXcgdGhlbSBhbmQgZmVlbCBmcmVlIHRvIGNhbGwgbWUgd2l0aCBhbnkgb3RoZXIg
+cXVlc3Rpb25zLiZuYnNwOyBJIGxvb2sgZm9yd2FyZCB0byBob3BlZnVsbHkgaGVscGluZyB5b3Ug
+YWxvbmcgdGhpcyBwcm9jZXNzLjxicj4NCjxicj4NClJlZ2FyZHMsPC9wPg0KPGRpdj4NCjxoMyBz
+dHlsZT0iY29sb3I6Ymx1ZTsiPiZuYnNwOzwvaDM+DQo8ZGl2Pg0KPGRpdj5NaWNoYWVsIFNldHRl
+bWJyZTwvZGl2Pg0KPGRpdj5USEUgTEFVTkRST01BVCBHVVlTPC9kaXY+DQo8ZGl2PjY0Ni0yOTQt
+MDQ5MSAoY2VsbCk8L2Rpdj4NCjxkaXY+MjAxLTMyNi0xMDYwIChvZmZpY2UpPC9kaXY+DQo8ZGl2
+PjIwMS0zMjYtMTA3MCAoZmF4KTwvZGl2Pg0KPC9kaXY+DQo8YnI+PC9kaXY+DQo8L2Rpdj48L2Js
+b2NrcXVvdGU+PC9ib2R5PjwvaHRtbD48L2Jsb2NrcXVvdGU+PC9kaXY+
+

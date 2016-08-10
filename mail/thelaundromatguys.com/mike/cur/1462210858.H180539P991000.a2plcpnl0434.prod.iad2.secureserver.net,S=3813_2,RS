@@ -1,0 +1,101 @@
+Return-path: <migs1275@aol.com>
+Envelope-to: mike@thelaundromatguys.com
+Delivery-date: Mon, 02 May 2016 10:40:58 -0700
+Received: from omr-a018e.mx.aol.com ([204.29.186.64]:59419)
+	by a2plcpnl0434.prod.iad2.secureserver.net with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.85_1)
+	(envelope-from <migs1275@aol.com>)
+	id 1axHq6-0049nk-3V
+	for mike@thelaundromatguys.com; Mon, 02 May 2016 10:40:58 -0700
+Received: from mtaout-aaf01.mx.aol.com (mtaout-aaf01.mx.aol.com [172.26.127.97])
+	by omr-a018e.mx.aol.com (Outbound Mail Relay) with ESMTP id 74CB53800070
+	for <mike@thelaundromatguys.com>; Mon,  2 May 2016 13:40:55 -0400 (EDT)
+Received: from [100.92.51.74] (103.sub-70-208-68.myvzw.com [70.208.68.103])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by mtaout-aaf01.mx.aol.com (MUA/Third Party Client Interface) with ESMTPSA id 20C843800008F
+	for <mike@thelaundromatguys.com>; Mon,  2 May 2016 13:40:55 -0400 (EDT)
+From: Miguel Kuan <migs1275@aol.com>
+Content-Type: multipart/alternative;
+	boundary=Apple-Mail-CB1DFD26-3A6E-4F4D-A649-BC038B41F6D6
+Content-Transfer-Encoding: 7bit
+Mime-Version: 1.0 (1.0)
+Subject: Re: Laundromat
+Message-Id: <48E4498F-4186-4062-8A89-01AA9219F504@aol.com>
+Date: Mon, 2 May 2016 13:40:53 -0400
+References: <20160502172639.Horde.6bX2uKyKGczCkBxfyH5u6g2@a2plcpnl0434.prod.iad2.secureserver.net>
+In-Reply-To: <20160502172639.Horde.6bX2uKyKGczCkBxfyH5u6g2@a2plcpnl0434.prod.iad2.secureserver.net>
+To: mike@thelaundromatguys.com
+X-Mailer: iPhone Mail (13D15)
+x-aol-global-disposition: G
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mx.aol.com;
+	s=20150623; t=1462210855;
+	bh=tlt6p0M2CnWMp2zGuyom0ejmvwyJ2MhikqdlxgE1eN4=;
+	h=From:To:Subject:Message-Id:Date:Mime-Version:Content-Type;
+	b=PTxQoFv9w71DdGN0VmddLNv4uD6XTmGcU1sX1sYM0T4/fNMDIs/g/6R/E24JUt5z5
+	 Cbk218Sov/reMWTkXLU566FwPGM82bfL+imfjxQWMZisb0pl8TN3i6V5tuH/MEzpfd
+	 SzMjOvNIvJIMjhxERKDUJGU+7ZcWPZmzm4PvDI/Y=
+x-aol-sid: 3039ac1a7f61572791276ff4
+X-AOL-IP: 70.208.68.103
+
+
+--Apple-Mail-CB1DFD26-3A6E-4F4D-A649-BC038B41F6D6
+Content-Type: text/plain;
+	charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+Hey Mike=20
+
+Its 1711 park south plainfield nj , please don't go there without notifying m=
+e=20
+
+Sent from my iPhone
+
+> On May 2, 2016, at 1:26 PM, mike@thelaundromatguys.com wrote:
+>=20
+> Hey Miguel,
+>=20
+> It was a pleasure speaking with you earlier.  Please send me the adress of=
+ the location and I will be in contact with you soon.
+>=20
+> Regards,
+>=20
+> =20
+>=20
+> Michael Settembre
+> THE LAUNDROMAT GUYS
+> 646-294-0491 (cell)
+> 201-326-1060 (office)
+> 201-326-1070 (fax)
+>=20
+
+--Apple-Mail-CB1DFD26-3A6E-4F4D-A649-BC038B41F6D6
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<html><head><meta http-equiv="content-type" content="text/html; charset=utf-8"></head><body dir="auto"><div>Hey Mike&nbsp;</div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature">Its 1711 park south plainfield nj , please don't go there without notifying me&nbsp;<br><br>Sent from my iPhone</div><div><br>On May 2, 2016, at 1:26 PM, <a href="mailto:mike@thelaundromatguys.com">mike@thelaundromatguys.com</a> wrote:<br><br></div><blockquote type="cite"><div>
+
+
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<title></title>
+
+
+<p>Hey Miguel,<br>
+<br>
+It was a pleasure speaking with you earlier.&nbsp; Please send me the adress of the location and I will be in contact with you soon.<br>
+<br>
+Regards,</p>
+<div>
+<h3 style="color:blue;">&nbsp;</h3>
+<div>
+<div>Michael Settembre</div>
+<div>THE LAUNDROMAT GUYS</div>
+<div>646-294-0491 (cell)</div>
+<div>201-326-1060 (office)</div>
+<div>201-326-1070 (fax)</div>
+</div>
+<br></div>
+
+</div></blockquote></body></html>
+--Apple-Mail-CB1DFD26-3A6E-4F4D-A649-BC038B41F6D6--

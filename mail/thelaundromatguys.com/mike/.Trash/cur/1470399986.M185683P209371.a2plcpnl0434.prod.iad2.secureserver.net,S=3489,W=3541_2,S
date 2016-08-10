@@ -1,0 +1,52 @@
+Return-path: <msettemb@yahoo.com>
+Envelope-to: mike@thelaundromatguys.com
+Delivery-date: Fri, 05 Aug 2016 05:24:22 -0700
+Received: from nm11-vm1.bullet.mail.bf1.yahoo.com ([98.139.213.152]:51272)
+	by a2plcpnl0434.prod.iad2.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <msettemb@yahoo.com>)
+	id 1bVeAo-000rEE-Hv
+	for mike@thelaundromatguys.com; Fri, 05 Aug 2016 05:24:22 -0700
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1470399822; bh=rraZy5pM/W2mQssdrFIxlFFJYTRSKaZJ2OUEod2wxWA=; h=Date:From:Reply-To:To:Subject:References:From:Subject; b=pZQHqs8UuAsC6m5J6BIsfnikd07PWWF+dvBYSJHvviGYM5mm2KJftWlLXbpxskEi6E0E0ju5EqXAm0TjrjusCUzs5S80XkARKXKni01iZvUTWmfwqfsPpS6E9t5I2d/C2n7JMeFye7gd71PbIFIGUcqjMaIw832kONNFJT81Ug/5ySQ8jToZRM1tQnyrRTxKvw//F8vRkVTKCJyzTOa9tPOix4lLIBTzuy6SImNR3paaYKQ0lgk+9fVCX7woTet8kncMEQbgkQlKU+H2X0vf8dyoyTKp4mV/0+xTq2aDjv9FNWOu8+P08IRHXPNOgPpFNBFz+ea+qjg5NfZLeBgwKQ==
+Received: from [98.139.215.140] by nm11.bullet.mail.bf1.yahoo.com with NNFMP; 05 Aug 2016 12:23:42 -0000
+Received: from [98.139.212.233] by tm11.bullet.mail.bf1.yahoo.com with NNFMP; 05 Aug 2016 12:23:42 -0000
+Received: from [127.0.0.1] by omp1042.mail.bf1.yahoo.com with NNFMP; 05 Aug 2016 12:23:42 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 172645.24622.bm@omp1042.mail.bf1.yahoo.com
+X-YMail-OSG: 2qOLFD4VM1lzL4W8NNoujE65zC8.TV7dNsLg2hNmsF6EaHe7dJD0XoxxZ6AVVGm
+ H4MHtSmV6HuEnUUBgsr76sLf_l8jm0ZVHrxCwfcSY8D7xRpwM__naqH9M.8MQhj0U2.tErmTuSCy
+ fG9NZrNTMii2Vhu_WTt_SQCqUhvdM1SEpvtuU5f4p8k5H0GxcZwn_5eebVkzc1SQBweFjJsO1YLj
+ dkkbTb9aW5SVxVf4KYmMUYvOMg1sTfijUTAbSGwZGRs66cUthA_KP7bhOhyzeQOwGnzXSi1S98KT
+ VQj1GC8j7eyQyCG4gmlj.bSA2BFDcw.mdoVo5vB8DCPmMGMY0_w7KJcLyk3WeRAezfCjEEskYP5X
+ H352.QSY4XpPoDG5IDCzHW6xwYxKXEiDdu48mF1eY8ngyWAZxnot42QNbv4CkAXKaYrlPR_xCdiF
+ I0Tjph6.5nv19D9wOcPP_EUvP46U56MI43wF3xcJwjp2CsXT9YIK_G.Gw8mMOOSV0RZcfqlF8Vjq
+ AJh7I9vWMORN3X4TVezILgg--
+Received: from jws106108.mail.bf1.yahoo.com by sendmailws170.mail.bf1.yahoo.com; Fri, 05 Aug 2016 12:23:41 +0000; 1470399821.794
+Date: Fri, 5 Aug 2016 12:23:41 +0000 (UTC)
+From: Michael Settembre <msettemb@yahoo.com>
+Reply-To: Michael Settembre <msettemb@yahoo.com>
+To: Michael Settembre <mike@thelaundromatguys.com>
+Message-ID: <1754507201.11491624.1470399821549.JavaMail.yahoo@mail.yahoo.com>
+Subject: TEST
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_11491623_1140948918.1470399821547"
+References: <1754507201.11491624.1470399821549.JavaMail.yahoo.ref@mail.yahoo.com>
+Content-Length: 917
+
+------=_Part_11491623_1140948918.1470399821547
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=C2=A0Michael Settembre
+The Laundromat Guys, Inc
+EFR, Inc.
+646-294-0491 (cell)
+201-326-1060 (office)
+201-326-1070 (fax)
+------=_Part_11491623_1140948918.1470399821547
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html><head></head><body><div style="color:#000; background-color:#fff; font-family:HelveticaNeue-Light, Helvetica Neue Light, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif;font-size:16px"><div><span></span></div><div>&nbsp;</div><div class="signature"><span style="background-color:rgb(255, 255, 255);font-size:medium;">Michael Settembre</span><br>The Laundromat Guys, Inc<br>EFR, Inc.<br>646-294-0491 (cell)<br>201-326-1060 (office)<br>201-326-1070 (fax)</div></div></body></html>
+------=_Part_11491623_1140948918.1470399821547--

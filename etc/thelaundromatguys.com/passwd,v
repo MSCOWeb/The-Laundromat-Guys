@@ -1,0 +1,69 @@
+head	1.4;
+access;
+symbols;
+locks
+	laundromatguys:1.4; strict;
+comment	@# @;
+
+
+1.4
+date	2016.02.15.12.17.50;	author laundromatguys;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2016.02.15.12.16.52;	author laundromatguys;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2015.11.20.19.22.42;	author laundromatguys;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2015.11.20.19.22.42;	author laundromatguys;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.4
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@mike:x:1991422:1991422::/home/laundromatguys/mail/thelaundromatguys.com/mike:/home/laundromatguys
+rob:x:1991422:1991422::/home/laundromatguys/mail/thelaundromatguys.com/rob:/home/laundromatguys
+admin:x:1991422:1991422::/home/laundromatguys/mail/thelaundromatguys.com/admin:/home/laundromatguys
+@
+
+
+1.3
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d3 1
+@
+
+
+1.2
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d2 1
+@
+
+
+1.1
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d1 1
+@

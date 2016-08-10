@@ -1,0 +1,113 @@
+Return-path: <hsalomon50@gmail.com>
+Envelope-to: mike@thelaundromatguys.com
+Delivery-date: Tue, 19 Apr 2016 10:52:44 -0700
+Received: from mail-ig0-f171.google.com ([209.85.213.171]:35940)
+	by a2plcpnl0434.prod.iad2.secureserver.net with esmtps (TLSv1.2:AES128-GCM-SHA256:128)
+	(Exim 4.85_1)
+	(envelope-from <hsalomon50@gmail.com>)
+	id 1asZpM-002Id4-6g
+	for mike@thelaundromatguys.com; Tue, 19 Apr 2016 10:52:44 -0700
+Received: by mail-ig0-f171.google.com with SMTP id f1so106499202igr.1
+        for <mike@thelaundromatguys.com>; Tue, 19 Apr 2016 10:52:43 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=subject:references:from:in-reply-to:message-id:date:to
+         :content-transfer-encoding:mime-version;
+        bh=jqPyvLSMUzWJ0LxDOD16WPLHFIuhnnk828mbqli8GUM=;
+        b=CFxBPMHRoBnNygtjxDqR2Qnux8f1EbBqbg6wKyVl4zqb7TbSuvl1Ova3Yi8HFr7MrK
+         jwabxQ+fiBEK4y7rCe61wUf4I275xn+7LpsqayXuY6xHCQ5bZfaG22PefD1+mDZVJS/O
+         RaTPuwEASozsl02EkDvnS8YiI7CznaxYjN8uvENpj0LArG3VIDBi/BmdBJFp45iiUxHM
+         XQngkpQPOpEspj3aZWztDIxYqC8YWMjCgnzg4Hvk9XsR94/0vJ3wHWX2bLfxtRqTjj7v
+         tU3aMmgefbB42lgQns6rg3KvD7Wj68ll51nkNK2Sbw7A0Bq3bEawQuwem7iS7Y7Qo4DA
+         iv7w==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:subject:references:from:in-reply-to:message-id
+         :date:to:content-transfer-encoding:mime-version;
+        bh=jqPyvLSMUzWJ0LxDOD16WPLHFIuhnnk828mbqli8GUM=;
+        b=FF+avCr+CdebMh2yH4NKVFYYoXBkR5OUDFX1rEyZ3XU4tEasccK3f8RdFohHPuhYKz
+         ffMWgG4/R5vfLnbab8rLYvfVWgkPpnBEnY1knIf2dXzXIxJTZY29/luRM4bGFdxSAu/V
+         KLJnarkYB913jEgtHeF55StwSUiZexFaEYogZ/TQ8nKASc+A2w+o/8cac5s6iar+OBM6
+         FmciEVVWu+p5w7e/4aHjp0vHwg04AVMzMA6Kqr2FYEjWDOW2dgnutwVFd3KOfDZlkhC1
+         fGHymSyrbGnWwdKU60Of4nLOoYCbNfeGLkX9+6h+Zwy7QA4JH4bN807WqbIeK1BE9TUi
+         Umfw==
+X-Gm-Message-State: AOPr4FVYYNpXv6g7gMzlSH+s2T2hFlOqAJSBSGxVdFedjz2yen1gjAWOuXOAdrmGVZ+b1g==
+X-Received: by 10.50.8.97 with SMTP id q1mr5366872iga.26.1461088363487;
+        Tue, 19 Apr 2016 10:52:43 -0700 (PDT)
+Received: from [100.106.238.236] (39.sub-70-192-68.myvzw.com. [70.192.68.39])
+        by smtp.gmail.com with ESMTPSA id s71sm633768ioe.34.2016.04.19.10.52.42
+        for <mike@thelaundromatguys.com>
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Tue, 19 Apr 2016 10:52:42 -0700 (PDT)
+Subject: Re: Sell Your Laundromat
+References: <20160419150110.Horde.3Ppgss9MHFQjX56zIcMR3Q1@a2plcpnl0434.prod.iad2.secureserver.net>
+From: Hendrick Salomon <hsalomon50@gmail.com>
+Content-Type: multipart/alternative;
+	boundary=Apple-Mail-F19618AC-A7B0-42AA-A3D5-76F37D68E981
+X-Mailer: iPhone Mail (12F70)
+In-Reply-To: <20160419150110.Horde.3Ppgss9MHFQjX56zIcMR3Q1@a2plcpnl0434.prod.iad2.secureserver.net>
+Message-Id: <7925BB32-CB0D-4A4D-9E2D-300ED900155B@gmail.com>
+Date: Tue, 19 Apr 2016 13:52:36 -0400
+To: "mike@thelaundromatguys.com" <mike@thelaundromatguys.com>
+Content-Transfer-Encoding: 7bit
+Mime-Version: 1.0 (1.0)
+
+
+--Apple-Mail-F19618AC-A7B0-42AA-A3D5-76F37D68E981
+Content-Type: text/plain;
+	charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+My number is 7323939274
+
+Sent from my iPhone
+
+> On Apr 19, 2016, at 11:01 AM, mike@thelaundromatguys.com wrote:
+>=20
+> Hello Hendrick,
+>=20
+> Thank you for visiting our website yesterday.  Please call me at your conv=
+enience to discuss how we can help you find the right buyer for your laumdro=
+mat.  I look forward to hearing from you.
+>=20
+> Regards,
+>=20
+> =20
+>=20
+> Michael Settembre
+> THE LAUNDROMAT GUYS
+> 646-294-0491 (cell)
+> 201-326-1060 (office)
+> 201-326-1070 (fax)
+>=20
+
+--Apple-Mail-F19618AC-A7B0-42AA-A3D5-76F37D68E981
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<html><head><meta http-equiv="content-type" content="text/html; charset=utf-8"></head><body dir="auto"><div>My number is 7323939274<br><br>Sent from my iPhone</div><div><br>On Apr 19, 2016, at 11:01 AM, <a href="mailto:mike@thelaundromatguys.com">mike@thelaundromatguys.com</a> wrote:<br><br></div><blockquote type="cite"><div>
+
+
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<title></title>
+
+
+<p>Hello Hendrick,<br>
+<br>
+Thank you for visiting our website yesterday.&nbsp; Please call me at your convenience to discuss how we can help you find the right buyer for your laumdromat.&nbsp; I look forward to hearing from you.<br>
+<br>
+Regards,</p>
+<div>
+<h3 style="color:blue;">&nbsp;</h3>
+<div>
+<div>Michael Settembre</div>
+<div>THE LAUNDROMAT GUYS</div>
+<div>646-294-0491 (cell)</div>
+<div>201-326-1060 (office)</div>
+<div>201-326-1070 (fax)</div>
+</div>
+<br></div>
+
+</div></blockquote></body></html>
+--Apple-Mail-F19618AC-A7B0-42AA-A3D5-76F37D68E981--

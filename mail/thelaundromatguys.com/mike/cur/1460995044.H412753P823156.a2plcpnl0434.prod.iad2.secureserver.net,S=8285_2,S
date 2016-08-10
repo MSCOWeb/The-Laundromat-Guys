@@ -1,0 +1,99 @@
+Return-path: <bounces+1888928-b916-mike=thelaundromatguys.com@sendgrid.net>
+Envelope-to: mike@thelaundromatguys.com
+Delivery-date: Mon, 18 Apr 2016 08:57:24 -0700
+Received: from o10.email.inmomentfeedback.com ([198.37.159.14]:31297)
+	by a2plcpnl0434.prod.iad2.secureserver.net with esmtps (TLSv1.2:DHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.85_1)
+	(envelope-from <bounces+1888928-b916-mike=thelaundromatguys.com@sendgrid.net>)
+	id 1asBYC-003S7u-99
+	for mike@thelaundromatguys.com; Mon, 18 Apr 2016 08:57:24 -0700
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=sendgrid.me; 
+	h=from:reply-to:to:subject:mime-version:content-type:content-transfer-encoding; 
+	s=smtpapi; bh=QdOlkrQWmbYrNGc7HrPpOZdO4Vo=; b=f3g6ySxTm+yRhaFmKZ
+	qDqRNOcl7O/vfpstnxDslEBpwxYLFEwm5ihIoPY3WKrSDBbOPt5Rr4Amg0dPEFP6
+	bSmlZi22hGRszhk8BeZdYm4L0An9G/aXoUT7r+v4yrgvjgv87Hgtb6bMvIg/lWLO
+	hRApMO4sOBA3+st6RuF5ZxVMc=
+Received: by filter0099p1las1.sendgrid.net with SMTP id filter0099p1las1.7172.571503B65
+        2016-04-18 15:56:38.168032831 +0000 UTC
+Received: from PUTTC05 (connect.mshare.net [166.70.136.2])
+	by ismtpd0013p1las1.sendgrid.net (SG) with ESMTP id _w7TFOo1S6qxDvtTyTGjjA
+	for <mike@thelaundromatguys.com>; Mon, 18 Apr 2016 15:56:38.160 +0000 (UTC)
+Date: Mon, 18 Apr 2016 09:56:38 -0600 (MDT)
+From: Vonage <vonagesurvey@inmoment.com>
+Reply-To: support@mshare.net
+To: mike@thelaundromatguys.com
+Message-ID: <842324251.1018731460994998138.JavaMail.root@PUTTC05>
+Subject: Reminder: Vonage - Your Feedback is Important to Us
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+X-Mailer: InMoment
+X-SG-EID: VWr/TZ6oFmioOpx7dV/5MTFgBYMpTRZKr/tATnzH++Ekea0+FDOyuTd8JkWSg/zgCTE15sKGzlK5YN
+ h7KxcysZyubCz/3DaeL2KVDtDGz+xnbM/U5o4h4xm61zx103Ph00YJfahHEG6wJjY32Wlv1jhfJXbf
+ YcsM6Q+7MUapqDpavTxU8yLfPtW2A/jDo3FiaW1WxqoWhBchnp82xPHoBrjNO2AgEdGS1hja5b4vOE
+ U=
+X-SG-ID: RQi/C7WYYz6g08C0kHaFkGusVskNxJYRKU2XCXyQfJI=
+
+<table style="margin: 15px 15px 15px 15px;">
+    <tbody>
+        <tr>
+            <td>
+            <table bgcolor="#3A2A7D" style="table-layout: fixed; width: 600px; font-family: Calibri, Helvetica, Arial, Sans-serif; border: 1px; border-style: solid; border-color: #3A2A7D; border-radius: 15px 15px 0 0; -moz-border-radius: 15px 15px 0 0;">
+                <tbody>
+                    <tr>
+                        <td id="screenshot_image" colspan="2" align="center" style="color: #fff; font-weight: bold; font-size: 22px; height: 45px; color: #fff;">How can we serve you better?<br />
+                        Please complete our survey.</td>
+                    </tr>
+                </tbody>
+            </table>
+            <table style="font-family: Calibri, Helvetica, Arial, Sans-serif; width: 600px; padding: 0; margin: 0; border: 2px; border-style: solid; border-color: transparent #3A2A7D #3A2A7D #3A2A7D; border-radius: 0 0 15px 15px; -moz-border-radius: 0 0 15px 15px;">
+                <tbody>
+                    <tr>
+                        <td colspan="2" style="padding: 30px 0 18px 15px;">
+                        <h4>Dear Michael Settembre,</h4>
+                        </td>
+                    </tr>
+                    <tr style="font-size: 14px;">
+                        <!-- ============ LEFT COLUMN (CONTENT) ============== -->
+                        <td cellspacing="0" style="width: 150px;" valign="top" align="center"><img style="padding: 0px 0 0 8px;" src="https://www.inmoment.com/report/servlet/BlobServlet?sid=da78d8d6-b093-4ef2-8db5-e58052ffe0d0&amp;v=0&amp;type=0&amp;tag=agentCA" alt="" /></td>
+                        <!-- ============ RIGHT COLUMN (CONTENT) ============== -->
+                        <td id="main_text" cellpadding="100" style="width: 450px; padding: 0 15px 0 0; background-color: #fff" valign="top">We appreciate your business and constantly strive to improve our level of service.<br />
+                        <br />
+                        You recently called our Customer Success team for assistance. Your business is very important to us and we would like your feedback as part of our ongoing effort to provide you with better services and support. 							<br />
+                        <br />
+                        <b>Please complete the short survey linked below to let us know about your experience:</b>  							<br />
+                        <span style="font-size: 12px;"><a href="https://u1888928.ct.sendgrid.net/wf/click?upn=eNbzHVEOhtvADr19MugzdynPB4YDLWJYftQQ2Or6CDdW0pAxy05WhJ441eIfwWEb9EMf4VCX3PYaioKrw-2B0dFjEiaD2pllqqGNBp4pOOywjvxur4ON-2BCQtqgsyNKoKlU7Z5es5QPa0MWxp5auB-2ByjQ-3D-3D_frxitl4YHllxCp-2Ft2LMnzqqEcTg8VYplBPgEl0K4Lkup5aP-2BAFw43w-2BMxYRKggEXS6u8jeoVGP99gazbXvBXR0-2F8uN1aAau-2FbtifqKNDXZNZQ-2FHZ814LQx92JHw03ASAnXNUZOT4Sz3loXmbqVoX8BKGYr54dpMneFvJnSK0a-2BIX0hc7kI8hZ8C0o6GrlscmNZNatzWCqThyMT8xYR80XOc9zB1oUknqHCqqSFoawbCRqSIhrUop-2FuJjCnsd-2BtNr">http://inmoment.com/websurvey/app?gateway=essentials_vonage&ukey=fb3cac8c-5a4c-4618-b1b4-483169816e48</a></span> 							<br />
+                        <br />
+                        (Note: If the link does not work, please cut and paste the entire web address into the address field of your browser). 							<br />
+                        <br />
+                        On behalf of all of us at Vonage Business, thanks for your feedback! 							<br />
+                        This survey will expire after 7 days. 							<br />
+                        <br />
+                        Sincerely, 							<br />
+                        <br />
+                        <b>Vonage Business Customer Service</b></td>
+                    </tr>
+                    <tr cellpadding="15" cellspacing="15">
+                        <!-- ============ FOOTER(CONTENT) ============== -->
+                        <td colspan="2" valign="top" align="center"><img style="padding-bottom: 20px;" src="https://www.inmoment.com/report/servlet/BlobServlet?sid=3173ced4-0c64-9807-a335-e334f802330c&amp;v=0&amp;type=0&amp;tag=inviteFooter" alt="" /> 							<br />
+                        &nbsp;</td>
+                    </tr>
+                </tbody>
+            </table>
+            <table style="table-layout: fixed; font-family: Calibri, Helvetica, Arial, Sans-serif;width: 600px;">
+                <tbody>
+                    <tr>
+                        <td cellpadding="5" cellspacing="5" colspan="2" style="padding: 20px 5px 20px 2px; font-size: 12px;">This email was sent from an email address that does not accept replies. For assistance please visit our help center at&nbsp;<a href="https://u1888928.ct.sendgrid.net/wf/click?upn=wizUmk-2FGVyfcywQQPtThAs-2F3eSs1VmPvR-2Br5PWyp05l-2BKX7lXFABpew9XN8s8wqY_frxitl4YHllxCp-2Ft2LMnzqqEcTg8VYplBPgEl0K4Lkup5aP-2BAFw43w-2BMxYRKggEXS6u8jeoVGP99gazbXvBXRwZtHquRJPWN-2FvL4zpWDLUrZ9PnR9yJkrjmRwT26DXQI5jZ04ZB9-2FVhNC8MorVGbmsXz3Zo-2FuE5SB1m3I5TS0LgdOW0E1Eev3UVlaATR3HLn17nNpPWJk1j7zEQKmCBI2FfFUUuEB5w7xPURJdKoGPJi-2BYyxXWDYYcTp4SiaTPkb">http://businesssupport.vonage.com&nbsp;</a><br />
+                        or call us Toll Free at:<br />
+                        1-866-901-0242.<br />
+                        <br />
+                        If you want to be excluded from future surveys and survey correspondence, please click on the following web address. If that does not work, please copy and paste the entire web address into the address field of your browser.<br />
+                        http://inmoment.com/websurvey/app?campId=1100&page=EmailUnsubscribe&email=mike%40thelaundromatguys.com</td>
+                    </tr>
+                </tbody>
+            </table>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<img src="https://u1888928.ct.sendgrid.net/wf/open?upn=frxitl4YHllxCp-2Ft2LMnzqqEcTg8VYplBPgEl0K4Lkup5aP-2BAFw43w-2BMxYRKggEXS6u8jeoVGP99gazbXvBXR7Skmx9honC4Jv-2Bb6ONX2SszK3vW72tycHA3HZ-2BnZuzMZRBS8D-2BVk-2F5EwIntZFAfTs4uMa4UYB37bRd7xparUYYQgOUogwLNnPrLbtDG1ADdMZUkiPpsITEtoIW9UCpfcAIUYfEAltaRbZJDb7jBDObCqUI77j77HXMKIz0HYhw4u6iichRfhkE7-2FgIzVqPxVg-3D-3D" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/>

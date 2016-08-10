@@ -1,0 +1,12 @@
+[26-Oct-2015 17:44:15 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/media/public_html/stephen/Laundromat_Guys/wp-content/themes/msm/front-page.php on line 35
+[26-Oct-2015 17:44:25 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/media/public_html/stephen/Laundromat_Guys/wp-content/themes/msm/front-page.php on line 34
+[26-Oct-2015 19:49:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/media/public_html/stephen/Laundromat_Guys/wp-content/themes/msm/footer.php on line 29
+[25-Apr-2016 10:09:31 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/laundromatguys/public_html/wp-includes/class-wp-xmlrpc-server.php on line 555
+[25-Apr-2016 10:27:35 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/laundromatguys/public_html/wp-includes/class-wp-xmlrpc-server.php on line 555
+[25-Apr-2016 10:39:14 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/laundromatguys/public_html/wp-includes/class-wp-xmlrpc-server.php on line 555
+[25-Apr-2016 10:53:04 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/laundromatguys/public_html/wp-includes/class-wp-xmlrpc-server.php on line 555
+[25-Apr-2016 11:07:24 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/laundromatguys/public_html/wp-includes/class-wp-xmlrpc-server.php on line 555
+[25-Apr-2016 11:21:13 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/laundromatguys/public_html/wp-includes/class-wp-xmlrpc-server.php on line 555
+[25-Apr-2016 11:40:35 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/laundromatguys/public_html/wp-includes/class-wp-xmlrpc-server.php on line 555
+[25-Apr-2016 11:56:43 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/laundromatguys/public_html/wp-includes/class-wp-xmlrpc-server.php on line 555
+[25-Apr-2016 12:07:51 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/laundromatguys/public_html/wp-includes/class-wp-xmlrpc-server.php on line 555

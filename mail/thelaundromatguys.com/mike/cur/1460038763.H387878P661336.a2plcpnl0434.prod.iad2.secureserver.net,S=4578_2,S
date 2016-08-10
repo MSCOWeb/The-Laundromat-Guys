@@ -1,0 +1,142 @@
+Return-path: <DoNotReply@vonagebusiness.com>
+Envelope-to: mike@thelaundromatguys.com
+Delivery-date: Thu, 07 Apr 2016 07:19:23 -0700
+Received: from mtaob02.prod.vonagebusiness.com ([205.139.46.132]:42706 helo=mtaob01.prod.vocalocity.com)
+	by a2plcpnl0434.prod.iad2.secureserver.net with esmtp (Exim 4.85_1)
+	(envelope-from <DoNotReply@vonagebusiness.com>)
+	id 1aoAmJ-002m2F-9r
+	for mike@thelaundromatguys.com; Thu, 07 Apr 2016 07:19:23 -0700
+Received: from mail.atldc.vocalocity.com (unknown [10.8.10.8])
+	by atlsvpldap02 (Postfix) with ESMTP id 186602EF77
+	for <mike@thelaundromatguys.com>; Thu,  7 Apr 2016 10:19:23 -0400 (EDT)
+Received: from atlsvpui6.atldc.vocalocity.com (localhost [127.0.0.1])
+	by atlsvpui6 (Postfix) with ESMTP id 14494370001
+	for <mike@thelaundromatguys.com>; Thu,  7 Apr 2016 14:19:23 +0000 (UTC)
+From: DoNotReply@vonagebusiness.com
+To: mike@thelaundromatguys.com
+Message-ID: <1137538523.53.1460038763083.JavaMail.jboss@atlsvpui6.atldc.vocalocity.com>
+Subject: Password Reset
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_52_526734439.1460038763074"
+X-HDAP-Host: 10.20.5.76
+Date: Thu,  7 Apr 2016 14:19:23 +0000 (UTC)
+
+------=_Part_52_526734439.1460038763074
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Vonage Business Solutions</title>
+<style type="text/css">
+<!--
+body {
+    margin:15px;
+    font-size: 12px;
+    font-family:Tahoma, Helvetica, sans-serif;
+    color:#000000;
+}
+a {
+    color:#ff7108;
+    text-decoration:none;
+    text-decoration:underline;
+    font-weight:normal;
+}
+a:hover {
+    color:#ff8e29;
+    text-decoration:underline;
+}
+div#wrapper {
+    margin:0 auto;
+    width:100%;
+    padding:0px;
+}
+h1 {
+    margin:0;
+    padding:0 0 10px 0;
+    font-size: 12px;
+    font-weight:bold;
+    text-align:left;
+    color:#0367a5;
+}
+p {
+    font-size:12px;
+    padding:5px 0;
+    margin:0;
+}
+fieldset {
+    border:1px solid #0367a5;
+    padding:5px;
+    margin:10px 0;
+    width:450px;
+}
+fieldset table {
+    font-size:12px;
+}
+fieldset table td {
+    padding-left:10px;
+    padding-right:10px;
+    height:25px;
+}
+.gridOddRow {
+    background-color:#FFFFFF;
+}
+.gridEvenRow {
+    background-color:#f8f8f8;
+}
+legend {
+    font-weight:bold;
+    font-size:12px;
+    color:#0367a5;
+}
+.label {
+    color:#0367a5;
+    font-weight:bold;
+}
+.templateWords {
+    color: #747474;
+}
+.header {
+    color: #747474;
+}
+.greeting {
+    color: #000000;
+}
+.body {
+    color: #000000;
+}
+.signature {
+    color: #000000;
+}
+.footer {
+    color: #747474;
+    text-align: center;
+}
+-->
+</style>
+</head>
+<body>
+<div id="wrapper">
+  <div><img src="https://my.vonagebusiness.com/adminv2/reseller/1/weblogo" alt="Vonage Business Solutions" title="Vonage Business Solutions Logo" /></div><br />  
+  <p class="header">Account ID: 146256</p><br />
+  <p class="greeting">Dear Michael Settembre,</p><br />        
+  <p class="body">Your password has been reset. <br /><br />
+Your login name is: LMG2016 <br />
+Your password is: $As4;Ar3 <br /><br />
+For account security, we strongly encourage you to create a new password after logging in for the first time with the above password.
+Change your password by clicking this <a href="https://my.vonagebusiness.com/adminv2/account/146256/resetpassword?username=LMG2016&password=$As4;Ar3">link</a> <br />
+If the link above does not work, copy and paste the following URL into your browser: <br /><br />
+https://my.vonagebusiness.com/adminv2/account/146256/resetpassword?username=LMG2016&password=$As4;Ar3<br /><br />
+Please contact us if you have any issues logging in with your new password.<br /></p><br />
+  <p class="signature">Vonage Business Solutions<br/>(866) 901-0242<br/><a href="http://support.vonagebusiness.com">http://support.vonagebusiness.com</a></p><br /><br /><br /><br />
+  <p class="footer">EARN HUNDREDS (EVEN THOUSANDS) OF DOLLARS JUST BY TELLING OTHERS ABOUT VONAGE BUSINESS <br /><br />
+We're proud to have awarded over $1 million in referral payouts to our customers for referring businesses to Vonage Business.  <br />
+To learn more on how you can receive a share of the next million, click here: <a href= http://www.vonagebusiness.com/voip-resources/referrals/><strong>Vonage Business Referral Page</strong></a><br /><br /></p>      
+</div>
+</body>
+</html>
+------=_Part_52_526734439.1460038763074--

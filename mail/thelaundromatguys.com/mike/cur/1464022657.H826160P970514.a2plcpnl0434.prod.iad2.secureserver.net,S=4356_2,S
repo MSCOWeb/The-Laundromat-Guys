@@ -1,0 +1,71 @@
+Return-path: <kyang69@yahoo.com>
+Envelope-to: mike@thelaundromatguys.com
+Delivery-date: Mon, 23 May 2016 09:57:37 -0700
+Received: from nm34-vm3.bullet.mail.bf1.yahoo.com ([72.30.239.75]:45403)
+	by a2plcpnl0434.prod.iad2.secureserver.net with esmtps (TLSv1.2:AES128-GCM-SHA256:128)
+	(Exim 4.85_1)
+	(envelope-from <kyang69@yahoo.com>)
+	id 1b4tAf-0044TJ-Nk
+	for mike@thelaundromatguys.com; Mon, 23 May 2016 09:57:37 -0700
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1464022657; bh=6BYWlmuyszB6IYGYf1QCB2CRJbMsVWeMNiwYfHhOcv0=; h=Date:Subject:From:To:From:Subject; b=Qjq2e5t4FeMmEPRdE0CCX698XqwnwG4sSc/u3p8bcpss5Mpjrp+e/6l8fX2P8ZyzHxN0yWIZTNOg6R99k60N2jHfqrH3h2GEOC8cZONHfWgGxhjZPfTXz963gfDk0hZ7s6riVIH8hps5dubPt+47ITU+gEPNQWo+9z15VpU484ePDWeADyhqhAEKhtCNvQawOwL2n6wqtanQEIEw3P40N+ccpD+HnHbgZfw1OnvAGk4Ka/fPCly6UIALlz1UufarsJTLMFi5wuiUloZk3QgBlG1Nxj+2e5U/QWdZyqmTMmfpcaqPpJH2iREzGtPmh+dsUiYzl7ouFHGZ1NlaFV4ykg==
+Received: from [98.139.215.141] by nm34.bullet.mail.bf1.yahoo.com with NNFMP; 23 May 2016 16:57:37 -0000
+Received: from [98.139.211.196] by tm12.bullet.mail.bf1.yahoo.com with NNFMP; 23 May 2016 16:57:37 -0000
+Received: from [127.0.0.1] by smtp205.mail.bf1.yahoo.com with NNFMP; 23 May 2016 16:57:37 -0000
+X-Yahoo-Newman-Id: 223912.59855.bm@smtp205.mail.bf1.yahoo.com
+X-Yahoo-Newman-Property: ymail-3
+X-YMail-OSG: OlglpC0VM1lNgIIHOF_CiAfPIDSYR5_gHFqHIY7OFeEwgum
+ t8yHPWzDTQfr0XvLt9S1_UupMZvp.fsDHh9hkUevOYs8lCPpZwKQ_PNYIYXV
+ dOEwy.oidcDchDvyOgOIExt6QvuTHDcKq3KNQ9mHGZRq_LPCXtnNVT99zbha
+ Mq.V1C0iwxpL5xUOUFvW5RFzHW.jhYFxi80v6yKMuobei9aeVNW2X3JKsSL7
+ WPLdOo_7STpTqMKhZO4Ibwo5B5EAV78SbxDpA02jzNrrD_FpJ7jf7FC5WOrL
+ AemqAvn26Jx_EWFTYDWUA6C2.lySlawTuaV2BcHC7_aoa97PBKft5dQhesD8
+ RconnUSAFTd5vlQYOiZDN5metgF5QlkTYA_71aZaflBaZZy47dEqRi0YNv0g
+ ZqOYfgd.kI0n7KyQy7QW5CqjIXw57wb_8Zw8GlNUI6wESi.ewJcBohLtDqk4
+ 8zvuXYN9zEyg1d7hGSl9DzCGdYLry57Acpw2_SZ1XHbYkWGVzvxRyLYt13xy
+ akAG_hdws_imL5wtJtTcduGnCGcgFz_dB
+X-Yahoo-SMTP: fSzXShSswBArjR4FcKSuLD_PcFs-
+Date: Mon, 23 May 2016 12:57:33 -0400
+Subject: RE: Newark Lease
+Message-ID: <ob2mecr3064wx3jx1pqpdk8l.1464022653681@email.android.com>
+Importance: normal
+From: kyang69 <kyang69@yahoo.com>
+To: mike@thelaundromatguys.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="--_com.samsung.android.email_4052208219882360"
+
+----_com.samsung.android.email_4052208219882360
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: base64
+
+CgpSZWNlaXZlZC4gVGhhbmtzLsKgClNlbnQgZnJvbSBteSBWZXJpem9uLCBTYW1zdW5nIEdhbGF4
+eSBzbWFydHBob25lCi0tLS0tLS0tIE9yaWdpbmFsIG1lc3NhZ2UgLS0tLS0tLS1Gcm9tOiBtaWtl
+QHRoZWxhdW5kcm9tYXRndXlzLmNvbSBEYXRlOiA1LzIzLzE2ICAxMDo0NyBBTSAgKEdNVC0wNTow
+MCkgVG86IGt5YW5nNjlAeWFob28uY29tIFN1YmplY3Q6IE5ld2FyayBMZWFzZSAKCkhleSBLZW50
+LAoKCgpIZXJlIGlzIHRoZSBOZXdhcmsgTGF1bmRyb21hdCBsZWFzZS4KCsKgCgpNaWNoYWVsIFNl
+dHRlbWJyZQpUSEUgTEFVTkRST01BVCBHVVlTCjY0Ni0yOTQtMDQ5MSAoY2VsbCkKMjAxLTMyNi0x
+MDYwIChvZmZpY2UpCjIwMS0zMjYtMTA3MCAoZmF4KQoKCgo=
+
+----_com.samsung.android.email_4052208219882360
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: base64
+
+PGh0bWw+PGhlYWQ+PG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1UeXBlIiBjb250ZW50PSJ0ZXh0
+L2h0bWw7IGNoYXJzZXQ9VVRGLTgiPjwvaGVhZD48Ym9keT48ZGl2Pjxicj48L2Rpdj48ZGl2Pjxi
+cj48L2Rpdj48ZGl2PlJlY2VpdmVkLiBUaGFua3MuJm5ic3A7PC9kaXY+PGRpdj48YnI+PC9kaXY+
+PGRpdiBpZD0iY29tcG9zZXJfc2lnbmF0dXJlIj48ZGl2IHN0eWxlPSJmb250LXNpemU6ODUlO2Nv
+bG9yOiM1NzU3NTciIGRpcj0iYXV0byI+U2VudCBmcm9tIG15IFZlcml6b24sIFNhbXN1bmcgR2Fs
+YXh5IHNtYXJ0cGhvbmU8L2Rpdj48L2Rpdj48ZGl2Pjxicj48L2Rpdj48ZGl2IHN0eWxlPSJmb250
+LXNpemU6MTAwJTtjb2xvcjojMDAwMDAwIj48IS0tIG9yaWdpbmFsTWVzc2FnZSAtLT48ZGl2Pi0t
+LS0tLS0tIE9yaWdpbmFsIG1lc3NhZ2UgLS0tLS0tLS08L2Rpdj48ZGl2PkZyb206IG1pa2VAdGhl
+bGF1bmRyb21hdGd1eXMuY29tIDwvZGl2PjxkaXY+RGF0ZTogNS8yMy8xNiAgMTA6NDcgQU0gIChH
+TVQtMDU6MDApIDwvZGl2PjxkaXY+VG86IGt5YW5nNjlAeWFob28uY29tIDwvZGl2PjxkaXY+U3Vi
+amVjdDogTmV3YXJrIExlYXNlIDwvZGl2PjxkaXY+PGJyPjwvZGl2PjwvZGl2Pgo8cD5IZXkgS2Vu
+dCw8YnI+Cjxicj4KSGVyZSBpcyB0aGUgTmV3YXJrIExhdW5kcm9tYXQgbGVhc2UuPC9wPgo8ZGl2
+Pgo8aDMgc3R5bGU9ImNvbG9yOmJsdWU7Ij4mbmJzcDs8L2gzPgo8ZGl2Pgo8ZGl2Pk1pY2hhZWwg
+U2V0dGVtYnJlPC9kaXY+CjxkaXY+VEhFIExBVU5EUk9NQVQgR1VZUzwvZGl2Pgo8ZGl2PjY0Ni0y
+OTQtMDQ5MSAoY2VsbCk8L2Rpdj4KPGRpdj4yMDEtMzI2LTEwNjAgKG9mZmljZSk8L2Rpdj4KPGRp
+dj4yMDEtMzI2LTEwNzAgKGZheCk8L2Rpdj4KPC9kaXY+Cjxicj48L2Rpdj4KPC9ib2R5PjwvaHRt
+bD4=
+
+----_com.samsung.android.email_4052208219882360--
+

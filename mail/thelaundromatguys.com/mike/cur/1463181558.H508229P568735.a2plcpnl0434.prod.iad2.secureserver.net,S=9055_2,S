@@ -1,0 +1,242 @@
+Return-path: <helene573@gmail.com>
+Envelope-to: mike@thelaundromatguys.com
+Delivery-date: Fri, 13 May 2016 16:19:18 -0700
+Received: from mail-qk0-f172.google.com ([209.85.220.172]:32930)
+	by a2plcpnl0434.prod.iad2.secureserver.net with esmtps (TLSv1.2:AES128-GCM-SHA256:128)
+	(Exim 4.85_1)
+	(envelope-from <helene573@gmail.com>)
+	id 1b1MMY-002Nwz-EK
+	for mike@thelaundromatguys.com; Fri, 13 May 2016 16:19:18 -0700
+Received: by mail-qk0-f172.google.com with SMTP id n63so69087254qkf.0
+        for <mike@thelaundromatguys.com>; Fri, 13 May 2016 16:19:18 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to;
+        bh=DMOlWlPcKd57g6uwwXIvLJ8Lw44Kp/gaHAwGe1KyCNs=;
+        b=iWhQYSuUiUjpqwjb8vWt1d7eBBxVR/drFiTYj4ijWPeDF1JUK89jJNOrK8FNxCn3cQ
+         DWGLxWcNCsWdzuP/u9UFT4kjT1DFhqPMwHMAdgNWW3l0p6edCpru3KvR5Ppm0Nlc373u
+         /JE3BOcPZOtOg54UEca5pslS6fKjZUWLuu2jj3CGFVEQ5KP/PZRFLMt5Nx6mHM1E/UlV
+         XJxr6BtuMLvRwpTvF6McK99xjJ7IYmi18xtNMmH6k69zZ3MZs3N7FnQf6CYbeqk3KjON
+         SG7TAb7e9UJ1ib63eSY5LQS4HcuHYTbPjOXI54ogxmW7z0EQamBoB5F8hqj5S0+LbW67
+         xDWQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:in-reply-to:references:date
+         :message-id:subject:from:to;
+        bh=DMOlWlPcKd57g6uwwXIvLJ8Lw44Kp/gaHAwGe1KyCNs=;
+        b=mj5mB2+81VE84NAr+aHD7mfCeXHD2LthGSaC6ELeQ+t0KbKsrinNwro8SqKIYNaPzg
+         S7hmRw5XybTBZscxFv0KkY1EptyDlZKi1eWKkP6UEKB7eicR5hfdTbxfOUj2besyZ3KC
+         S9W0oawAH3+MYBMabHy6GsFZME73uQcBSO65C6NUiSKMhPpYYE8i+QGuyVC9KtTwvQqr
+         Ii2eKUO2ml/D1QFB3AcrdsJQGptRTheZc1fE4G7pgXIA49a+Vrqb9h2Ni07/Vo7tqMEP
+         f/tFhMwiiM4Y6W68+PO8XCa5AqjdMZdQAKk38lZMRZj04u1AT7gbE/WlZFXJALRDcB6q
+         W+Og==
+X-Gm-Message-State: AOPr4FUmsVRbRxL5W9f9gNe4muQNvtQLkmSpA7it5ElgqQH7htSR+rZ89OzfybTz5uJZzCAIUz0lZYyBNzJ0Yg==
+MIME-Version: 1.0
+X-Received: by 10.55.207.65 with SMTP id e62mr15402023qkj.89.1463181558099;
+ Fri, 13 May 2016 16:19:18 -0700 (PDT)
+Received: by 10.55.204.139 with HTTP; Fri, 13 May 2016 16:19:17 -0700 (PDT)
+Received: by 10.55.204.139 with HTTP; Fri, 13 May 2016 16:19:17 -0700 (PDT)
+In-Reply-To: <20160512111334.Horde.4bmrMbPx-iR8NfpdYU9t-A1@a2plcpnl0434.prod.iad2.secureserver.net>
+References: <20160404163712.Horde.c9bNmujMe5r2EuRT9yRgIg1@a2plcpnl0434.prod.iad2.secureserver.net>
+	<CAPYtUMgShPxOBS-q5xeyORKfW2nMsGHvASMnL1Hi8PN6Fu9nPA@mail.gmail.com>
+	<20160406003318.Horde.ZdN-NmoSAKr8TczZltThMA1@a2plcpnl0434.prod.iad2.secureserver.net>
+	<CAPYtUMjB9UPJMQHgEFsaGwn8Q8LDPCxLXPULLtH_Xh0owga4-g@mail.gmail.com>
+	<20160512111334.Horde.4bmrMbPx-iR8NfpdYU9t-A1@a2plcpnl0434.prod.iad2.secureserver.net>
+Date: Fri, 13 May 2016 19:19:17 -0400
+Message-ID: <CAPYtUMiRYG7W0Y0+OuQbRraBDNOy=kAOxuU=Zv6W6jOAApYUrw@mail.gmail.com>
+Subject: Re: Laundromats
+From: Helene Velazquez <helene573@gmail.com>
+To: mike@thelaundromatguys.com
+Content-Type: multipart/alternative; boundary=001a1145a86e0335f10532c181b4
+
+--001a1145a86e0335f10532c181b4
+Content-Type: text/plain; charset=UTF-8
+
+Sorry I neglected to see your email tomorrow at 1 or Monday at 1030am is
+good.
+On May 12, 2016 7:16 AM, <mike@thelaundromatguys.com> wrote:
+
+> Hi Helene,
+>
+> I will be on the road most of the morning and in the car.  We can speak
+> then if that works for you.  Otherwise let me know what works for you.
+>
+> Thanks,
+>
+> Quoting Helene Velazquez <helene573@gmail.com>:
+>
+> Hello,
+> I'd like to follow-up and set a time to speak to you this week. I look
+> forward to your reply.
+> Thank you.
+>
+> Helene Velazquez
+> On Apr 5, 2016 8:36 PM, <mike@thelaundromatguys.com> wrote:
+>
+>> Quoting Helene Velazquez <helene573@gmail.com>:
+>>
+>> Hello Mike,
+>> I have attached your questionnaire let me know when is a good time to
+>> talk today. Im available 4:30 to 6pm.
+>> Thank you.
+>> P.S. I forgot to mention I'm open to Northern NJ such as Bergen
+>> County, Jersey City etc.
+>>
+>> On 4/4/16, mike@thelaundromatguys.com <mike@thelaundromatguys.com> wrote:
+>>
+>> Hello Helene,
+>>
+>> Attached is our questionnaire that we would appreciate you filling
+>> out. The questionnaire will help us expedite things moving forward and
+>> gives us a reference point as to how we may be of service to you.  Please
+>> review and feel
+>> free to call me with any questions you may have.
+>>
+>> Regards,
+>> Michael Settembre
+>> THE LAUNDROMAT GUYS
+>> 646-294-0491 (cell)
+>> 201-326-1060 (office)
+>> 201-326-1070 (fax)
+>>
+>>
+>>
+>> Sorry Helene,  it was a very long day today!  Do you have time to speak
+>> tomorrow?
+>>
+>> Thanks,
+>>
+>>
+>> Michael Settembre
+>> THE LAUNDROMAT GUYS
+>> 646-294-0491 (cell)
+>> 201-326-1060 (office)
+>> 201-326-1070 (fax)
+>>
+>
+>
+>
+> Michael Settembre
+> THE LAUNDROMAT GUYS
+> 646-294-0491 (cell)
+> 201-326-1060 (office)
+> 201-326-1070 (fax)
+>
+>
+
+--001a1145a86e0335f10532c181b4
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<p dir=3D"ltr">Sorry I neglected to see your email tomorrow at 1 or Monday =
+at 1030am is good.</p>
+<div class=3D"gmail_quote">On May 12, 2016 7:16 AM,  &lt;<a href=3D"mailto:=
+mike@thelaundromatguys.com">mike@thelaundromatguys.com</a>&gt; wrote:<br ty=
+pe=3D"attribution"><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 =
+.8ex;border-left:1px #ccc solid;padding-left:1ex"><u></u>
+
+
+
+
+
+<div style=3D"font-family:Arial;font-size:14px">
+<p>Hi Helene,<br>
+<br>
+I will be on the road most of the morning and in the car.=C2=A0 We can spea=
+k then if that works for you.=C2=A0 Otherwise let me know what works for yo=
+u.<br>
+<br>
+Thanks,<br>
+<br>
+Quoting Helene Velazquez &lt;<a href=3D"mailto:helene573@gmail.com" target=
+=3D"_blank">helene573@gmail.com</a>&gt;:</p>
+<blockquote style=3D"border-left:2px solid blue;margin-left:2px;padding-lef=
+t:12px" type=3D"cite">
+<p dir=3D"ltr">Hello,<br>
+I&#39;d like to follow-up and set a time to speak to you this week. I look =
+forward to your reply.<br>
+Thank you.</p>
+<p dir=3D"ltr">Helene Velazquez</p>
+<div class=3D"gmail_quote">On Apr 5, 2016 8:36 PM, &lt;<a href=3D"mailto:mi=
+ke@thelaundromatguys.com" target=3D"_blank">mike@thelaundromatguys.com</a>&=
+gt; wrote:<br type=3D"attribution">
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex">
+<div style=3D"font-family:Arial;font-size:14px">
+<p>Quoting Helene Velazquez &lt;<a href=3D"mailto:helene573@gmail.com" targ=
+et=3D"_blank">helene573@gmail.com</a>&gt;:</p>
+<blockquote style=3D"border-left:2px solid blue;margin-left:2px;padding-lef=
+t:12px" type=3D"cite">
+<p>Hello Mike,<br>
+I have attached your questionnaire let me know when is a good time to<br>
+talk today. Im available 4:30 to 6pm.<br>
+Thank you.<br>
+P.S. I forgot to mention I&#39;m open to Northern NJ such as Bergen<br>
+County, Jersey City etc.<br>
+<br>
+On 4/4/16, <a href=3D"mailto:mike@thelaundromatguys.com" target=3D"_blank">=
+mike@thelaundromatguys.com</a> &lt;<a href=3D"mailto:mike@thelaundromatguys=
+.com" target=3D"_blank">mike@thelaundromatguys.com</a>&gt; wrote:</p>
+<blockquote style=3D"border-left:2px solid blue;margin-left:2px;padding-lef=
+t:12px" type=3D"cite">
+<p>Hello Helene,<br>
+<br>
+Attached is our questionnaire that we would appreciate you filling<br>
+out. The questionnaire will help us expedite things moving forward and<br>
+gives us a reference point as to how we may be of service to you.=C2=A0 Ple=
+ase<br>
+review and feel<br>
+free to call me with any questions you may have.<br>
+<br>
+Regards,<br>
+Michael Settembre<br>
+THE LAUNDROMAT GUYS<br>
+<a href=3D"tel:646-294-0491" value=3D"+16462940491" target=3D"_blank">646-2=
+94-0491</a> (cell)<br>
+<a href=3D"tel:201-326-1060" value=3D"+12013261060" target=3D"_blank">201-3=
+26-1060</a> (office)<br>
+<a href=3D"tel:201-326-1070" value=3D"+12013261070" target=3D"_blank">201-3=
+26-1070</a> (fax)</p>
+</blockquote>
+<br>
+<br>
+Sorry Helene,=C2=A0 it was a very long day today!=C2=A0 Do you have time to=
+ speak tomorrow?<br>
+<br>
+Thanks,</blockquote>
+<div>
+<h3 style=3D"color:blue">=C2=A0</h3>
+<div>
+<div>Michael Settembre</div>
+<div>THE LAUNDROMAT GUYS</div>
+<div><a href=3D"tel:646-294-0491" value=3D"+16462940491" target=3D"_blank">=
+646-294-0491</a> (cell)</div>
+<div><a href=3D"tel:201-326-1060" value=3D"+12013261060" target=3D"_blank">=
+201-326-1060</a> (office)</div>
+<div><a href=3D"tel:201-326-1070" value=3D"+12013261070" target=3D"_blank">=
+201-326-1070</a> (fax)</div>
+</div>
+</div>
+</div>
+</blockquote>
+</div>
+</blockquote>
+<p><br>
+<br></p>
+<div>
+<h3 style=3D"color:blue">=C2=A0</h3>
+<div>
+<div>Michael Settembre</div>
+<div>THE LAUNDROMAT GUYS</div>
+<div><a href=3D"tel:646-294-0491" value=3D"+16462940491" target=3D"_blank">=
+646-294-0491</a> (cell)</div>
+<div><a href=3D"tel:201-326-1060" value=3D"+12013261060" target=3D"_blank">=
+201-326-1060</a> (office)</div>
+<div><a href=3D"tel:201-326-1070" value=3D"+12013261070" target=3D"_blank">=
+201-326-1070</a> (fax)</div>
+</div>
+<br></div>
+</div>
+</blockquote></div>
+
+--001a1145a86e0335f10532c181b4--

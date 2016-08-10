@@ -1,0 +1,424 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201511 will be lost/reset.
+# Last config file used to build this data file was /home/laundromatguys/tmp/awstats/awstats.thelaundromatguys.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2024                
+POS_TIME 2697                
+POS_VISITOR 8707                
+POS_DAY 11077               
+POS_DOMAIN 3351                
+POS_LOGIN 3769                
+POS_ROBOT 3924                
+POS_WORMS 4163                
+POS_EMAILSENDER 4294                
+POS_EMAILRECEIVER 4437                
+POS_SESSION 11448               
+POS_SIDER 11648               
+POS_FILETYPES 4572                
+POS_DOWNLOADS 4888                
+POS_OS 5013                
+POS_BROWSER 5206                
+POS_SCREENSIZE 5616                
+POS_UNKNOWNREFERER 5690                
+POS_UNKNOWNREFERERBROWSER 5881                
+POS_ORIGIN 6044                
+POS_SEREFERRALS 6181                
+POS_PAGEREFS 6325                
+POS_SEARCHWORDS 6639                
+POS_KEYWORDS 6791                
+POS_MISC 2360                
+POS_ERRORS 6850                
+POS_CLUSTER 3625                
+POS_SIDER_404 6997                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20151201005128 1 0 15407933993085
+FirstTime 20151118223012
+LastTime 20151130194212
+LastUpdate 20151201215459 1 0 0 0 0
+TotalVisits 90                  
+TotalUnique 56                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 57                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 29 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 2 2 13232 0 0 0
+2 2 2 13232 0 0 0
+3 0 0 0 0 0 0
+4 4 26 558273 19 39 237466
+5 4 48 1003928 1 2 19440
+6 8 65 1306606 0 1 0
+7 18 107 3625748 1 12 2030878
+8 8 30 584888 2 3 241
+9 9 53 1932879 0 4 26
+10 66 224 5233448 7 11 272
+11 24 210 10661882 2 17 4282992
+12 31 81 1319387 2 3 26
+13 3 22 266306 1 2 2171
+14 0 0 0 0 0 0
+15 5 27 560236 0 0 0
+16 7 22 218344 0 0 0
+17 1 23 531809 0 2 52
+18 9 57 1009934 1 8 2030852
+19 3 25 558273 1 1 231
+20 2 24 545041 0 0 0
+21 6 15 267520 1 1 0
+22 1 1 1963 0 0 0
+23 3 3 15195 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 14
+us 178 602 15953444
+br 22 308 6515266
+it 5 49 1007854
+pt 1 23 545041
+jp 1 1 13232
+dz 1 1 13232
+ph 1 23 545041
+ru 1 1 13232
+zz 1 10 210977
+ar 1 23 545041
+mx 1 23 545041
+kz 1 1 13232
+gb 1 1 13232
+mz 1 1 1963
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+googlebot 3 2015 20151121172156 2
+bot[\s_+:,\.\;\/\\-] 3 52 20151129173202 2
+unknown 2 52 20151126093243 2
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 14
+css 173 1166846 0 0
+png 194 532285 0 0
+woff2 1 56780 0 0
+woff 1 11956 0 0
+txt 1 19545 0 0
+php 65 2712694 0 0
+mp4 3 5259669 0 0
+html 143 1494758 0 0
+jpg 114 7725049 0 0
+js 359 6893635 0 0
+webm 2 0 0 0
+Unknown 4 36380 0 0
+svg 1 1521 0 0
+gif 6 24710 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 2
+/license.txt 1 0 19545
+/wp-content/themes/msm/videos/laundry.mp4 1 7 5259669
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 10
+winlong 59 13
+winxp 1 0
+unix 10 1
+ios_iphone 83 11
+winnt 76 29
+linux 3 3
+win7 744 105
+macosx9 46 10
+Unknown 42 42
+macosx7 10 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 18
+chrome39.0.2171.95 11 11
+firefox38.0 10 1
+chrome13.0.782.215 10 2
+chrome32.0.1700.107 48 4
+firefox2.0.0.13 1 0
+msie8.0 2 2
+msie11.0 23 1
+chrome36.0.1985.143 359 26
+chrome45.0.2454.101 25 3
+chrome35.0.1916.153 68 5
+chrome37.0.2062.120 2 2
+chrome46.0.2490.86 387 103
+chrome13.0.782.41 1 1
+safari8.0 39 6
+Unknown 31 31
+firefox27.0 2 2
+safari 44 5
+netscape 11 11
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+WordPress/4.3.1;_http://thelaundromatguys.com 20151130132704
+Mozilla 20151121120342
+Ruby 20151122232646
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+WordPress/4.3.1;_http://thelaundromatguys.com 20151130132704
+Ruby 20151122232646
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 89 90
+From1 0 0
+From2 0 0
+From3 37 37
+From4 90 947
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 5
+http://rankings-analytics.com/try.php 29 29
+http://buttons-for-website.com 4 4
+http://fast-wordpress-start.com 2 2
+http://pizza-tycoon.com 1 1
+http://hundejo.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+302 5 0
+503 14 4186
+206 5 8123536
+500 3 221160
+301 7 487
+404 28 253159
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 26
+/wp-content/plugins/contact-form-7/license.txt 1 -
+/wp-content/plugins/nextgen-gallery/changelog.txt 1 -
+/wp-content/plugins/nmedia-user-file-uploader/readme.txt 1 -
+/wp-content/plugins/user-photo/admin.css 1 -
+/robots.txt 1 -
+/wp-content/plugins/user-meta/readme.txt 1 -
+/wp-content/plugins/ckeditor-for-wordpress/ckeditor.config.js 1 -
+/wp-content/plugins/cimy-user-extra-fields/README_OFFICIAL.txt 1 -
+/wp-content/plugins/auto-attachments/a-a.css 1 -
+/wp-content/plugins/fcchat/default.png 1 -
+/wp-content/plugins/wp-homepage-slideshow/functions.php 1 -
+/wp-content/plugins/font-uploader/font-uploader-free.php 1 -
+/wp-content/plugins/magic-fields/MF_Constant.php 1 -
+/wp-content/plugins/wp-image-news-slider/functions.php 1 -
+/wp-content/plugins/zingiri-web-shop/admin.css 1 -
+/wp-content/plugins/another-wordpress-classifieds-plugin/AWPCP.po 1 -
+/wp-content/plugins/mac-dock-gallery/bugslist.txt 1 -
+/wp-content/plugins/user-avatar/readme.txt 1 -
+/wp-content/plugins/category-grid-view-gallery/cat_grid.php 1 -
+/wp-content/plugins/front-end-upload/destination.php 2 -
+/wp-content/plugins/wpmarketplace/readme.txt 2 -
+/wp-content/plugins/gallery-plugin/gallery-plugin.php 1 -
+/wp-content/plugins/resume-submissions-job-postings/installer.php 1 -
+/wp-content/plugins/wp-filemanager/fm.php 1 -
+/wp-content/plugins/wp-property/action_hooks.php 1 -
+/http%3A%2F%2Fwww%2Ethelaundromatguys%2Ecom%2F 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 57
+75.127.151.46 53 208 5190442 20151120101036
+107.180.50.241 29 29 0 20151130132704
+96.57.94.106 26 69 806640 20151130115716
+64.79.100.39 22 22 259122 20151121120342
+50.29.202.247 11 57 1009643 20151120120947
+74.105.147.123 10 46 742247 20151121075003
+70.194.129.245 6 39 1369122 20151121075316
+173.3.114.219 6 32 646864 20151122185351
+148.74.129.229 3 39 3674539 20151120115706
+216.38.216.197 2 10 208279 20151129211149
+50.117.89.108 2 2 24648 20151130085349
+70.192.67.139 2 5 29778 20151119104432
+177.89.9.253 1 20 253074 20151130132703
+93.148.133.35 1 1 1963 20151119073155
+216.163.188.233 1 1 13232 20151129210801
+105.102.27.80 1 1 13232 20151125021652
+79.120.10.98 1 1 13232 20151122014109
+85.138.174.79 1 23 545041 20151120111105
+189.103.103.20 1 16 178648 20151126161210
+201.93.110.241 1 1 13232 20151130160750
+177.55.146.92 1 1 13232 20151121133214
+122.3.176.5 1 23 545041 20151130194212
+189.22.170.146 1 23 545041 20151128062834
+5.250.158.226 1 1 13232 20151127042954
+189.38.71.62 1 23 545041 20151124202008
+216.163.188.235 1 1 13232 20151129210609
+54.186.121.22 0 1 19545 
+185.117.215.3 1 1 13232 20151130085742
+187.54.225.124 1 1 13232 20151128191604
+201.54.235.194 1 23 545041 20151130054405
+107.189.60.73 1 10 210977 20151121125100
+197.218.200.106 1 1 1963 20151118223012
+184.168.224.230 1 1 1963 20151119234940
+201.144.162.26 1 23 545041 20151121112615
+177.13.225.14 1 1 13232 20151125152715
+177.132.120.193 1 23 545041 20151123044718
+177.39.128.21 1 23 363070 20151130180223
+71.87.48.119 1 23 1385875 20151124093207
+151.26.2.79 1 1 1963 20151119101541
+103.60.208.230 1 1 13232 20151129210457
+187.13.170.188 1 1 13232 20151120163133
+87.13.238.98 1 23 456924 20151127051122
+187.24.189.103 1 1 13232 20151129103809
+187.76.30.18 1 11 186746 20151124062259
+191.191.112.205 1 23 545041 20151129165956
+177.70.174.26 1 25 710469 20151123114819
+186.212.119.174 1 1 1963 20151120050621
+177.106.129.105 1 23 545041 20151130074756
+66.26.10.41 1 23 545041 20151127151548
+201.83.246.202 1 23 545041 20151130120545
+184.168.224.229 1 1 13232 20151122232646
+201.8.246.24 1 23 545041 20151128085044
+186.153.100.246 1 23 545041 20151121065645
+188.216.181.21 1 1 1963 20151119114806
+191.23.9.103 1 21 379613 20151130114543
+177.207.254.75 1 1 1963 20151119154559
+95.238.121.252 1 23 545041 20151123093805
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 13
+20151118 1 1 1963 1
+20151119 28 31 43523 10
+20151120 72 326 13757814 10
+20151121 45 165 4652157 10
+20151122 12 38 673328 6
+20151123 5 73 1800551 5
+20151124 9 85 2503837 7
+20151125 4 4 26464 4
+20151126 3 18 178648 3
+20151127 5 49 1015197 5
+20151128 6 51 1122859 6
+20151129 10 40 806248 9
+20151130 16 186 3645535 14
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+5mn-15mn 3
+0s-30s 79
+30s-2mn 4
+2mn-5mn 2
+15mn-30mn 1
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 28
+/ 84 722889 61 50
+/wp-cron.php 29 0 28 28
+/buy-a-laundromat/ 9 117014 0 0
+/wp-admin/load-scripts.php 8 1243045 0 0
+/wp-admin/admin-ajax.php 8 1795 0 1
+/about-us/ 8 96049 0 2
+/financing/ 7 85011 0 0
+/contact-us/ 7 86643 0 2
+/installer.php 7 220715 0 0
+/retool-your-laundromat/ 6 89525 0 2
+/sell-your-laundromat/ 5 61611 0 0
+/list-your-laundromat/ 5 68286 0 0
+/cpanel 4 36380 1 2
+/myths-and-realities/ 4 48372 0 0
+/sitemap/ 3 40491 0 1
+/wp-admin/admin.php 3 96696 0 0
+/privacy-policy/ 3 41442 0 0
+/wp-admin/options-permalink.php 2 61214 0 0
+/wp-admin/load-styles.php 2 652894 0 0
+/wp-content/themes/msm/videos/laundry.webm 2 0 0 1
+/wp-admin/post.php 2 292096 0 0
+/wp-admin/options-general.php 2 75917 0 0
+/wp-includes/js/tinymce/skins/lightgray/fonts/tinymce.woff 1 11956 0 0
+/wp-admin/ 1 37421 0 0
+/wp-content/plugins/duplicator/assets/fonts/fontawesome-webfont.woff2 1 56780 0 0
+/msm/ 1 4 0 1
+/wp-admin/edit.php 1 65611 0 0
+/wp-login.php 1 2711 0 0
+END_SIDER

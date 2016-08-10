@@ -1,0 +1,330 @@
+Return-path: <koenigmgmt@gmail.com>
+Envelope-to: mike@thelaundromatguys.com
+Delivery-date: Wed, 01 Jun 2016 13:37:22 -0700
+Received: from mail-qk0-f177.google.com ([209.85.220.177]:35164)
+	by a2plcpnl0434.prod.iad2.secureserver.net with esmtps (TLSv1.2:AES128-GCM-SHA256:128)
+	(Exim 4.85_1)
+	(envelope-from <koenigmgmt@gmail.com>)
+	id 1b8CtG-002x0X-Mk
+	for mike@thelaundromatguys.com; Wed, 01 Jun 2016 13:37:22 -0700
+Received: by mail-qk0-f177.google.com with SMTP id c140so21375916qke.2
+        for <mike@thelaundromatguys.com>; Wed, 01 Jun 2016 13:37:22 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=from:to:references:in-reply-to:subject:date:message-id:mime-version
+         :thread-index:content-language:importance;
+        bh=FehLY+ghPxhp/EEg8QasuihDT8KcGjqJo0ZiOVIg+bU=;
+        b=h1xtSwX9JgrtghU0Meb69OMBCoCLHVMsPMzqvKK6JYrD3WfYovuYH/7pD2bd6DvUcq
+         iErdzRI1RkfBQQYJB6uG+Rctpl7wGd0T8aufuzc0M7qiEJw4o/tkDbavC5hBGx8mceiz
+         1YCzidqij29kMBAM6/fWXf3NyQ2wRbv6Fz7I4SR3IJ9CzxGZwanh1DNUV/hJ7Qo00Aei
+         H6BIyTO+QJhuMK9OdWxBaTZq1QVCgK9TJJ8dwKSGMcwwNozjg2Fz7Xw59SlocwToClUc
+         W3196vymxxdzxoJS1F8z4FMpQ1y+kzEn5pqcMd8zrsBfHcHkGx4i8ZlMMwbUy1reBI1y
+         riwA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:from:to:references:in-reply-to:subject:date
+         :message-id:mime-version:thread-index:content-language:importance;
+        bh=FehLY+ghPxhp/EEg8QasuihDT8KcGjqJo0ZiOVIg+bU=;
+        b=CnKHZRL1L32kS+r87Xjh2h+XfdCMkep1S2QprkJQFBUOJLggJZwPx5QgUH/wJvgwsO
+         TR3Qr4jpcW/q2o/X92R1jB0qSOF2Fk0brSNkwkTEFjW1g3SGCe8Ztoqgxq/JdF1Y4Rjt
+         QoeivM4s5qS2Oev/IdeI89i76InOtnzRuMXee/ZUcrss8TcyceJS/d/BXzpdDWd7O9Ng
+         vTWfi5nfxFyFyaMavBzdF4YWH6ZqJ4XNw4LdlR6GT2WZ/Boc1QdIY+dx1MWkL3lUtHtK
+         K2XWxtqX+qDMOTvVu595jjtScGTgN0daRTTueqHdZM3Ja4vnRRyBydgNR7mAVt+wT9AW
+         jAvw==
+X-Gm-Message-State: ALyK8tK5uUH6fL7gs2ew6Vn3npbaa5Cdviw+qgZhbT3rOTsJdwt0t08pfrZDIYeyc4ln7g==
+X-Received: by 10.55.45.66 with SMTP id t63mr39903675qkh.72.1464813442334;
+        Wed, 01 Jun 2016 13:37:22 -0700 (PDT)
+Received: from JeffPC (ool-45799e0d.dyn.optonline.net. [69.121.158.13])
+        by smtp.gmail.com with ESMTPSA id 34sm4650886qtm.36.2016.06.01.13.37.20
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 01 Jun 2016 13:37:21 -0700 (PDT)
+From: Jeff Koenig <koenigmgmt@gmail.com>
+X-Google-Original-From: "Jeff Koenig" <koenigmgmtjeff@gmail.com>
+To: <mike@thelaundromatguys.com>,
+	"'Koenig Management'" <koenigmgmt@gmail.com>
+References: <20160526200334.Horde.MNMJuvysA9CN-OgOAIAW-Q1@a2plcpnl0434.prod.iad2.secureserver.net> <20160531184433.Horde.3D0vh3EaLoTMsr-sqG4RWQ2@a2plcpnl0434.prod.iad2.secureserver.net>
+In-Reply-To: <20160531184433.Horde.3D0vh3EaLoTMsr-sqG4RWQ2@a2plcpnl0434.prod.iad2.secureserver.net>
+Subject: RE: EZ Wash Terms
+Date: Wed, 1 Jun 2016 16:37:21 -0400
+Message-ID: <016601d1bc45$666b2c00$33418400$@com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0167_01D1BC23.DF598C00"
+X-Priority: 1 (Highest)
+X-MSMail-Priority: High
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AdG7bOaXGrmNvwW2Txqa1zfgMiQAkwA2Blmg
+Content-Language: en-us
+Importance: High
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0167_01D1BC23.DF598C00
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi -- Did U receive 2015 signed Tax returns ??  LL needs Mr. & Mrs. to =
+PG lease {Orlando has it}. Please forward & advise.  Thx.
+
+=20
+
+Regards,
+
+=20
+
+Jeffrey S. Koenig
+
+Koenig Management, Ltd.
+
+120 North Main Street, Suite 500
+
+New City, NY 10956
+
+845-639-1292 ext. 203
+
+845-639-0433 fax
+
+=20
+
+=20
+
+=20
+
+From: mike@thelaundromatguys.com [mailto:mike@thelaundromatguys.com]=20
+Sent: Tuesday, May 31, 2016 2:45 PM
+To: Koenig Management
+Subject: Re: EZ Wash Terms
+
+=20
+
+Hey Jeff,
+
+I just wanted to check in and see if you had everything that you needed =
+to have a lease put together for the new trenant.  Please let me know if =
+you need anything else and when we can expect to have the lease.
+
+Thank you,
+
+Quoting mike@thelaundromatguys.com:
+
+Hello Jeff,
+
+Below are terms for the new lease for Michael Benenati, Benenati =
+Ventures, LLC, that we spoke about. Also, I attached a spreadsheet which =
+details the work that Mr. Benenati will be doing to the store upon =
+aquiring the space.  Please let me know if you need anything else to =
+draft up the lease or if you have any questions for me.
+
+- Base Rent $7300/mo for an initial term of 10yrs with 2% increases =
+annually.
+- (2) 5yr options after first term.
+- Tenant is responsible for 12% of CAM and Real Estate Taxes.
+
+Thank You,
+
+=20
+
+
+=20
+
+
+Michael Settembre
+
+THE LAUNDROMAT GUYS
+
+646-294-0491 (cell)
+
+201-326-1060 (office)
+
+201-326-1070 (fax)
+
+=20
+
+
+=20
+
+
+Michael Settembre
+
+THE LAUNDROMAT GUYS
+
+646-294-0491 (cell)
+
+201-326-1060 (office)
+
+201-326-1070 (fax)
+
+=20
+
+
+------=_NextPart_000_0167_01D1BC23.DF598C00
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><meta =
+http-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8"><meta =
+name=3DGenerator content=3D"Microsoft Word 12 (filtered =
+medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+h3
+	{mso-style-priority:9;
+	mso-style-link:"Heading 3 Char";
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	font-size:13.5pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p
+	{mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+span.Heading3Char
+	{mso-style-name:"Heading 3 Char";
+	mso-style-priority:9;
+	mso-style-link:"Heading 3";
+	font-family:"Cambria","serif";
+	color:#4F81BD;
+	font-weight:bold;}
+span.EmailStyle19
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US link=3Dblue =
+vlink=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Hi -- Did U receive 2015 signed Tax returns ??=C2=A0 LL needs Mr. =
+&amp; Mrs. to PG lease {Orlando has it}. Please forward &amp; =
+advise.=C2=A0 Thx.<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Regards,<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><b><i><span =
+style=3D'font-size:11.0pt;color:#1F497D'>Jeffrey S. =
+Koenig<o:p></o:p></span></i></b></p><p class=3DMsoNormal><i><span =
+style=3D'font-size:11.0pt;color:#1F497D'>Koenig Management, =
+Ltd.<o:p></o:p></span></i></p><p class=3DMsoNormal><i><span =
+style=3D'font-size:11.0pt;color:#1F497D'>120 North Main Street, Suite =
+500<o:p></o:p></span></i></p><p class=3DMsoNormal><i><span =
+style=3D'font-size:11.0pt;color:#1F497D'>New City, NY =
+10956<o:p></o:p></span></i></p><p class=3DMsoNormal><i><span =
+style=3D'font-size:11.0pt;color:#1F497D'>845-639-1292 ext. =
+203<o:p></o:p></span></i></p><p class=3DMsoNormal><i><span =
+style=3D'font-size:11.0pt;color:#1F497D'>845-639-0433 =
+fax<o:p></o:p></span></i></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'><o:p>&nbsp;</o:p></span></p><div><div =
+style=3D'border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0in =
+0in 0in'><p class=3DMsoNormal><b><span =
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'>From:</span>=
+</b><span style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'> =
+mike@thelaundromatguys.com [mailto:mike@thelaundromatguys.com] =
+<br><b>Sent:</b> Tuesday, May 31, 2016 2:45 PM<br><b>To:</b> Koenig =
+Management<br><b>Subject:</b> Re: EZ Wash =
+Terms<o:p></o:p></span></p></div></div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p><span =
+style=3D'font-size:10.5pt;font-family:"Arial","sans-serif"'>Hey =
+Jeff,<br><br>I just wanted to check in and see if you had everything =
+that you needed to have a lease put together for the new trenant.&nbsp; =
+Please let me know if you need anything else and when we can expect to =
+have the lease.<br><br>Thank you,<br><br>Quoting <a =
+href=3D"mailto:mike@thelaundromatguys.com">mike@thelaundromatguys.com</a>=
+:<o:p></o:p></span></p><blockquote =
+style=3D'border:none;border-left:solid blue 1.5pt;padding:0in 0in 0in =
+9.0pt;margin-left:1.5pt;margin-top:5.0pt;margin-bottom:5.0pt'><p><span =
+style=3D'font-size:10.5pt;font-family:"Arial","sans-serif"'>Hello =
+Jeff,<br><br>Below are terms for the new lease for Michael Benenati, =
+Benenati Ventures, LLC, that we spoke about. Also, I attached a =
+spreadsheet which details the work that Mr. Benenati will be doing to =
+the store upon aquiring the space.&nbsp; Please let me know if you need =
+anything else to draft up the lease or if you have any questions for =
+me.<br><br>- Base Rent $7300/mo for an initial term of 10yrs with 2% =
+increases annually.<br>- (2) 5yr options after first term.<br>- Tenant =
+is responsible for 12% of CAM and Real Estate Taxes.<br><br>Thank =
+You,<br><br>&nbsp;<o:p></o:p></span></p><div><h3><span =
+style=3D'font-family:"Arial","sans-serif";color:blue'>&nbsp;<o:p></o:p></=
+span></h3><div><div><p class=3DMsoNormal><span =
+style=3D'font-size:10.5pt;font-family:"Arial","sans-serif"'>Michael =
+Settembre<o:p></o:p></span></p></div><div><p class=3DMsoNormal><span =
+style=3D'font-size:10.5pt;font-family:"Arial","sans-serif"'>THE =
+LAUNDROMAT GUYS<o:p></o:p></span></p></div><div><p =
+class=3DMsoNormal><span =
+style=3D'font-size:10.5pt;font-family:"Arial","sans-serif"'>646-294-0491 =
+(cell)<o:p></o:p></span></p></div><div><p class=3DMsoNormal><span =
+style=3D'font-size:10.5pt;font-family:"Arial","sans-serif"'>201-326-1060 =
+(office)<o:p></o:p></span></p></div><div><p class=3DMsoNormal><span =
+style=3D'font-size:10.5pt;font-family:"Arial","sans-serif"'>201-326-1070 =
+(fax)<o:p></o:p></span></p></div></div></div></blockquote><p =
+style=3D'margin-bottom:12.0pt'><span =
+style=3D'font-size:10.5pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</=
+o:p></span></p><div><h3><span =
+style=3D'font-family:"Arial","sans-serif";color:blue'>&nbsp;<o:p></o:p></=
+span></h3><div><div><p class=3DMsoNormal><span =
+style=3D'font-size:10.5pt;font-family:"Arial","sans-serif"'>Michael =
+Settembre<o:p></o:p></span></p></div><div><p class=3DMsoNormal><span =
+style=3D'font-size:10.5pt;font-family:"Arial","sans-serif"'>THE =
+LAUNDROMAT GUYS<o:p></o:p></span></p></div><div><p =
+class=3DMsoNormal><span =
+style=3D'font-size:10.5pt;font-family:"Arial","sans-serif"'>646-294-0491 =
+(cell)<o:p></o:p></span></p></div><div><p class=3DMsoNormal><span =
+style=3D'font-size:10.5pt;font-family:"Arial","sans-serif"'>201-326-1060 =
+(office)<o:p></o:p></span></p></div><div><p class=3DMsoNormal><span =
+style=3D'font-size:10.5pt;font-family:"Arial","sans-serif"'>201-326-1070 =
+(fax)<o:p></o:p></span></p></div></div><p class=3DMsoNormal><span =
+style=3D'font-size:10.5pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</=
+o:p></span></p></div></div></body></html>
+------=_NextPart_000_0167_01D1BC23.DF598C00--
+

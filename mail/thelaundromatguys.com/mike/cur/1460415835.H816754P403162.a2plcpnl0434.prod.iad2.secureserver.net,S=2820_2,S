@@ -1,0 +1,58 @@
+Return-path: <spencerlamy@gmail.com>
+Envelope-to: mike@thelaundromatguys.com
+Delivery-date: Mon, 11 Apr 2016 16:03:55 -0700
+Received: from mail-qg0-f51.google.com ([209.85.192.51]:35799)
+	by a2plcpnl0434.prod.iad2.secureserver.net with esmtps (TLSv1.2:AES128-GCM-SHA256:128)
+	(Exim 4.85_1)
+	(envelope-from <spencerlamy@gmail.com>)
+	id 1apks7-001gsR-O2
+	for mike@thelaundromatguys.com; Mon, 11 Apr 2016 16:03:55 -0700
+Received: by mail-qg0-f51.google.com with SMTP id f105so1215567qge.2
+        for <mike@thelaundromatguys.com>; Mon, 11 Apr 2016 16:03:55 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=from:content-transfer-encoding:mime-version:subject:message-id:date
+         :to;
+        bh=qFJx7IeWJZKbEajIDvi4cVykXC5woOsGJNgb57LenZw=;
+        b=Y01g2uNni2Gg67eYCankBRRSWTCcHfPQ+p3OWHYjfCKa6QAQreD6V06AREoJjx8sHD
+         TL1UvZsmYxZ1uh1w5ntIqhwhTFmfe/mZy2mkZXL3D5jDQovbj91tDaCgkXRkN6+9aZEc
+         phtV0WWwZ3j4c52QMEt/qtc9oIGCdS4+SZhEy2ebyOYNg0nZrJhRLL44aYCyAAv5YjjL
+         KBXmDiLUOWoySAI/TaFBi8GFXekmJtqXdgc3sfaswEFySXZJwIGv3JFSBEr4kRE8uF1m
+         EJ1vnV2UPN1KjF4k/85EevnW43+lwqkkrDnQoegUMknOmnbitG1CojaCXo4DtcfZKAOI
+         i7gw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:from:content-transfer-encoding:mime-version
+         :subject:message-id:date:to;
+        bh=qFJx7IeWJZKbEajIDvi4cVykXC5woOsGJNgb57LenZw=;
+        b=MbJIQyN+x2v4MYiM58DR/XSjWC0WjU4gdklK0+3J6jLGMNzRGOiM2WsLhXh+wkJqe/
+         oRUvcjp5T3bieNfnDCpZ5jYwkIZOFSJNH2jKqPqXIJWTg7Y34fbvKT05WFvifawHGZ3U
+         UsYPqG0ggcBk/N4dfI/8lbIzMkQdA8EeFQV71ayt/2ijmnkTQi90SpvPmQ9/jBzr/Opd
+         4SABgE8Q62C0NhzrRC0Uv088gAkIaTVPlMb/128f+Bb2RVVkSiadbGfJYlVAnFQu17Jq
+         0i+uUA/aIhYD3qmX6CriVNwC2+ly8Tw3TbspG41Ipbte+RmJcJhLeVExuJZYwm7c4Zuh
+         v21Q==
+X-Gm-Message-State: AOPr4FXGckcFulmrnK5OyUtS7sLM0vCYfiVobjOIj1U6G/MOP1WMzCfdBwsgtMHBtRnoHg==
+X-Received: by 10.140.131.81 with SMTP id 78mr78666qhd.34.1460415835345;
+        Mon, 11 Apr 2016 16:03:55 -0700 (PDT)
+Received: from [30.81.99.221] ([172.56.3.190])
+        by smtp.gmail.com with ESMTPSA id o111sm11263426qge.23.2016.04.11.16.03.54
+        for <mike@thelaundromatguys.com>
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Mon, 11 Apr 2016 16:03:54 -0700 (PDT)
+From: Spencer Lamy <spencerlamy@gmail.com>
+Content-Type: text/plain;
+	charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+Mime-Version: 1.0 (1.0)
+Subject: Buying laundromats in NY
+Message-Id: <7C8B02C1-EB04-4B8A-9E80-AABE37861BA7@gmail.com>
+Date: Mon, 11 Apr 2016 19:03:53 -0400
+To: mike@thelaundromatguys.com
+X-Mailer: iPhone Mail (13E238)
+
+Hi Mike, I still have not received any of your email. Please use my gmail ac=
+count.
+
+-Spencer=20
+
+Sent from my iPhone=

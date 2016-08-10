@@ -1,0 +1,217 @@
+Return-path: <ojpapa@optonline.net>
+Envelope-to: mike@thelaundromatguys.com
+Delivery-date: Thu, 07 Jul 2016 11:11:08 -0700
+Received: from mta7.srv.hcvlny.cv.net ([167.206.4.202]:32607)
+	by a2plcpnl0434.prod.iad2.secureserver.net with esmtps (TLSv1.2:DHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.85_1)
+	(envelope-from <ojpapa@optonline.net>)
+	id 1bLDlU-001hYW-1i
+	for mike@thelaundromatguys.com; Thu, 07 Jul 2016 11:11:08 -0700
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=optonline.net;
+	s=dkim-001; t=1467915067;
+	bh=EsA+f+iX69MRhoL72mWzI5ikJs+vLQWMLO81l8NYlvY=;
+	h=Subject:From:Date:Message-Id:To;
+	b=fRSipSdx2yPw/va0QEwnloL3jl5+d0dn7Cu3yma3+co1v9q9tSZmJAAbN/qOPXhmG
+	 lcGORN/of4xSdbltY/cXoNTMD2xctBKGPPN4GwQM1JmcAlsC4UxLurkWEvKNdH1ao8
+	 RNGkPgPiBILsZNS4qeQyHnFEQz55m4JGkWOddiABgjRnUhHvOt4nbcTTHRJv1YFvNl
+	 kT5MAMwd+PI/VOPNsMNkJJYgNC1/FuPQUIBuosYwLcl7BczDe3iPgK5Knnd/7MaxNp
+	 D7tvL4Owl3suLZQRyHOIh66lh9HwNR6poSIByyEPqLxnyXlc8VlFWuMGR9E1i8f9jW
+	 OnzHjRFe/nmNQ==
+Authentication-Results:  mta3.srv.hcvlny.cv.net smtp.user=ojpapa@optonline.net; auth=pass (LOGIN)
+X-Content-Analysis: v=2.1 cv=baSWK77B c=1 sm=1 tr=0 a=gD7tB933mK+fWD2kixkHog==:117 a=gD7tB933mK+fWD2kixkHog==:17 a=L9H7d07YOLsA:10 a=9cW_t1CCXrUA:10 a=s5jvgZ67dGcA:10 a=3oc9M9_CAAAA:8 a=CjxXgO3LAAAA:8 a=hWXB7FgmsyXaSMGqV7gA:9 a=qhHBtFhv_Iiyl_BV:21 a=0mTqLH6a7XZqofJD:21 a=CjuIK1q_8ugA:10 a=IElf2ab8YEIA:10 a=efVrowP5mokA:10 a=zgTXZEbxJSkA:10 a=__3kLb5v1dUolF9VBSQA:9 a=VQZm_7sStrrOJf1p:21 a=i7C_jChf1tctY3zF:21 a=G_hlFy-qu6DSdkLl:21 a=QEXdDO2ut3YA:10 a=_W_S_7VecoQA:10 a=WQP3B-o2DcFb_-ao3AbR:22 a=_E8DXSXWC0jInl61zbkG:22
+Received: from [69.120.163.112] ([69.120.163.112:33119] helo=[192.168.1.126])
+	by mta3.srv.hcvlny.cv.net (envelope-from <ojpapa@optonline.net>)
+	(ecelerity 3.6.9.48312 r(Core:3.6.9.0)) with ESMTPA
+	id AC/7B-31370-B3B9E775; Thu, 07 Jul 2016 14:11:07 -0400
+Content-Type: multipart/alternative;
+	boundary=Apple-Mail-CD6297D8-982A-4E94-ACB3-74A8955DE2EB
+Mime-Version: 1.0 (1.0)
+Subject: Re: E Z Wash Laundromat
+From: Orlando Papaleo <ojpapa@optonline.net>
+X-Mailer: iPhone Mail (13F69)
+In-Reply-To: <2a369f.324be68f.44aff2ef@aol.com>
+Date: Thu, 7 Jul 2016 14:11:07 -0400
+Cc: benenatim@yahoo.com, sullmattpc@aol.com, mike@thelaundromatguys.com
+Content-Transfer-Encoding: 7bit
+Message-Id: <9746B27D-C406-4FC1-BC50-70C930B6F416@optonline.net>
+References: <2a369f.324be68f.44aff2ef@aol.com>
+To: ATAndril534@aol.com
+
+
+--Apple-Mail-CD6297D8-982A-4E94-ACB3-74A8955DE2EB
+Content-Type: text/plain;
+	charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+Al, call me when you can so we can work thru this and try to close next week=
+.
+
+Orlando J. Papaleo
+917-417-0789
+
+> On Jul 7, 2016, at 2:01 PM, ATAndril534@aol.com wrote:
+>=20
+> I will be out of the office for the balance of the afternoon in closings. =
+ Mr. Papaleo has been copied on your email.  I will contact you once he and I=
+ have spoken.  If you do not wish to wait for are response that is your prer=
+ogative.  =20
+> =20
+> Alcides T. Andril, Esq.
+> Andril & Espinosa, LLC
+> 534 Westfield Avenue
+> Elizabeth, NJ 07208
+> 908-558-0100 Fax 908-558-0450
+> =20
+> In a message dated 7/7/2016 1:48:38 P.M. Eastern Daylight Time, benenatim@=
+yahoo.com writes:
+> I have reviewed Al's draft, and its really a step back from John's draft a=
+nd Mike's email of last night.=20
+>=20
+> Here are my problems with the draft.=20
+>=20
+> It does not account for the State programs. If i have to pay for a new HVA=
+c system within 120 days, then forget it. All partiies are operating under t=
+he assumption that the goverment programs will be available post closing. Al=
+'s draft does not account for that.=20
+>=20
+> Al, did you get Mike's email last night wherein he said all parities are i=
+n agreement that the agreement between Orlando and Landlord has to reference=
+ certain work that is subject to the NJ programs and all parties are operati=
+ng on the assumption that such program will exist to offset the costs of the=
+ lighting and HVAC? =20
+>=20
+> Your draft fails to account for that agreement as I assume Orlando was par=
+t of "all parties agree". =20
+>=20
+> Paragraph 9 seems to directly conflict with the Landlords prior draft agre=
+ement in that it limits Orlando's liability to only the work to be completed=
+. If Orlando cannot or does not want to agree that in the event of my unlike=
+ly default to complete the work identified in schedule a, Orlando's original=
+ lease applies.=20
+>=20
+> According to John Sullivan, Orlando's agreement to the foregoing is a cond=
+ition precedent to the landlord presenting me with a new lease.=20
+>=20
+> John, please advise if I'm incorrect relative to the above.=20
+>=20
+> Relative to the escrow funds, I will agree to hold funds in escrow relativ=
+e to the alterations. I am not agreeing to Orlando's attorney holding such f=
+unds in escrow.=20
+>=20
+> I hope we can work this out. It appears that there is a disconnect on the s=
+eller's side. If we cannot make a deal today, then I am done. Orlando knows r=
+he parameters and if there is no draft which includes the above by today, I w=
+ant my deposit back and Orla do can look for a new buyer, and you guys can d=
+o the same kabookie dance again.=20
+>=20
+> Regards, Michael Benenati
+>=20
+>=20
+>=20
+>=20
+> Sent from Yahoo Mail on Android
+>=20
+> On Thu, Jul 7, 2016 at 1:04 PM, ATAndril534@aol.com
+> <ATAndril534@aol.com> wrote:
+> I have attached proposed amendments to your Lease Termination Agreement
+> =20
+> Alcides T. Andril, Esq.
+> Andril & Espinosa, LLC
+> 534 Westfield Avenue
+> Elizabeth, NJ 07208
+> 908-558-0100 Fax 908-558-0450
+
+--Apple-Mail-CD6297D8-982A-4E94-ACB3-74A8955DE2EB
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<html><head><meta http-equiv="content-type" content="text/html; charset=utf-8"></head><body dir="auto"><div>Al, call me when you can so we can work thru this and try to close next week.<br><br>Orlando J. Papaleo<div>917-417-0789</div></div><div><br>On Jul 7, 2016, at 2:01 PM, <a href="mailto:ATAndril534@aol.com">ATAndril534@aol.com</a> wrote:<br><br></div><blockquote type="cite"><div>
+
+<meta content="text/html; charset=US-ASCII" http-equiv="Content-Type">
+<meta name="GENERATOR" content="MSHTML 11.00.9600.18349">
+<font id="role_document" color="#000000" size="2" face="Arial">
+<div>I will be out of the office for the balance of the afternoon in 
+closings.&nbsp; Mr. Papaleo has been copied on your email.&nbsp; I will contact 
+you once he and I have spoken.&nbsp; If you do not wish to wait for are response 
+that is your prerogative.&nbsp;&nbsp;&nbsp;</div>
+<div>&nbsp;</div>
+<div><font lang="0" size="2" face="Arial" family="SANSSERIF" ptsize="10">Alcides T. 
+Andril, Esq.<br>Andril &amp; Espinosa, LLC<br>534 Westfield Avenue<br>Elizabeth, 
+NJ 07208<br>908-558-0100 Fax 908-558-0450 
+<div>&nbsp;</div>
+<div>
+<div>In a message dated 7/7/2016 1:48:38 P.M. Eastern Daylight Time, 
+<a href="mailto:benenatim@yahoo.com">benenatim@yahoo.com</a> writes:</div>
+<blockquote style="PADDING-LEFT: 5px; MARGIN-LEFT: 5px; BORDER-LEFT: blue 2px solid"><font style="BACKGROUND-COLOR: transparent" color="#000000" size="2" face="Arial">I have 
+  reviewed Al's draft, and its really a step back from John's draft and Mike's 
+  email of last night.&nbsp; 
+  <div id="yMail_cursorElementTracker_0.4206012761437057"><br></div>
+  <div id="yMail_cursorElementTracker_0.4206012761437057">Here are my problems 
+  with the draft.&nbsp;<br>
+  <div id="yMail_cursorElementTracker_0.1979685293339637"><br></div>
+  <div id="yMail_cursorElementTracker_0.1979685293339637">It does not account for 
+  the State programs. If i have to pay for a new HVAc system within 120 days, 
+  then forget it. All partiies are operating under the assumption that the 
+  goverment programs will be available post closing. Al's draft does not account 
+  for that.&nbsp;<br></div>
+  <div id="yMail_cursorElementTracker_0.1979685293339637">
+  <div id="yMail_cursorElementTracker_0.19723025451384357"><br></div>
+  <div id="yMail_cursorElementTracker_0.19723025451384357">Al, did you get Mike's 
+  email last night wherein he said all parities are in agreement that the 
+  agreement between Orlando and Landlord has to reference certain work that is 
+  subject to the NJ programs and all parties are operating on the assumption 
+  that such program will exist to offset the costs of the lighting and HVAC? 
+  &nbsp;</div>
+  <div id="yMail_cursorElementTracker_0.19723025451384357"><br></div>
+  <div id="yMail_cursorElementTracker_0.19723025451384357">Your draft fails to 
+  account for that agreement as I assume Orlando was part of "all parties 
+  agree". &nbsp;</div>
+  <div id="yMail_cursorElementTracker_0.19723025451384357"><br></div>
+  <div id="yMail_cursorElementTracker_0.19723025451384357">
+  <div id="yMail_cursorElementTracker_0.5081701387706756">Paragraph 9 seems to 
+  directly conflict with the Landlords prior draft agreement in that it limits 
+  Orlando's liability to only the work to be completed. If Orlando cannot or 
+  does not want to agree that in the event of my unlikely default to complete 
+  the work identified in schedule a, Orlando's original lease 
+  applies.&nbsp;</div>
+  <div id="yMail_cursorElementTracker_0.5081701387706756"><br></div>
+  <div id="yMail_cursorElementTracker_0.5081701387706756">According to John 
+  Sullivan, Orlando's agreement to the foregoing is a condition precedent to the 
+  landlord presenting me with a new lease.&nbsp;</div>
+  <div id="yMail_cursorElementTracker_0.5081701387706756"><br></div>
+  <div id="yMail_cursorElementTracker_0.5081701387706756">John, please advise if 
+  I'm incorrect relative to the above.&nbsp;</div>
+  <div id="yMail_cursorElementTracker_0.5081701387706756"><br></div>
+  <div id="yMail_cursorElementTracker_0.5081701387706756">Relative to the escrow 
+  funds, I will agree to hold funds in escrow relative to the alterations. I am 
+  not agreeing to Orlando's attorney holding such funds in escrow.&nbsp;</div>
+  <div id="yMail_cursorElementTracker_0.5081701387706756"><br></div>
+  <div id="yMail_cursorElementTracker_0.5081701387706756">I hope we can work this 
+  out. It appears that there is a disconnect on the seller's side. If we cannot 
+  make a deal today, then I am done. Orlando knows rhe parameters and if there 
+  is no draft which includes the above by today, I want my deposit back and Orla 
+  do can look for a new buyer, and you guys can do the same kabookie dance 
+  again.&nbsp;</div>
+  <div id="yMail_cursorElementTracker_0.5081701387706756"><br></div>
+  <div id="yMail_cursorElementTracker_0.5081701387706756">Regards, Michael 
+  Benenati</div>
+  <div id="yMail_cursorElementTracker_0.5081701387706756"><br></div>
+  <div id="yMail_cursorElementTracker_0.5081701387706756"><br></div>
+  <div id="yMail_cursorElementTracker_0.5081701387706756"><br></div>
+  <div id="yMail_cursorElementTracker_0.5081701387706756">
+  <div id="yMail_cursorElementTracker_0.5664766419974105"><br>
+  <div id="ymail_android_signature"><a title="https://overview.mail.yahoo.com/mobile/?.src=Android" href="https://overview.mail.yahoo.com/mobile/?.src=Android">Sent from Yahoo 
+  Mail on Android</a></div><br>
+  <blockquote style="MARGIN: 0px 0px 20px"><header style="FONT-FAMILY: Roboto, sans-serif; COLOR: #6d00f6">
+    <div>On Thu, Jul 7, 2016 at 1:04 PM, <a href="mailto:ATAndril534@aol.com">ATAndril534@aol.com</a></div>
+    <div>&lt;<a href="mailto:ATAndril534@aol.com">ATAndril534@aol.com</a>&gt; wrote:</div></header>
+    <div style="PADDING-BOTTOM: 0px; PADDING-TOP: 10px; PADDING-LEFT: 20px; MARGIN: 10px 0px 0px; BORDER-LEFT: #6d00f6 1px solid; PADDING-RIGHT: 0px"><font color="#000000" size="2" face="Arial">
+    <div>I have attached proposed amendments to your Lease Termination 
+    Agreement</div>
+    <div>&nbsp;</div>
+    <div><font size="2" face="Arial" family="SANSSERIF">Alcides T. Andril, 
+    Esq.<br>Andril &amp; Espinosa, LLC<br>534 Westfield Avenue<br>Elizabeth, NJ 
+    07208<br>908-558-0100 Fax 
+  908-558-0450</font></div></font></div></blockquote></div></div></div></div></div></font></blockquote></div></font></div></font></div></blockquote></body></html>
+--Apple-Mail-CD6297D8-982A-4E94-ACB3-74A8955DE2EB--

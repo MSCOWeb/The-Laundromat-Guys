@@ -1,0 +1,479 @@
+Return-path: <ojpapa@optonline.net>
+Envelope-to: mike@thelaundromatguys.com
+Delivery-date: Wed, 06 Jul 2016 17:17:50 -0700
+Received: from mta1.srv.hcvlny.cv.net ([167.206.4.196]:49573)
+	by a2plcpnl0434.prod.iad2.secureserver.net with esmtps (TLSv1.2:DHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.85_1)
+	(envelope-from <ojpapa@optonline.net>)
+	id 1bKx0o-002vD4-JN
+	for mike@thelaundromatguys.com; Wed, 06 Jul 2016 17:17:50 -0700
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=optonline.net;
+	s=dkim-001; t=1467850670;
+	bh=gE8hrkiA86daChuS891GZew9ewhuBgb7A3XM6+jBtWg=;
+	h=Date:From:To:Message-ID:Subject;
+	b=ZPCJD5lmS6riUIj3nGoaqSXuiu4PqyQrsSZ8Phga9K+cGalHZi0WAo5qra/ZVWgjR
+	 yaJ8lCj0ZufGn3qzrEbOgPkNwG57P5kfWyMCJRzmM7SogmL/Yz8CEZkmc+ni64xGcR
+	 DH5vbjKs14/0dDhn2zxPYdgZ5b0eVxLJqcWgG1HV+iMGiiWqS4bCAZwqCPHdPszrhS
+	 1NwVxa1D10eNxFls7vpgpOYgNhyT9hOSj3OT5CTBmz9qQye3Hsfy3h1cwr5l3O1cQu
+	 d49nDkrr46ieVZmq+Er63pD0EdqTwqPqW4L8gyzL6D0FaHhebLDcb1Tggh5/LWwYK4
+	 DgFw7nf5cyDSA==
+Authentication-Results:  mta1.srv.hcvlny.cv.net smtp.user=ojpapa; auth=pass (LOGIN)
+X-Content-Analysis: v=2.1 cv=dbF9pije c=1 sm=1 tr=0 a=jMiv96ff8/ZPaw39O8HZwg==:117 a=jMiv96ff8/ZPaw39O8HZwg==:17 a=L9H7d07YOLsA:10 a=9cW_t1CCXrUA:10 a=s5jvgZ67dGcA:10 a=+GGgEctla0Atsv6V580Pc7StXZc=:19 a=8BRmQI4Xn2MA:10 a=cAmyUtKerLwA:10 a=CjxXgO3LAAAA:8 a=3oc9M9_CAAAA:8 a=I55XXqQg1QAJPc-xHE0A:9 a=A87BR0FttPHVtf35:21 a=ZKqkDGcHyt0CmoT2:21 a=QEXdDO2ut3YA:10 a=efVrowP5mokA:10 a=zgTXZEbxJSkA:10 a=udDRbZ33YJcA:10 a=q7l7T7XFItsA:10 a=qbpkJuqz1vIA:10 a=Krv_AWF7K7TRo24FHzAA:9 a=kB5SltKOSm7NEAs4:21 a=UN3qSDIthVdKD93r:21 a=ZzYpXuturP1ThRyG:21 a=_E8DXSXWC0jInl61zbkG:22 a=WQP3B-o2DcFb_-ao3AbR:22
+Received: from [167.206.10.36] ([167.206.10.36:34999] helo=vwm6.srv.hcvlny.cv.net)
+	by mta1.srv.hcvlny.cv.net (envelope-from <ojpapa@optonline.net>)
+	(ecelerity 3.6.9.48312 r(Core:3.6.9.0)) with ESMTPA
+	id AD/8A-02215-EAF9D775; Wed, 06 Jul 2016 20:17:50 -0400
+Received: from [74.90.50.20]
+	by webtop.webmail.optimum.net with HTTP; Wed, 6 Jul 2016 20:17:49 -0400
+Date: Wed, 6 Jul 2016 20:17:49 -0400 (EDT)
+From: Orlando Papaleo <ojpapa@optonline.net>
+To: "benenatim@yahoo.com" <benenatim@yahoo.com>
+Cc: "ATAndril534@aol.com ATAndril534@aol.com" <ATAndril534@aol.com>, 
+	"sullmattpc@aol.com" <sullmattpc@aol.com>, 
+	"Benenatim@yahoo.com" <Benenatim@yahoo.com>, 
+	"rdonnelly@donnellyind.com" <rdonnelly@donnellyind.com>, 
+	Jeff Koenig <koenigmgmt@gmail.com>, 
+	"mike@thelaundromatguys.com" <mike@thelaundromatguys.com>
+Message-ID: <4acc59c9.7d0db.155c2b7c01c.Webtop.36@optonline.net>
+In-Reply-To: <649565936.4087645.1467836355789.JavaMail.yahoo@mail.yahoo.com>
+References: <137529.2d77eb03.44aebd58@aol.com>
+ <649565936.4087645.1467836355789.JavaMail.yahoo@mail.yahoo.com>
+Subject: Re: EZ Wash - Lease Termination Agreement
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_2036503_1040521050.1467850669956"
+User-Agent: Laszlo Mail 3
+X-SID: 36
+X-Originating-IP: [74.90.50.20]
+X-Priority: 3
+X-Authuserid: ojpapa@optonline.net
+
+------=_Part_2036503_1040521050.1467850669956
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+Mike,
+I received the letter a few hours ago and will review it with Al in the=20
+morning.
+
+=C2=A0
+=C2=A0
+=C2=A0
+On Wed, Jul 06, 2016 at 04:19 PM, Michael P. Benenati wrote:
+=C2=A0
+=C2=A0
+Al, when can we expect a response?
+
+
+If there is no response by 12 noon tomorrow, then I'm done and you can=20
+send back my deposit.=C2=A0
+
+
+These issues have been present since last week Monday and its=20
+disappointing that Orlando is not making this a priority.=C2=A0
+
+
+Kindly advise Orlando of the deadline.=C2=A0
+
+
+Thanks, Mike Benenati
+
+Sent from Yahoo Mail on Android=20
+<https://overview.mail.yahoo.com/mobile/?.src=3DAndroid>
+
+
+On Wed, Jul 6, 2016 at 4:00 PM, ATAndril534@aol.com
+<ATAndril534@aol.com> wrote:
+
+
+
+I have not yet spoken to Mr. Papaleo regarding the termination
+agreement.=C2=A0 At this time I have no comment regarding the agreement.=C2=
+=A0
+
+
+
+=C2=A0
+
+
+Alcides T.
+Andril, Esq.
+Andril & Espinosa, LLC
+534 Westfield Avenue
+Elizabeth,
+NJ 07208
+908-558-0100 Fax 908-558-0450
+
+=C2=A0
+
+
+
+
+In a message dated 7/6/2016 3:56:33 P.M. Eastern Daylight Time,
+benenatim@yahoo.com writes:
+
+
+Al and
+   Orlando,
+
+
+
+
+We have yet to hear any
+   of your thoughts about John's draft and my suggestion for a meeting.=20
+If you
+   want to get this deal done, i suggest we get together and have a=20
+meeting to
+   hammer out all of the issues.
+
+
+
+
+
+I think doing that is a
+   more cost effective approach for everyone.=C2=A0
+
+
+
+
+
+Kindly
+   advise.=C2=A0
+
+
+
+
+
+Regards, Mike
+   Benenati
+
+
+Sent from Yahoo
+   Mail on Android=20
+<https://overview.mail.yahoo.com/mobile/?.src=3DAndroid>
+
+
+
+On Wed, Jul 6, 2016 at 10:59 AM, Michael P. Benenati
+
+
+<benenatim@yahoo.com> wrote:
+
+
+I
+     think its a good starting poi t. However, my concern is that there=20
+is
+     noreference the fact that certain renovations, lighting and HVAC,=20
+are
+     subject to NJ state government programs. Such programs may affect=20
+the
+     timeline. =C2=A0I would be concerned about signing a lease that locks =
+me
+     into a timeline without there being some leeway accounting for the
+     firegoing.=C2=A0
+
+
+
+
+I suggest we have a
+     meeting to hammer out acceptable agreements between all parties.=20
+Such a
+     meeting would be a more cost effective approach then having tons of=20
+phone
+     and email correspondence.=C2=A0
+
+
+
+
+
+Please let me know if
+     a meeting is feasible this week.
+
+
+
+
+
+
+
+Mike Benenati
+
+
+Sent from Yahoo
+     Mail on Android=20
+<https://overview.mail.yahoo.com/mobile/?.src=3DAndroid>
+
+
+
+On Wed, Jul 6, 2016 at 10:36 AM, Sullmattpc
+
+
+<sullmattpc@aol.com> wrote:
+
+
+Dear Mr. Andril and Mr.
+       Benenati:
+Attached for your review is Landlord's proposed Lease
+       Termination Agreement for the January 30, 2003 E-Z Wash, L.L.C.=20
+lease.
+       =C2=A0Please let me know your thoughts after you have had a chance t=
+o
+       review same.
+
+
+
+
+I look forward to =C2=A0hearing from you.
+
+
+John P. Sullivan, Esq.
+
+
+
+
+Sullivan & Mattheiss, P.C.
+
+
+101 Vose Avenue
+
+
+South Orange, NJ 07079-2025
+
+
+Office: 973-275-1800
+
+
+Fax: 973-275-1901
+
+
+E-mail: Sullmattpc@aol.com
+
+
+=E3=80=80
+
+
+CONFIDENTIALITY NOTE:
+       The contents of this e-mail and any attachments to
+       it contain confidential and/or legally privileged information=20
+from the law
+       firm of Sullivan & Mattheiss, P.C. This e-mail is intended only=20
+for
+       the person or entity to which it is addressed. If you are not the=20
+intended
+       recipient, you are hereby notified that any disclosure,=20
+dissemination,
+       distribution or copying of this e-mail or the information herein=20
+by anyone
+       other than the intended recipient is prohibited. Additionally,=20
+any
+       reliance on the information contained herein is strictly=20
+prohibited. If
+       you have received this e-mail in error, please notify the sender
+       immediately and return by e-mail. Thank you.
+
+
+
+
+Although this e-mail and any attachments are believed to
+       be free of any virus or other defect that might affect any=20
+computer system
+       into which it is received and opened, it is the responsibility of=20
+the
+       recipient to ensure that it is virus free and no responsibility=20
+is
+       accepted by the law firm of Sullivan & Mattheiss, P.C. for any=20
+loss or
+       damage arising in any way from its
+       use.
+
+
+
+
+
+
+
+
+------=_Part_2036503_1040521050.1467850669956
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+Mike,<div>I received the letter a few hours ago and will review it with Al =
+in the morning.</div><div style=3D"font-family: Verdana;"><div>&nbsp;</div>=
+<div>&nbsp;</div><div>&nbsp;</div>On Wed, Jul 06, 2016 at 04:19 PM, Michael=
+ P. Benenati wrote:<div>&nbsp;</div><div>&nbsp;</div><blockquote style=3D"m=
+argin: 0pt 0pt 0pt 0.8ex; padding-left: 1ex; border-left-color: rgb(136, 13=
+6, 136); border-left-width: 2px; border-left-style: solid;"><div id=3D"yMai=
+l_cursorElementTracker_0.662605088371983">Al, when can we expect a response=
+?</div><div id=3D"yMail_cursorElementTracker_0.662605088371983"><br></div><=
+div id=3D"yMail_cursorElementTracker_0.662605088371983">If there is no resp=
+onse by 12 noon tomorrow, then I'm done and you can send back my deposit.&n=
+bsp;</div><div id=3D"yMail_cursorElementTracker_0.662605088371983"><br></di=
+v><div id=3D"yMail_cursorElementTracker_0.662605088371983">These issues hav=
+e been present since last week Monday and its disappointing that Orlando is=
+ not making this a priority.&nbsp;</div><div id=3D"yMail_cursorElementTrack=
+er_0.662605088371983"><br></div><div id=3D"yMail_cursorElementTracker_0.662=
+605088371983">Kindly advise Orlando of the deadline.&nbsp;</div><div id=3D"=
+yMail_cursorElementTracker_0.662605088371983"><br></div><div id=3D"yMail_cu=
+rsorElementTracker_0.662605088371983">Thanks, Mike Benenati</div><br><br><d=
+iv id=3D"ymail_android_signature"><a href=3D"https://overview.mail.yahoo.co=
+m/mobile/?.src=3DAndroid" target=3D"_blank" _djrealurl=3D"https://overview.=
+mail.yahoo.com/mobile/?.src=3DAndroid">Sent from Yahoo Mail on Android</a><=
+/div> <br> <blockquote style=3D"margin: 0px 0px 20px;"> <header style=3D"co=
+lor: rgb(109, 0, 246); font-family: Roboto, sans-serif;"> <div>On Wed, Jul =
+6, 2016 at 4:00 PM, ATAndril534@aol.com</div><div>&lt;ATAndril534@aol.com&g=
+t; wrote:</div> </header> <div style=3D"margin: 10px 0px 0px; padding: 10px=
+ 0px 0px 20px; border-left-color: rgb(109, 0, 246); border-left-width: 1px;=
+ border-left-style: solid;"> <font id=3D"role_document" color=3D"#000000" f=
+ace=3D"Arial" size=3D"2">
+</font><div>I have not yet spoken to Mr. Papaleo regarding the termination=
+=20
+agreement.&nbsp; At this time I have no comment regarding the agreement.&nb=
+sp;=20
+</div>
+<div>&nbsp;</div>
+<div><font face=3D"Arial" size=3D"2" family=3D"SANSSERIF">Alcides T.=20
+Andril, Esq.<br clear=3D"none">Andril &amp; Espinosa, LLC<br clear=3D"none"=
+>534 Westfield Avenue<br clear=3D"none">Elizabeth,=20
+NJ 07208<br clear=3D"none">908-558-0100 Fax 908-558-0450=20
+</font><div>&nbsp;</div>
+<div>
+<div>In a message dated 7/6/2016 3:56:33 P.M. Eastern Daylight Time,=20
+benenatim@yahoo.com writes:</div>
+<div class=3D"yQTDBase yqt8269993479" id=3D"yqt63508"><blockquote style=3D"=
+padding-left: 5px; margin-left: 5px; border-left-color: blue; border-left-w=
+idth: 2px; border-left-style: solid;"><font color=3D"#000000" face=3D"Arial=
+" size=3D"2" style=3D"background-color: transparent;">Al and=20
+  Orlando,=20
+  </font><div id=3D"yMail_cursorElementTracker_0.6614519238102006"><br clea=
+r=3D"none"></div>
+  <div id=3D"yMail_cursorElementTracker_0.6614519238102006">We have yet to =
+hear any=20
+  of your thoughts about John's draft and my suggestion for a meeting. If y=
+ou=20
+  want to get this deal done, i suggest we get together and have a meeting =
+to=20
+  hammer out all of the issues.</div>
+  <div id=3D"yMail_cursorElementTracker_0.6614519238102006"><br clear=3D"no=
+ne"></div>
+  <div id=3D"yMail_cursorElementTracker_0.6614519238102006">I think doing t=
+hat is a=20
+  more cost effective approach for everyone.&nbsp;</div>
+  <div id=3D"yMail_cursorElementTracker_0.6614519238102006"><br clear=3D"no=
+ne"></div>
+  <div id=3D"yMail_cursorElementTracker_0.6614519238102006">Kindly=20
+  advise.&nbsp;</div>
+  <div id=3D"yMail_cursorElementTracker_0.6614519238102006"><br clear=3D"no=
+ne"></div>
+  <div id=3D"yMail_cursorElementTracker_0.6614519238102006">Regards, Mike=
+=20
+  Benenati<br clear=3D"none"><br clear=3D"none">
+  <div id=3D"ymail_android_signature"><a title=3D"https://overview.mail.yah=
+oo.com/mobile/?.src=3DAndroid" href=3D"https://overview.mail.yahoo.com/mobi=
+le/?.src=3DAndroid" target=3D"_blank" rel=3D"nofollow" shape=3D"rect" _djre=
+alurl=3D"https://overview.mail.yahoo.com/mobile/?.src=3DAndroid">Sent from =
+Yahoo=20
+  Mail on Android</a></div><br clear=3D"none">
+  <blockquote style=3D"margin: 0px 0px 20px;">=20
+    <div>On Wed, Jul 6, 2016 at 10:59 AM, Michael P. Benenati</div>
+    <div>&lt;benenatim@yahoo.com&gt; wrote:</div>=20
+    <div style=3D"margin: 10px 0px 0px; padding: 10px 0px 0px 20px; border-=
+left-color: rgb(109, 0, 246); border-left-width: 1px; border-left-style: so=
+lid;">I=20
+    think its a good starting poi t. However, my concern is that there is=
+=20
+    noreference the fact that certain renovations, lighting and HVAC, are=
+=20
+    subject to NJ state government programs. Such programs may affect the=
+=20
+    timeline. &nbsp;I would be concerned about signing a lease that locks m=
+e=20
+    into a timeline without there being some leeway accounting for the=20
+    firegoing.&nbsp;=20
+    <div id=3D"yMail_cursorElementTracker_0.8382184874853924"><br clear=3D"=
+none"></div>
+    <div id=3D"yMail_cursorElementTracker_0.8382184874853924">I suggest we =
+have a=20
+    meeting to hammer out acceptable agreements between all parties. Such a=
+=20
+    meeting would be a more cost effective approach then having tons of pho=
+ne=20
+    and email correspondence.&nbsp;</div>
+    <div id=3D"yMail_cursorElementTracker_0.8382184874853924"><br clear=3D"=
+none"></div>
+    <div id=3D"yMail_cursorElementTracker_0.8382184874853924">Please let me=
+ know if=20
+    a meeting is feasible this week.</div>
+    <div id=3D"yMail_cursorElementTracker_0.8382184874853924">
+    <div id=3D"yMail_cursorElementTracker_0.7243845284735555"><br clear=3D"=
+none"></div>
+    <div id=3D"yMail_cursorElementTracker_0.7243845284735555">Mike Benenati=
+<br clear=3D"none"><br clear=3D"none">
+    <div id=3D"ymail_android_signature"><a title=3D"https://overview.mail.y=
+ahoo.com/mobile/?.src=3DAndroid" href=3D"https://overview.mail.yahoo.com/mo=
+bile/?.src=3DAndroid" target=3D"_blank" rel=3D"nofollow" shape=3D"rect" _dj=
+realurl=3D"https://overview.mail.yahoo.com/mobile/?.src=3DAndroid">Sent fro=
+m Yahoo=20
+    Mail on Android</a></div><br clear=3D"none">
+    <blockquote style=3D"margin: 0px 0px 20px;">=20
+      <div>On Wed, Jul 6, 2016 at 10:36 AM, Sullmattpc</div>
+      <div>&lt;sullmattpc@aol.com&gt; wrote:</div>=20
+      <div style=3D"margin: 10px 0px 0px; padding: 10px 0px 0px 20px; borde=
+r-left-color: rgb(109, 0, 246); border-left-width: 1px; border-left-style: =
+solid;"><font color=3D"blue" face=3D"" size=3D"3">Dear Mr. Andril and Mr.=
+=20
+      Benenati:<br clear=3D"none"><br clear=3D"none">Attached for your revi=
+ew is Landlord's proposed Lease=20
+      Termination Agreement for the January 30, 2003 E-Z Wash, L.L.C. lease=
+.=20
+      &nbsp;Please let me know your thoughts after you have had a chance to=
+=20
+      review same.=20
+      </font><div><br clear=3D"none"></div>
+      <div>I look forward to &nbsp;hearing from you.</div>
+      <div><br clear=3D"none">John P. Sullivan, Esq.<br clear=3D"none">
+      <div style=3D"clear: both;">
+      <div style=3D"font-size: 12pt;">Sullivan &amp; Mattheiss, P.C.</div>
+      <div style=3D"font-size: 12pt;">101 Vose Avenue</div>
+      <div style=3D"font-size: 12pt;">South Orange, NJ 07079-2025</div>
+      <div style=3D"font-size: 12pt;">Office: 973-275-1800</div>
+      <div style=3D"font-size: 12pt;">Fax: 973-275-1901</div>
+      <div style=3D"font-size: 12pt;">E-mail: <a rel=3D"nofollow" shape=3D"=
+rect"><u><font color=3D"#0000ff">Sullmattpc@aol.com</font></u></a></div><fo=
+nt size=3D"2" style=3D"font-size: 12pt;">
+      </font><div><strong>=E3=80=80</strong></div>
+      <div style=3D"font-size: 12pt;"><font size=3D"2"><strong>CONFIDENTIAL=
+ITY NOTE:=20
+      </strong><font size=3D"1">The contents of this e-mail and any attachm=
+ents to=20
+      it contain confidential and/or legally privileged information from th=
+e law=20
+      firm of Sullivan &amp; Mattheiss, P.C. This e-mail is intended only f=
+or=20
+      the person or entity to which it is addressed. If you are not the int=
+ended=20
+      recipient, you are hereby notified that any disclosure, dissemination=
+,=20
+      distribution or copying of this e-mail or the information herein by a=
+nyone=20
+      other than the intended recipient is prohibited. Additionally, any=20
+      reliance on the information contained herein is strictly prohibited. =
+If=20
+      you have received this e-mail in error, please notify the sender=20
+      immediately and return by e-mail. Thank you.</font></font></div>
+      <div><font size=3D"1"><br clear=3D"none"></font><font size=3D"2" styl=
+e=3D"font-size: 12pt;"><font size=3D"1"></font>
+      </font><div><font size=3D"1">Although this e-mail and any attachments=
+ are believed to=20
+      be free of any virus or other defect that might affect any computer s=
+ystem=20
+      into which it is received and opened, it is the responsibility of the=
+=20
+      recipient to ensure that it is virus free and no responsibility is=20
+      accepted by the law firm of Sullivan &amp; Mattheiss, P.C. for any lo=
+ss or=20
+      damage arising in any way from its=20
+      use.</font></div></div></div></div></div></blockquote></div></div></d=
+iv></blockquote></div></blockquote></div></div></div> </div> </blockquote><=
+/blockquote></div>
+------=_Part_2036503_1040521050.1467850669956--

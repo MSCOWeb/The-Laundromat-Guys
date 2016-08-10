@@ -1,0 +1,262 @@
+Return-path: <koenigmgmt@gmail.com>
+Envelope-to: mike@thelaundromatguys.com
+Delivery-date: Wed, 27 Apr 2016 05:32:53 -0700
+Received: from mail-qg0-f49.google.com ([209.85.192.49]:35933)
+	by a2plcpnl0434.prod.iad2.secureserver.net with esmtps (TLSv1.2:AES128-GCM-SHA256:128)
+	(Exim 4.85_1)
+	(envelope-from <koenigmgmt@gmail.com>)
+	id 1avOeD-000CSW-D2
+	for mike@thelaundromatguys.com; Wed, 27 Apr 2016 05:32:53 -0700
+Received: by mail-qg0-f49.google.com with SMTP id d90so16332057qgd.3
+        for <mike@thelaundromatguys.com>; Wed, 27 Apr 2016 05:32:53 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=from:content-transfer-encoding:mime-version:subject:message-id:date
+         :references:in-reply-to:to;
+        bh=oiZy1Rx4DD8hFoICgNndm2CxI2KV0ZuCiCJaEsW5LdY=;
+        b=j7vPUoObw1oD5+eAd6eWWt1rPprxj1FObRttRz8mlWZfNOA73KAAuJbMDf/Pz82ydb
+         zFGx5tU77zIW3/ZE0ov8AoDbjR4wAesdpQMjV8UVNuHr3dGrSHkKAmJDNJukCyT4COIi
+         2azAaHfB+zTPW3NYhao4W0l9fqtPWHtG/j0QzftI5AqDiUlD8GH5RXyqw1vVI0BauCM+
+         gWqG/hg5ufx8ReQVDoOHdP7TCAqJWTBI84drILccUYtAsTlIES55O9c91v4Bm2T9JKG4
+         FlkSdaUOXP1DNY/a1e9CWQRR10P6NhgnsPUrWTrjrnl+yiD4B3sMTmIBHJn5R/OCDAxA
+         BsMg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:from:content-transfer-encoding:mime-version
+         :subject:message-id:date:references:in-reply-to:to;
+        bh=oiZy1Rx4DD8hFoICgNndm2CxI2KV0ZuCiCJaEsW5LdY=;
+        b=HTHVDGzqJ2vKAYxjOy81uEmWSPa0fEsoPv7XWzYogZbI9Q3MpguHRSYkm1iCsB7qny
+         PoMKxUZNqNwQg+bpSc9VLEFca3T4KfYpacyJhf13zvzRnHJw+i6Nfp6t9Or8y3lm094w
+         a7WNFirTwpZ/g+6+J57a2LUivhcQhHMICi65G/fZuXKtixdy/YLuz4ScbQ6ir/jBAkjt
+         s89Vl0wgqKg+VGjvXo0fncAfQgfjLtJApa9vmfoHzLlb6Tuyz+aFFtqBVO9QRtmBOJ/J
+         UiCF9YfE1XAYfqLcJfz7mKQRqQGAJO6UCZ1yIyN1E+iGh+ifMSOaaPnxPcxUSeaVO2RL
+         a3CQ==
+X-Gm-Message-State: AOPr4FW0HUO9Eyo+qHkpkafLfklCgvNQhglPOj2xx+kTtkqjU8RUzFtOY+OrABDz/1p7vQ==
+X-Received: by 10.140.89.178 with SMTP id v47mr7863475qgd.11.1461760372885;
+        Wed, 27 Apr 2016 05:32:52 -0700 (PDT)
+Received: from [172.20.2.166] ([63.138.8.34])
+        by smtp.gmail.com with ESMTPSA id e11sm1141244qhe.2.2016.04.27.05.32.51
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Wed, 27 Apr 2016 05:32:52 -0700 (PDT)
+From: Koenig Management <koenigmgmt@gmail.com>
+Content-Type: multipart/alternative;
+	boundary=Apple-Mail-059A1A3F-BC12-4D14-8FB3-108CC98941EB
+Content-Transfer-Encoding: 7bit
+Mime-Version: 1.0 (1.0)
+Subject: Re: EZ Wash Newark
+Message-Id: <E120299E-5BD3-4768-85F8-7C6F877F1219@gmail.com>
+Date: Wed, 27 Apr 2016 08:32:51 -0400
+References: <20160425135524.Horde.URwCoqzdh9ZL1-8TKDSVSA3@a2plcpnl0434.prod.iad2.secureserver.net> <00e401d19f34$9a0cf030$ce26d090$@gmail.com> <20160427122654.Horde.ghFBTqVFSdLoCZG8aDso1w5@a2plcpnl0434.prod.iad2.secureserver.net>
+In-Reply-To: <20160427122654.Horde.ghFBTqVFSdLoCZG8aDso1w5@a2plcpnl0434.prod.iad2.secureserver.net>
+To: mike@thelaundromatguys.com, Koenig m <koenigmgmt@gmail.com>
+X-Mailer: iPhone Mail (13C75)
+
+
+--Apple-Mail-059A1A3F-BC12-4D14-8FB3-108CC98941EB
+Content-Type: text/plain;
+	charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+Mike - G/morning. Please put forward your offer & terms to lease. Once recei=
+ved, landlord will review and offer feedback. Thank you.
+
+Sent from my iPhone
+
+> On Apr 27, 2016, at 8:26 AM, mike@thelaundromatguys.com wrote:
+>=20
+> Thank You Trudy,
+>=20
+> Do you know when we would be able to discuss the possibility of reducing t=
+he rent and extending or redoing the lease for a new tenant?  I have a very i=
+nterested buyer for the laundromat and the rent and terms of the lease are g=
+oing to play a large part in his decision to move forward with an offer.  Th=
+ank you for your time.
+>=20
+>=20
+> Quoting Koenig Management <koenigmgmt@gmail.com>:
+>=20
+>> Michael,
+>>=20
+>> =20
+>>=20
+>> Orlando is currently being billed for 70% of the water usage. As of Frida=
+y, April 23rd, the separate meters have been installed and we will be billin=
+g for actual usage going forward.
+>>=20
+>> =20
+>>=20
+>> Regards,
+>>=20
+>> =20
+>>=20
+>> Trudy Descarfino
+>>=20
+>> Koenig Management, Ltd
+>>=20
+>> =20
+>>=20
+>> =20
+>>=20
+>> =20
+>>=20
+>> From: mike@thelaundromatguys.com [mailto:mike@thelaundromatguys.com]
+>> Sent: Monday, April 25, 2016 9:55 AM
+>> To: koenigmgmt@gmail.com
+>> Subject: EZ Wash Newark
+>>=20
+>> =20
+>>=20
+>> Hello Jeff,
+>>=20
+>> Thank you for speaking with me the other day regarding the sale of EZ Was=
+h in Newark.  Can you please provide me with the percentage of the water bil=
+l that Orlando is currently paying and when you expect to switch over to the=
+ submeters?  There are a few interested buyers, one in particular who I expe=
+ct to make an offer as soon as I can give him an idea of what his rent terms=
+ will be.  Here is a little backround on the buyer and what i see his plans a=
+re for the laundromat:
+>>=20
+>> - He is an attorney and a cash buyer.
+>> - He will be offering somewhere arounf $250-350k for the business.
+>> - Immediate expenses to get the laundromat where it needs to be will incl=
+ude but not limited to replacing (18) 20lb washers which are currently not w=
+orking, repairing all out of order washers and dryers, cleaning/painting, ne=
+w counter area, replacing light fixtures with LEDs, new signage inside and o=
+ut, replacing ceiling tiles, etc.  I estimate the cost of the upfront work t=
+o be $125-$150k.
+>> - The remaining washers/dryers are 13+ years old and will need to be repl=
+aced in the next 3-5 years depending on cost of repairs.  This will be inevi=
+table as any equipment has a reasonable lifespan of 15-20 years.  Estimated c=
+ost of equipment alone will be in the $600-$700k range.
+>> - Any buyer investing this amount of money is going to need a long term l=
+ease to protect their investment, as well as the equipment comany requires i=
+t in order to obtain financing.
+>> - After analyzing the current net profit, including potential growth unde=
+r new management along with improvements both cosmetically and equipment, th=
+e total rent for this store will need to be in the $7000-$8000 (total) range=
+ for it to make sense for the new tenant and ensure long term success.  This=
+ would equate to approx. $21-$24 sq. ft. in year one.
+>> - Most investors will be looking for a minimum 10 year lease with 2 or 3 f=
+ive yr options.
+>>=20
+>> Thank you for your time and please let me know your thoughts asap as the b=
+uyer is anxious to move forward.
+>>=20
+>> Rergards,
+>>=20
+>> =20
+>>=20
+>> Michael Settembre
+>>=20
+>> THE LAUNDROMAT GUYS
+>>=20
+>> 646-294-0491 (cell)
+>>=20
+>> 201-326-1060 (office)
+>>=20
+>> 201-326-1070 (fax)
+>>=20
+>=20
+>=20
+> =20
+>=20
+> Michael Settembre
+> THE LAUNDROMAT GUYS
+> 646-294-0491 (cell)
+> 201-326-1060 (office)
+> 201-326-1070 (fax)
+>=20
+
+--Apple-Mail-059A1A3F-BC12-4D14-8FB3-108CC98941EB
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<html><head><meta http-equiv="content-type" content="text/html; charset=utf-8"></head><body dir="auto"><div>Mike - G/morning. Please put forward your offer &amp; terms to lease. Once received, landlord will review and offer feedback. Thank you.<br><br>Sent from my iPhone</div><div><br>On Apr 27, 2016, at 8:26 AM, <a href="mailto:mike@thelaundromatguys.com">mike@thelaundromatguys.com</a> wrote:<br><br></div><blockquote type="cite"><div>
+
+
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<title></title>
+
+
+<p>Thank You Trudy,<br>
+<br>
+Do you know when we would be able to discuss the possibility of reducing the rent and extending or redoing the lease for a new tenant?&nbsp; I have a very interested buyer for the laundromat and the rent and terms of the lease are going to play a large part in his decision to move forward with an offer.&nbsp; Thank you for your time.<br>
+<br>
+<br>
+Quoting Koenig Management &lt;<a href="mailto:koenigmgmt@gmail.com">koenigmgmt@gmail.com</a>&gt;:</p>
+<blockquote style="border-left:2px solid blue;margin-left:2px;padding-left:12px;" type="cite">
+<div class="WordSection1">
+<p class="MsoNormal"><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">Michael,</span></p>
+<p class="MsoNormal"><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">&nbsp;</span></p>
+<p class="MsoNormal"><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">Orlando is currently being billed for 70% of the water usage. As of Friday, April 23<sup>rd</sup>, the separate meters have been installed and we will be billing for actual usage going forward.</span></p>
+<p class="MsoNormal"><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">&nbsp;</span></p>
+<p class="MsoNormal"><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">Regards,</span></p>
+<p class="MsoNormal"><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">&nbsp;</span></p>
+<p class="MsoNormal"><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">Trudy Descarfino</span></p>
+<p class="MsoNormal"><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">Koenig Management, Ltd</span></p>
+<p class="MsoNormal"><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">&nbsp;</span></p>
+<p class="MsoNormal"><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">&nbsp;</span></p>
+<p class="MsoNormal"><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">&nbsp;</span></p>
+<div>
+<div style="border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0in 0in 0in">
+<p class="MsoNormal"><b><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">From:</span></b> <span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif"><a href="mailto:mike@thelaundromatguys.com">mike@thelaundromatguys.com</a> [<a href="mailto:mike@thelaundromatguys.com">mailto:mike@thelaundromatguys.com</a>]<br>
+<b>Sent:</b> Monday, April 25, 2016 9:55 AM<br>
+<b>To:</b> <a href="mailto:koenigmgmt@gmail.com">koenigmgmt@gmail.com</a><br>
+<b>Subject:</b> EZ Wash Newark</span></p>
+</div>
+</div>
+<p class="MsoNormal">&nbsp;</p>
+<p><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif">Hello Jeff,<br>
+<br>
+Thank you for speaking with me the other day regarding the sale of EZ Wash in Newark.&nbsp; Can you please provide me with the percentage of the water bill that Orlando is currently paying and when you expect to switch over to the submeters?&nbsp; There are a few interested buyers, one in particular who I expect to make an offer as soon as I can give him an idea of what his rent terms will be.&nbsp; Here is a little backround on the buyer and what i see his plans are for the laundromat:<br>
+<br>
+- He is an attorney and a cash buyer.<br>
+- He will be offering somewhere arounf $250-350k for the business.<br>
+- Immediate expenses to get the laundromat where it needs to be will include but not limited to replacing (18) 20lb washers which are currently not working, repairing all out of order washers and dryers, cleaning/painting, new counter area, replacing light fixtures with LEDs, new signage inside and out, replacing ceiling tiles, etc.&nbsp; I estimate the cost of the upfront work to be $125-$150k.<br>
+- The remaining washers/dryers are 13+ years old and will need to be replaced in the next 3-5 years depending on cost of repairs.&nbsp; This will be inevitable as any equipment has a reasonable lifespan of 15-20 years.&nbsp; Estimated cost of equipment alone will be in the $600-$700k range.<br>
+- Any buyer investing this amount of money is going to need a long term lease to protect their investment, as well as the equipment comany requires it in order to obtain financing.<br>
+- After analyzing the current net profit, including potential growth under new management along with improvements both cosmetically and equipment, the total rent for this store will need to be in the $7000-$8000 (total) range for it to make sense for the new tenant and ensure long term success.&nbsp; This would equate to approx. $21-$24 sq. ft. in year one.<br>
+- Most investors will be looking for a minimum 10 year lease with 2 or 3 five yr options.<br>
+<br>
+Thank you for your time and please let me know your thoughts asap as the buyer is anxious to move forward.<br>
+<br>
+Rergards,</span></p>
+<div>
+<h3><span style="font-family:&quot;Arial&quot;,sans-serif;color:blue">&nbsp;</span></h3>
+<div>
+<div>
+<p class="MsoNormal"><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif">Michael Settembre</span></p>
+</div>
+<div>
+<p class="MsoNormal"><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif">THE LAUNDROMAT GUYS</span></p>
+</div>
+<div>
+<p class="MsoNormal"><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif">646-294-0491 (cell)</span></p>
+</div>
+<div>
+<p class="MsoNormal"><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif">201-326-1060 (office)</span></p>
+</div>
+<div>
+<p class="MsoNormal"><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif">201-326-1070 (fax)</span></p>
+</div>
+</div>
+<p class="MsoNormal"><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif">&nbsp;</span></p>
+</div>
+</div>
+</blockquote>
+<p><br>
+<br></p>
+<div>
+<h3 style="color:blue;">&nbsp;</h3>
+<div>
+<div>Michael Settembre</div>
+<div>THE LAUNDROMAT GUYS</div>
+<div>646-294-0491 (cell)</div>
+<div>201-326-1060 (office)</div>
+<div>201-326-1070 (fax)</div>
+</div>
+<br></div>
+
+</div></blockquote></body></html>
+--Apple-Mail-059A1A3F-BC12-4D14-8FB3-108CC98941EB--

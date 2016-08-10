@@ -1,0 +1,281 @@
+Return-path: <bounce-vb@vonage.com>
+Envelope-to: mike@thelaundromatguys.com
+Delivery-date: Fri, 08 Jul 2016 02:41:18 -0700
+Received: from strong-eds-01.kiad0.s.vonagenetworks.net ([69.59.230.74]:49049)
+	by a2plcpnl0434.prod.iad2.secureserver.net with esmtp (Exim 4.85_1)
+	(envelope-from <bounce-vb@vonage.com>)
+	id 1bLSHe-0000HP-M8
+	for mike@thelaundromatguys.com; Fri, 08 Jul 2016 02:41:18 -0700
+Received: from localhost ([127.0.0.1])
+	by strong-eds-01.kiad0.s.vonagenetworks.net (-); Fri, 08 Jul 2016 09:41:15 +0000
+X-VirtualServer: Default, strong-eds-01.kiad0.s.vonagenetworks.net, 69.59.230.74
+X-VirtualServerGroup: Default
+X-MailingID: 50422703::61400::1467821330::40000::2016070809411141q2i0000018779228::1779_0
+X-SMHeaderMap: mid="X-MailingID"
+X-Destination-ID: mike@thelaundromatguys.com
+X-SMFBL: bWlrZUB0aGVsYXVuZHJvbWF0Z3V5cy5jb20=
+DomainKey-Signature: a=rsa-sha1;
+ c=nofws;
+ s=vonagedkim;
+ d=vonage.com;
+ q=dns;
+ b=K1bCRP2J7SaDAupZt1zSky2u8WrGjxOO25AQI/u5kh4WtbjSBLtWFf1g2vYMFIhnDweU+/MlwwLkHKjy/CoN8jx5W9RE3NuED2et+lvgAUTq43Hy0IhCeLKlywtz6n14lvywNpbDjrGICIhlXfQuEKxVW2KXCdmJNKEB6Didv+E=
+DKIM-Signature: v=1; a=rsa-sha1; c=simple; d=vonage.com;
+	s=vonagedkim; i=@vonage.com; h=Content-Transfer-Encoding:
+	Content-Disposition:Content-Type:x-vonage-category:
+	x-vonage-escrow:x-vonage-confirmation:x-vonage-mailing_name:
+	x-vonage-emailuuid:x-rpcampaign:x-vonage-account_number:
+	x-vonage-add_param:Reply-To:MIME-Version:Message-ID:
+	X-ReportingKey:Subject:Date:To:From; bh=UL6LKm4pC52skNuAKW/mSPPR
+	mn8=; b=n2k+9u027gRhGLds1Baedw8cnj6/0qZepCE5cI3rk1bIwzeX8FEsthDk
+	5asiJIi1r4Divw9GE5pvCqRwfqqPeB92em8pgTnra3X1UVAiVHPl593yPWTy8y1S
+	NelI615P5YoEcIswzH5EkhonNMCvMzf4gtdqZrFLXxdsX2Fbk+o=
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+Content-Type: text/html;
+	charset="UTF-8"
+x-vonage-category: 
+x-vonage-escrow: 
+x-vonage-confirmation: 
+x-vonage-mailing_name: VBS_Payment_Success
+x-vonage-emailuuid: 2016070809411141q2i0000018779228
+x-rpcampaign: 
+x-vonage-account_number: 146256
+x-vonage-add_param: VBS
+Reply-To: <donotreply-vb@vonage.com>
+MIME-Version: 1.0
+Message-ID: <50422703.1779@vonage.com>
+X-ReportingKey: LJ8I1U5FFO1C3F261NKMD54QJJ4HVJJ::mike@thelaundromatguys.com::2016070809411141q2i0000018779228
+Subject: Statement Available - Account 146256
+Date: Fri, 08 Jul 2016 09:41:15 +0000
+To: mike@thelaundromatguys.com
+From: Vonage Business <donotreply-vb@vonage.com>
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">=
+
+<meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge,chrome=3D1">
+<meta charset=3D"utf-8">
+<meta name=3D"viewport" content=3D"width=3Ddevice-width">
+<style type=3D"text/CSS">
+=09/**This is to overwrite Outlook.com=E2=80=99s Embedded CSS************=
+/
+=09a, a:link, a:visited {color:#49494b;} /*optional*/
+</style>
+</head>
+<body leftmargin=3D"0" topmargin=3D"0" marginwidth=3D"0" marginheight=3D"=
+0" bgcolor=3D"#ffffff" style=3D"margin:0; padding:0; -webkit-text-size-ad=
+just:none; -ms-text-size-adjust:none;">
+<IMG SRC=3D"http://custview.vonage.com:80/track?eas=3D3&amp;msid=3D1&amp;=
+auid=3D&amp;mailingid=3D61400&amp;messageid=3D40000&amp;databaseid=3D1467=
+821330&amp;type=3Dopen&amp;serial=3D50422703&amp;emailid=3Dmike@thelaundr=
+omatguys.com&amp;userid=3D2016070809411141q2i0000018779228&amp;targetid=3D=
+&amp;fl=3D&amp;extra=3DMultivariateId=3D&amp;&amp;&amp;" WIDTH=3D"1" HEIG=
+HT=3D"1" STYLE=3D"border-width:0; border-style:hidden;" ALT=3D""><img alt=
+=3D"" width=3D"1" height=3D"1" src=3D"http://pixel.monitor1.returnpath.ne=
+t/pixel.gif?r=3D6fa61c5528e240de05221dc1e8adfd2a8b556d22&amp;s=3Dabc1234&=
+amp;c=3DVBS_Payment_Success&amp;campaignid=3DVBS_Payment_Success&amp;gend=
+er=3Dmale"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D=
+"100%" align=3D"center"><tbody><tr><td><table border=3D"0" cellspacing=3D=
+"0" cellpadding=3D"0" align=3D"center"><tbody>
+<tr><td style=3D"font-family:Arial, Helvetica, sans-serif; font-size:12px=
+;" align=3D"left" valign=3D"top">
+<a href=3D"http://custview.vonage.com:80/track?type=3Dclick&amp;eas=3D3&a=
+mp;msid=3D1&amp;auid=3D&amp;mailingid=3D61400&amp;messageid=3D40000&amp;d=
+atabaseid=3D1467821330&amp;serial=3D50422703&amp;emailid=3Dmike@thelaundr=
+omatguys.com&amp;userid=3D2016070809411141q2i0000018779228&amp;targetid=3D=
+&amp;fl=3D&amp;extra=3DMultivariateId=3D&amp;&amp;&amp;561&amp;&amp;&amp;=
+https://my.vonagebusiness.com"><img src=3D"http://www.vonage.com/static/s=
+trongmail/VBS_logo.png" alt=3D"Right Click to Download Images"></a><br><b=
+r><a href=3D"http://custview.vonage.com:80/track?type=3Dclick&amp;eas=3D3=
+&amp;msid=3D1&amp;auid=3D&amp;mailingid=3D61400&amp;messageid=3D40000&amp=
+;databaseid=3D1467821330&amp;serial=3D50422703&amp;emailid=3Dmike@thelaun=
+dromatguys.com&amp;userid=3D2016070809411141q2i0000018779228&amp;targetid=
+=3D&amp;fl=3D&amp;extra=3DMultivariateId=3D&amp;&amp;&amp;561&amp;&amp;&a=
+mp;https://my.vonagebusiness.com"><img width=3D"100%" height=3D"90" src=3D=
+"http://www.vonage.com/static/strongmail/VBS/BANNER_PAYMENT_SUCCESS.png" =
+alt=3D"Right Click to Download Images"></a>
+</td></tr>
+<tr><td width=3D"100%" align=3D"center" bgcolor=3D"#ffffff"><table border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0"><tbody><tr><td style=3D"font-f=
+amily:Arial, Helvetica, sans-serif; font-size:12px;" width=3D"673" align=3D=
+"left" valign=3D"top" bgcolor=3D"#ffffff">
+<br><table border=3D"0"><tbody><tr valign=3D"top"><td style=3D"font-famil=
+y:Arial, Helvetica, sans-serif; font-size:14px;color: #49494b; word-wrap:=
+break-word;line-height:125%;" width=3D"100%">
+<strong style=3D"font-family:Arial, Helvetica, sans-serif; font-size:20px=
+;color: #49494b;">Dear=C2=A0Michael=C2=A0Settembre,</strong><br><br> Your=
+ payment to Vonage Business was successfully processed.<br><br> Please lo=
+g in to your account to      =20
+<a style=3D"color: #ff8601; text-decoration: underline;" href=3D"http://c=
+ustview.vonage.com:80/track?type=3Dclick&amp;eas=3D3&amp;msid=3D1&amp;aui=
+d=3D&amp;mailingid=3D61400&amp;messageid=3D40000&amp;databaseid=3D1467821=
+330&amp;serial=3D50422703&amp;emailid=3Dmike@thelaundromatguys.com&amp;us=
+erid=3D2016070809411141q2i0000018779228&amp;targetid=3D&amp;fl=3D&amp;ext=
+ra=3DMultivariateId=3D&amp;&amp;&amp;605&amp;&amp;&amp;https://my.vonageb=
+usiness.com/adminv2/account/146256/billing-new/bills"><strong style=3D"co=
+lor: #ff8601;font-weight: bold;">view your monthly statement</strong></a>=
+. <br><br><strong style=3D"font-weight: bold;">TRANSACTION DETAILS</stron=
+g> for account 146256<br><br><table border=3D"0" width=3D"95%" bgcolor=3D=
+"#f4f4f5"><tbody>
+<tr height=3D"20" valign=3D"top">
+<td style=3D"font-family:Arial, Helvetica, sans-serif; font-size:14px;col=
+or: #49494b;font-weight:bold;" width=3D"60%"><span style=3D"text-decorati=
+on:none; color:#49494b"><strong style=3D"font-weight: bold;">Transaction =
+Date:</strong></span></td>
+<td style=3D"font-family:Arial, Helvetica, sans-serif; font-size:14px;col=
+or: #49494b;" width=3D"40%"><span style=3D"text-decoration:none; color:#4=
+9494b">July 07, 2016</span></td>
+</tr>
+<tr height=3D"20" valign=3D"top">
+<td style=3D"font-family:Arial, Helvetica, sans-serif; font-size:14px;col=
+or: #49494b;" width=3D"60%"><strong style=3D"font-weight: bold;">Transact=
+ion Amount:</strong></td>
+<td style=3D"font-family:Arial, Helvetica, sans-serif; font-size:14px;col=
+or: #49494b;" width=3D"40%">$139.71</td>
+</tr>
+<tr height=3D"20" valign=3D"top">
+<td style=3D"font-family:Arial, Helvetica, sans-serif; font-size:14px;col=
+or: #49494b;" width=3D"60%"><strong style=3D"font-weight: bold;">Credit C=
+ard Type:</strong></td>
+<td style=3D"font-family:Arial, Helvetica, sans-serif; font-size:14px;col=
+or: #49494b;" width=3D"40%">Visa</td>
+</tr>
+<tr height=3D"20" valign=3D"top">
+<td style=3D"font-family:Arial, Helvetica, sans-serif; font-size:14px;col=
+or: #49494b;" width=3D"60%"><strong style=3D"font-weight: bold;">Credit C=
+ard Ending In: </strong></td>
+<td style=3D"font-family:Arial, Helvetica, sans-serif; font-size:14px;col=
+or: #49494b;" width=3D"40%">************6531</td>
+</tr>
+</tbody></table>
+<br> Please contact our Billing Department if you have any questions rega=
+rding this transaction.<br><br> We appreciate your business and thank you=
+ for choosing Vonage.<br><br> Sincerely,<br>Vonage Business<br><span styl=
+e=3D"text-decoration:none; color:#49494b">1-866-901-0242</span><br><br><s=
+pan style=3D"font-family:Arial, Helvetica, sans-serif;color: #49494b;font=
+-size:13px">This email was sent from a mailbox that does not accept repli=
+es.</span>
+</td></tr></tbody></table>
+</td></tr></tbody></table></td></tr>
+<tr><td>
+<tr><td align=3D"center" bgcolor=3D"#49494b"><table border=3D"0" cellspac=
+ing=3D"0" cellpadding=3D"0" bgcolor=3D"#49494b" style=3D"height:40px"><tb=
+ody>
+<tr><td style=3D"padding-top:13px"></td></tr>
+<tr>
+<td>=C2=A0=C2=A0=C2=A0</td>
+<td style=3D"font-family:Arial, Helvetica, sans-serif; font-weight:bold; =
+font-size: 11px; color: #ffffff;"><a href=3D"http://custview.vonage.com:8=
+0/track?type=3Dclick&amp;eas=3D3&amp;msid=3D1&amp;auid=3D&amp;mailingid=3D=
+61400&amp;messageid=3D40000&amp;databaseid=3D1467821330&amp;serial=3D5042=
+2703&amp;emailid=3Dmike@thelaundromatguys.com&amp;userid=3D20160708094111=
+41q2i0000018779228&amp;targetid=3D&amp;fl=3D&amp;extra=3DMultivariateId=3D=
+&amp;&amp;&amp;556&amp;&amp;&amp;http://business.vonage.com/plans/" style=
+=3D"text-decoration:none; color:#ffffff">
+        VoIP Pricing and Plans</a></td>
+<td>=C2=A0=C2=A0=C2=A0</td>
+<td style=3D"font-family:Arial, Helvetica, sans-serif; font-weight:bold; =
+font-size: 11px; color: #ffffff; "><a href=3D"http://custview.vonage.com:=
+80/track?type=3Dclick&amp;eas=3D3&amp;msid=3D1&amp;auid=3D&amp;mailingid=3D=
+61400&amp;messageid=3D40000&amp;databaseid=3D1467821330&amp;serial=3D5042=
+2703&amp;emailid=3Dmike@thelaundromatguys.com&amp;userid=3D20160708094111=
+41q2i0000018779228&amp;targetid=3D&amp;fl=3D&amp;extra=3DMultivariateId=3D=
+&amp;&amp;&amp;727&amp;&amp;&amp;http://www.vonage.com/privacy-policy" st=
+yle=3D"text-decoration:none; color:#ffffff">
+        Privacy Policy</a></td>
+<td>=C2=A0=C2=A0=C2=A0</td>
+<td style=3D"font-family:Arial, Helvetica, sans-serif; font-weight:bold; =
+font-size: 11px; color: #ffffff; "><a href=3D"http://custview.vonage.com:=
+80/track?type=3Dclick&amp;eas=3D3&amp;msid=3D1&amp;auid=3D&amp;mailingid=3D=
+61400&amp;messageid=3D40000&amp;databaseid=3D1467821330&amp;serial=3D5042=
+2703&amp;emailid=3Dmike@thelaundromatguys.com&amp;userid=3D20160708094111=
+41q2i0000018779228&amp;targetid=3D&amp;fl=3D&amp;extra=3DMultivariateId=3D=
+&amp;&amp;&amp;555&amp;&amp;&amp;http://business.vonage.com/terms/" style=
+=3D"text-decoration:none; color:#ffffff">
+        Terms of Service</a></td>
+<td>=C2=A0=C2=A0=C2=A0</td>
+<td style=3D"font-family:Arial, Helvetica, sans-serif; font-weight:bold; =
+font-size: 11px; color: #ffffff; "><a href=3D"http://custview.vonage.com:=
+80/track?type=3Dclick&amp;eas=3D3&amp;msid=3D1&amp;auid=3D&amp;mailingid=3D=
+61400&amp;messageid=3D40000&amp;databaseid=3D1467821330&amp;serial=3D5042=
+2703&amp;emailid=3Dmike@thelaundromatguys.com&amp;userid=3D20160708094111=
+41q2i0000018779228&amp;targetid=3D&amp;fl=3D&amp;extra=3DMultivariateId=3D=
+&amp;&amp;&amp;557&amp;&amp;&amp;http://business.vonage.com/" style=3D"te=
+xt-decoration:none; color:#ffffff">
+        business.vonage.com</a></td>
+<td>=C2=A0=C2=A0=C2=A0</td>
+</tr>
+<tr><td style=3D"padding-top:13px"></td></tr>
+</tbody></table></td></tr>
+<tr><td align=3D"center" bgcolor=3D"#ffffff"><table border=3D"0" cellspac=
+ing=3D"0" cellpadding=3D"0" bgcolor=3D"#ffffff" style=3D"height:40px" ali=
+gn=3D"center"><tbody>
+<tr><td style=3D"padding-top:13px"></td></tr>
+<tr>
+<td>=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0</td>
+<td><a href=3D"http://custview.vonage.com:80/track?type=3Dclick&amp;eas=3D=
+3&amp;msid=3D1&amp;auid=3D&amp;mailingid=3D61400&amp;messageid=3D40000&am=
+p;databaseid=3D1467821330&amp;serial=3D50422703&amp;emailid=3Dmike@thelau=
+ndromatguys.com&amp;userid=3D2016070809411141q2i0000018779228&amp;targeti=
+d=3D&amp;fl=3D&amp;extra=3DMultivariateId=3D&amp;&amp;&amp;549&amp;&amp;&=
+amp;https://www.facebook.com/VonageBusiness"><img src=3D"http://www.vonag=
+e.com/static/strongmail/Icon_FB.png" alt=3D"Right Click to Download Image=
+s"></a></td>
+<td>=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0</td>
+<td><a href=3D"http://custview.vonage.com:80/track?type=3Dclick&amp;eas=3D=
+3&amp;msid=3D1&amp;auid=3D&amp;mailingid=3D61400&amp;messageid=3D40000&am=
+p;databaseid=3D1467821330&amp;serial=3D50422703&amp;emailid=3Dmike@thelau=
+ndromatguys.com&amp;userid=3D2016070809411141q2i0000018779228&amp;targeti=
+d=3D&amp;fl=3D&amp;extra=3DMultivariateId=3D&amp;&amp;&amp;724&amp;&amp;&=
+amp;https://twitter.com/Vonagebusiness"><img src=3D"http://www.vonage.com=
+/static/strongmail/Icon_Twitter.png" alt=3D"Right Click to Download Image=
+s"></a></td>
+<td>=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0</td>
+<td><a href=3D"http://custview.vonage.com:80/track?type=3Dclick&amp;eas=3D=
+3&amp;msid=3D1&amp;auid=3D&amp;mailingid=3D61400&amp;messageid=3D40000&am=
+p;databaseid=3D1467821330&amp;serial=3D50422703&amp;emailid=3Dmike@thelau=
+ndromatguys.com&amp;userid=3D2016070809411141q2i0000018779228&amp;targeti=
+d=3D&amp;fl=3D&amp;extra=3DMultivariateId=3D&amp;&amp;&amp;552&amp;&amp;&=
+amp;https://plus.google.com/+VonageBusinessSolutions/posts"><img src=3D"h=
+ttp://www.vonage.com/static/strongmail/Icon_G_Plus.png" alt=3D"Right Clic=
+k to Download Images"></a></td>
+<td>=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0</td>
+<td><a href=3D"http://custview.vonage.com:80/track?type=3Dclick&amp;eas=3D=
+3&amp;msid=3D1&amp;auid=3D&amp;mailingid=3D61400&amp;messageid=3D40000&am=
+p;databaseid=3D1467821330&amp;serial=3D50422703&amp;emailid=3Dmike@thelau=
+ndromatguys.com&amp;userid=3D2016070809411141q2i0000018779228&amp;targeti=
+d=3D&amp;fl=3D&amp;extra=3DMultivariateId=3D&amp;&amp;&amp;553&amp;&amp;&=
+amp;https://www.linkedin.com/company/vonagebusiness"><img src=3D"http://w=
+ww.vonage.com/static/strongmail/Icon_LinkedIn.png" alt=3D"Right Click to =
+Download Images"></a></td>
+<td>=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0</td>
+<td><a href=3D"http://custview.vonage.com:80/track?type=3Dclick&amp;eas=3D=
+3&amp;msid=3D1&amp;auid=3D&amp;mailingid=3D61400&amp;messageid=3D40000&am=
+p;databaseid=3D1467821330&amp;serial=3D50422703&amp;emailid=3Dmike@thelau=
+ndromatguys.com&amp;userid=3D2016070809411141q2i0000018779228&amp;targeti=
+d=3D&amp;fl=3D&amp;extra=3DMultivariateId=3D&amp;&amp;&amp;551&amp;&amp;&=
+amp;http://business.vonage.com/voip-resources/blog/"><img src=3D"http://w=
+ww.vonage.com/static/strongmail/Blog_Icon.png" alt=3D"Right Click to Down=
+load Images"></a></td>
+<td>=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0</td>
+</tr>
+<tr><td style=3D"padding-top:13px"></td></tr>
+</tbody></table></td></tr>
+<tr><td align=3D"center" bgcolor=3D"#49494b"><table border=3D"0" cellspac=
+ing=3D"0" cellpadding=3D"0" width=3D"100%"><tbody><tr><td style=3D"paddin=
+g-top: 20px; padding-bottom: 20px; padding-left: 50px; padding-right: 50p=
+x;" align=3D"center" valign=3D"top" bgcolor=3D"#49494b"><table border=3D"=
+0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%"><tbody><tr><td styl=
+e=3D"font-family: Arial, Helvetica, sans-serif; font-size: 9px; color: #b=
+8b8bd;" align=3D"left" valign=3D"top">=C2=A9 2016 Vonage<br><span style=3D=
+"text-decoration:none;color:#b8b8bd">3200=C2=A0=C2=ADWindy=C2=A0=C2=ADHil=
+l=C2=A0=C2=ADRoad=C2=A0|=C2=A0Suite=C2=A0=C2=AD200=C2=A0East | Atlanta, G=
+A 30339</span><br>
+</td></tr></tbody></table></td></tr></tbody></table></td></tr>
+</td></tr>
+</tbody></table></td></tr></tbody></table>
+</body>
+</html>
+

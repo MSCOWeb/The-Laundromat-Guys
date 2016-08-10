@@ -1,0 +1,135 @@
+Return-path: <frojas3440@gmail.com>
+Envelope-to: mike@thelaundromatguys.com
+Delivery-date: Mon, 14 Mar 2016 15:40:19 -0700
+Received: from mail-oi0-f48.google.com ([209.85.218.48]:33626)
+	by a2plcpnl0434.prod.iad2.secureserver.net with esmtps (TLSv1.2:AES128-GCM-SHA256:128)
+	(Exim 4.85_1)
+	(envelope-from <frojas3440@gmail.com>)
+	id 1afb9n-002cVh-I9
+	for mike@thelaundromatguys.com; Mon, 14 Mar 2016 15:40:19 -0700
+Received: by mail-oi0-f48.google.com with SMTP id d205so145458462oia.0
+        for <mike@thelaundromatguys.com>; Mon, 14 Mar 2016 15:40:11 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:references:in-reply-to:from:date:message-id:subject:to;
+        bh=hsv+Xd8u846d9ceZ5bJm09jNJdw2lyKZ8zjgBykWgtU=;
+        b=rqipXIeKy1mLpTTzfwEcVrobUkV9Ys5/oSCqpyAZkimMq3s/BnGAHuJrxo3WXxADbJ
+         QR0yO1mVWiiFz6543q/t9iNeWg8a2mlUjYwrXeucCnSWpoC9BbwXciFdW7LhD38NmilR
+         kCCPzozounpmpHvFRuP1Gn/gHzb53lU3tEoxk/KYvQATgwrW3WKJasPg9kb1/FiH+1hD
+         BjU3cWcMqTYLxI/ZK4K2mv33wHaROt8b0Ji15SzJqF5l3NgKn7L+KScO1oGq8xQDg5Op
+         MwcRU47r/JC2Cad0GyQYNYEtEQc7x/HL6TUhPZUp4hbDn5GHoGn0WOFknjJnvkbTgzyo
+         H90A==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:references:in-reply-to:from:date
+         :message-id:subject:to;
+        bh=hsv+Xd8u846d9ceZ5bJm09jNJdw2lyKZ8zjgBykWgtU=;
+        b=acC/1DA9mU9UPa1e9Mo1AtAGbz/rfkTwe7Pwy4o/Yg8JNsDDJQWpjye3Bj06zQIGPM
+         p1PN6hJpgFy+42Tc7fBN+db2+JvsWSg2naojbGyduLjlgH1qvVMNpKp12Q1qlN5kbxCC
+         k2ekfW0nXnXnc5hXE1PW9TTfpmB/1VrbRbDTyH6Mtl56zqvU0/Ed/1BNT9lXLMNolK1U
+         rnwvwSbVGaZtcBbA11AtUmhC1fp7sRtb+K/yrxOKwTMHE14uGTka/oRwOfFnxCgHxwJq
+         vG5V9QiVlkC2p8XSQDaOfWA0WHzx9ZfXwpphvDFHlQXhYO1qcMmwrxOtWMU0jMbV+EGe
+         /TsA==
+X-Gm-Message-State: AD7BkJJpXVTkdfj4GQFxv6lswyrBmwGE5KjYPPODnJnoX5wHbIXeAXVzac7RKlAFg9aj/7R13W9JbnPdHE0iOQ==
+X-Received: by 10.202.55.198 with SMTP id e189mr15002346oia.85.1457995201806;
+ Mon, 14 Mar 2016 15:40:01 -0700 (PDT)
+MIME-Version: 1.0
+References: <20160314175141.Horde.BbpcGOP9VwiIWhoBh5fAmg5@a2plcpnl0434.prod.iad2.secureserver.net>
+In-Reply-To: <20160314175141.Horde.BbpcGOP9VwiIWhoBh5fAmg5@a2plcpnl0434.prod.iad2.secureserver.net>
+From: Fernando Rojas <frojas3440@gmail.com>
+Date: Mon, 14 Mar 2016 22:39:52 +0000
+Message-ID: <CANcQSWhT7QTER6FAW9DFJ-MNsJGEtA3KS24BB_VOaAN=7q6SKQ@mail.gmail.com>
+Subject: Re: Laundromat
+To: mike@thelaundromatguys.com
+Content-Type: multipart/alternative; boundary=001a113ceea616a016052e09f649
+
+--001a113ceea616a016052e09f649
+Content-Type: text/plain; charset=UTF-8
+
+Hello Mike,
+
+Thank you for the quick response and for explaining how it works. I will
+definitely call you if I have any more questions.
+
+Thanks,
+
+Fernando Rojas
+On Mon, Mar 14, 2016 at 1:54 PM <mike@thelaundromatguys.com> wrote:
+
+> Hello Fernando,
+>
+> I got your message earlier today.  I am working on finding a suitable
+> laundromat for you to look at.  We try and do a lot of the analyzing and
+> legwork ahead of time to eliminate wasting any of our clients time.  Many
+> of the laundromats that are available are just not worth wasting your time
+> on after we do our preliminary assessment.  With that said, I am working on
+> a few at the moment and if I think that they are worth looking at further I
+> will defintely discuss them with you.  Feel free to call me with any
+> questions and I should have something to bring to you soon.
+>
+> Thanks,
+>
+> Mike Settembre
+> THE LAUNDROMAT GUYS
+> 646-294-0491 (cell)
+> 201-326-1060 (office)
+> 201-326-1070 (fax)
+>
+> Michael Settembre
+> THE LAUNDROMAT GUYS
+> 646-294-0491 (cell)
+> 201-326-1060 (office)
+> 201-326-1070 (fax)
+>
+>
+
+--001a113ceea616a016052e09f649
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hello Mike,<br><br>Thank you for the quick response and for explaining how =
+it works.  I will definitely call you if I have any more questions.   <br><=
+br>Thanks,<br><br>Fernando Rojas<br><div class=3D"gmail_quote"><div dir=3D"=
+ltr">On Mon, Mar 14, 2016 at 1:54 PM &lt;<a href=3D"mailto:mike@thelaundrom=
+atguys.com">mike@thelaundromatguys.com</a>&gt; wrote:<br></div><blockquote =
+class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid=
+;padding-left:1ex"><u></u>
+
+
+
+
+
+<div style=3D"font-family:Arial;font-size:14px">
+<p>Hello Fernando,<br>
+<br>
+I got your message earlier today.=C2=A0 I am working on finding a suitable =
+laundromat for you to look at.=C2=A0 We try and do a lot of the analyzing a=
+nd legwork ahead of time to eliminate wasting any of our clients time.=C2=
+=A0 Many of the laundromats that are available are just not worth wasting y=
+our time on after we do our preliminary assessment.=C2=A0 With that said, I=
+ am working on a few at the moment and if I think that they are worth looki=
+ng at further I will defintely discuss them with you.=C2=A0 Feel free to ca=
+ll me with any questions and I should have something to bring to you soon.<=
+br>
+<br>
+Thanks,<br>
+<br>
+Mike Settembre<br>
+THE LAUNDROMAT GUYS<br>
+646-294-0491 (cell)<br>
+201-326-1060 (office)<br>
+201-326-1070 (fax)</p>
+<div>
+<h3 style=3D"color:blue">=C2=A0</h3>
+<div>
+<div>Michael Settembre</div>
+<div>THE LAUNDROMAT GUYS</div>
+<div>646-294-0491 (cell)</div>
+<div>201-326-1060 (office)</div>
+<div>201-326-1070 (fax)</div>
+</div>
+<br></div>
+</div>
+</blockquote></div>
+
+--001a113ceea616a016052e09f649--

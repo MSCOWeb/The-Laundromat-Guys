@@ -1,0 +1,95 @@
+Return-path: <helene573@gmail.com>
+Envelope-to: mike@thelaundromatguys.com
+Delivery-date: Thu, 07 Apr 2016 19:13:56 -0700
+Received: from mail-qg0-f49.google.com ([209.85.192.49]:36514)
+	by a2plcpnl0434.prod.iad2.secureserver.net with esmtps (TLSv1.2:AES128-GCM-SHA256:128)
+	(Exim 4.85_1)
+	(envelope-from <helene573@gmail.com>)
+	id 1aoLvo-001MwY-75
+	for mike@thelaundromatguys.com; Thu, 07 Apr 2016 19:13:56 -0700
+Received: by mail-qg0-f49.google.com with SMTP id f52so80067384qga.3
+        for <mike@thelaundromatguys.com>; Thu, 07 Apr 2016 19:13:56 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=date:subject:message-id:importance:from:to:mime-version;
+        bh=uV/Z7AagkJXHe2bvgg1x5DaAPGbabjFu8ACpCMVhCZg=;
+        b=gL6YsxXMiaSqInEOzRf0usK25xzOzc6AjFsOmqebKONKr1mhwdIK6eXJH6QC+GTsV/
+         pOYlEvOhf18W7Z6l0A8XlwH7UnNHMRlYSN3l+gf9L4wWLEsm75W/ppMTh9ZfNiAdeE7/
+         HjTs+umqgU77JEMjpZZmYaypJ2RaeaLQY14xjOQvKIsOsOU7da5g9NamYqjnxLWcP31q
+         H7mJLVj1CkFKtjkhfJ8twtc0TodYIachYRbZzYwMs8Q8xj8AsxzOC29OPnD+c1B7qj9u
+         QbGceIMBvHOCk1Yepn458Lp1RYn0Ep08QmqTWdapzrjI2CtmTPKxzGUTIDt3kgSSiWUY
+         c6oQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:date:subject:message-id:importance:from:to
+         :mime-version;
+        bh=uV/Z7AagkJXHe2bvgg1x5DaAPGbabjFu8ACpCMVhCZg=;
+        b=k/TcXFTKH62OrDPfUAVd8BD9PVkg0q3Z/wOCDgcsPb+uO7cDZ0L3EGAUCmbx/J0x6X
+         63ccq4KkvvpcxL8dKs1CDf2+d5py0JJJgVllzRL9W1/d5PzFMO/H/MLo30rJo+618NSJ
+         BvNNz+BoLU7Xv+mglM2GOMIZtBspDEDMibpsM/vOMchnIf+JTB3grurJe1doNtanNqz9
+         dSnri4/pOr1fD+SsgWHMgN5HJ0dQ7nm/Ognxkckr0sl4705S5MNKiaAChQkmEm6plRk7
+         Zmmdko7qoRcZtyX3aheLtzvjt5SauErXg6YU5MHZgmSWL4MSLdkNk2txquRKDOdC43k5
+         CDYg==
+X-Gm-Message-State: AD7BkJJDdG1BdrQTT9MQOu+jgmiJIo6731Ml2MjO1NYR+2jHNXPKPbxh7f9uQ/FX9OwTww==
+X-Received: by 10.140.18.226 with SMTP id 89mr8279183qgf.89.1460081635791;
+        Thu, 07 Apr 2016 19:13:55 -0700 (PDT)
+Received: from ?IPv6:2607:fb90:1f05:5d59:74e5:5506:9399:167c? ([2607:fb90:1f05:5d59:74e5:5506:9399:167c])
+        by smtp.gmail.com with ESMTPSA id v74sm4656722qkl.36.2016.04.07.19.13.53
+        for <mike@thelaundromatguys.com>
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Thu, 07 Apr 2016 19:13:54 -0700 (PDT)
+Date: Thu, 07 Apr 2016 22:13:50 -0400
+Subject: RE: Laundromats
+Message-ID: <rr0xwcm1f5sgvocs01awi7jm.1460081630752@email.android.com>
+Importance: normal
+From: helene573 <helene573@gmail.com>
+To: "mike@thelaundromatguys.com" <mike@thelaundromatguys.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="--_com.samsung.android.email_147082822221390"
+
+----_com.samsung.android.email_147082822221390
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: base64
+
+SGVsbG8sV2hlbiBpcyBhIGdvb2QgdGltZSB0byBjYWxsIHlvdSB0b21vcnJvdz9UaGFuayB5b3Uu
+CgoKU2VudCBmcm9tIG15IFQtTW9iaWxlIDRHIExURSBEZXZpY2UKLS0tLS0tLS0gT3JpZ2luYWwg
+bWVzc2FnZSAtLS0tLS0tLUZyb206IG1pa2VAdGhlbGF1bmRyb21hdGd1eXMuY29tIERhdGU6IDQv
+NC8xNiAgMTI6MzcgUE0gIChHTVQtMDU6MDApIFRvOiBoZWxlbmU1NzNAZ21haWwuY29tIFN1Ympl
+Y3Q6IExhdW5kcm9tYXRzIAoKSGVsbG8gSGVsZW5lLAoKCgpBdHRhY2hlZCBpcyBvdXIgcXVlc3Rp
+b25uYWlyZSB0aGF0IHdlIHdvdWxkIGFwcHJlY2lhdGUgeW91IGZpbGxpbmcKCm91dC4gVGhlIHF1
+ZXN0aW9ubmFpcmUgd2lsbCBoZWxwIHVzIGV4cGVkaXRlIHRoaW5ncyBtb3ZpbmcgZm9yd2FyZCBh
+bmQKCmdpdmVzIHVzIGHCoHJlZmVyZW5jZSBwb2ludCBhcyB0byBob3cgd2UgbWF5IGJlIG9mIHNl
+cnZpY2UgdG8geW91LsKgIFBsZWFzZSByZXZpZXcgYW5kIGZlZWwKCmZyZWUgdG8gY2FsbCBtZSB3
+aXRoIGFueSBxdWVzdGlvbnMgeW91IG1heSBoYXZlLgoKCgpSZWdhcmRzLAoKCsKgCgpNaWNoYWVs
+IFNldHRlbWJyZQpUSEUgTEFVTkRST01BVCBHVVlTCjY0Ni0yOTQtMDQ5MSAoY2VsbCkKMjAxLTMy
+Ni0xMDYwIChvZmZpY2UpCjIwMS0zMjYtMTA3MCAoZmF4KQoKCgo=
+
+----_com.samsung.android.email_147082822221390
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: base64
+
+PGh0bWw+PGhlYWQ+PG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1UeXBlIiBjb250ZW50PSJ0ZXh0
+L2h0bWw7IGNoYXJzZXQ9VVRGLTgiPjwvaGVhZD48Ym9keT48ZGl2PkhlbGxvLDwvZGl2PjxkaXY+
+V2hlbiBpcyBhIGdvb2QgdGltZSB0byBjYWxsIHlvdSB0b21vcnJvdz88L2Rpdj48ZGl2PlRoYW5r
+IHlvdS48L2Rpdj48ZGl2Pjxicj48L2Rpdj48ZGl2Pjxicj48L2Rpdj48ZGl2Pjxicj48L2Rpdj48
+ZGl2IGlkPSJjb21wb3Nlcl9zaWduYXR1cmUiPjxkaXYgc3R5bGU9ImZvbnQtc2l6ZTo4NSU7Y29s
+b3I6IzU3NTc1NyIgZGlyPSJhdXRvIj5TZW50IGZyb20gbXkgVC1Nb2JpbGUgNEcgTFRFIERldmlj
+ZTwvZGl2PjwvZGl2PjxkaXY+PGJyPjwvZGl2PjxkaXYgc3R5bGU9ImZvbnQtc2l6ZToxMDAlO2Nv
+bG9yOiMwMDAwMDAiPjwhLS0gb3JpZ2luYWxNZXNzYWdlIC0tPjxkaXY+LS0tLS0tLS0gT3JpZ2lu
+YWwgbWVzc2FnZSAtLS0tLS0tLTwvZGl2PjxkaXY+RnJvbTogbWlrZUB0aGVsYXVuZHJvbWF0Z3V5
+cy5jb20gPC9kaXY+PGRpdj5EYXRlOiA0LzQvMTYgIDEyOjM3IFBNICAoR01ULTA1OjAwKSA8L2Rp
+dj48ZGl2PlRvOiBoZWxlbmU1NzNAZ21haWwuY29tIDwvZGl2PjxkaXY+U3ViamVjdDogTGF1bmRy
+b21hdHMgPC9kaXY+PGRpdj48YnI+PC9kaXY+PC9kaXY+CjxwPkhlbGxvIEhlbGVuZSw8YnI+Cjxi
+cj4KQXR0YWNoZWQgaXMgb3VyIHF1ZXN0aW9ubmFpcmUgdGhhdCB3ZSB3b3VsZCBhcHByZWNpYXRl
+IHlvdSBmaWxsaW5nPGJyPgpvdXQuIFRoZSBxdWVzdGlvbm5haXJlIHdpbGwgaGVscCB1cyBleHBl
+ZGl0ZSB0aGluZ3MgbW92aW5nIGZvcndhcmQgYW5kPGJyPgpnaXZlcyB1cyBhJm5ic3A7cmVmZXJl
+bmNlIHBvaW50IGFzIHRvIGhvdyB3ZSBtYXkgYmUgb2Ygc2VydmljZSB0byB5b3UuJm5ic3A7IFBs
+ZWFzZSByZXZpZXcgYW5kIGZlZWw8YnI+CmZyZWUgdG8gY2FsbCBtZSB3aXRoIGFueSBxdWVzdGlv
+bnMgeW91IG1heSBoYXZlLjxicj4KPGJyPgpSZWdhcmRzLDxicj48L3A+CjxkaXY+CjxoMyBzdHls
+ZT0iY29sb3I6Ymx1ZTsiPiZuYnNwOzwvaDM+CjxkaXY+CjxkaXY+TWljaGFlbCBTZXR0ZW1icmU8
+L2Rpdj4KPGRpdj5USEUgTEFVTkRST01BVCBHVVlTPC9kaXY+CjxkaXY+NjQ2LTI5NC0wNDkxIChj
+ZWxsKTwvZGl2Pgo8ZGl2PjIwMS0zMjYtMTA2MCAob2ZmaWNlKTwvZGl2Pgo8ZGl2PjIwMS0zMjYt
+MTA3MCAoZmF4KTwvZGl2Pgo8L2Rpdj4KPGJyPjwvZGl2Pgo8L2JvZHk+PC9odG1sPg==
+
+----_com.samsung.android.email_147082822221390--
+

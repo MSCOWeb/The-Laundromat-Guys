@@ -1,0 +1,1805 @@
+Return-path: <koenigmgmt@gmail.com>
+Envelope-to: mike@thelaundromatguys.com
+Delivery-date: Tue, 19 Jul 2016 08:09:00 -0700
+Received: from mail-qk0-f182.google.com ([209.85.220.182]:34923)
+	by a2plcpnl0434.prod.iad2.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <koenigmgmt@gmail.com>)
+	id 1bPWdo-002POw-LW
+	for mike@thelaundromatguys.com; Tue, 19 Jul 2016 08:09:00 -0700
+Received: by mail-qk0-f182.google.com with SMTP id s63so18381320qkb.2
+        for <mike@thelaundromatguys.com>; Tue, 19 Jul 2016 08:08:40 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=from:to:cc:references:in-reply-to:subject:date:message-id
+         :mime-version:thread-index:content-language:importance;
+        bh=vKBmTHe5MyX1RZ9xHcImGzSh5Dwbi1qRWiJM+m56Zmg=;
+        b=DB7+xLoAg5jLSaWVS0N3eujJTD/Xaq742Z+sv8wEkpSHAVtpxZiG/irrYsC/fwl8WR
+         OHI3xGSfaWVlazYMo9efMQ/0UxFpLvM5j2Px4XIiKItzw0Ag82aM9UhOyHW2dg7Ip19M
+         Ym/heUiLC8y/6e+fDt+tE+Fc6fDWyrsLnlAqrrBh9warJwp967a3eburEm5n5/Unb/+E
+         GQmq0j3ncqXxcUeHNra2gLLWWav/M/MilWzBGJO4nID3FmGYfs4DMYQM7HxIQotMLfU2
+         RKrW1GYjGOorAArCVosBGBx6ll+8I/YCHAbQfx6nArzw1y9bcGFTWOrPA3oJ67N8q7vg
+         4e6Q==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:from:to:cc:references:in-reply-to:subject:date
+         :message-id:mime-version:thread-index:content-language:importance;
+        bh=vKBmTHe5MyX1RZ9xHcImGzSh5Dwbi1qRWiJM+m56Zmg=;
+        b=AZcm49y9DSo8ESpP7s7xLHcy4WujsDRUcVaEw39CpXR6Abx8zoIEucuMnJzZvkDa3M
+         BL4OABvnIcC8VMwLziA4oN5aQwYkhA+BLb2PZ1Gtw86Y3+qraQO4suBU49+xcD0A3kNf
+         Zihxj34M8lddLScJXf+w3dPYxaIzCWCD9pfXqDq81s6bpIfDgVvvn45jbcyGZnsvciML
+         bKXVaqX4b6bTm4iC4VZtHRHWk5tFGmKQnwzwaGqjTVmcGkpFnpiTsuIqVhh2ZpnKo6Op
+         tfy+EHy3qBY454R5kJN3LChXR23FKJRiqDeayWdXIFOuaLjf+0/lq/qTgIU09gh2EQxc
+         zMBA==
+X-Gm-Message-State: ALyK8tK247T3CRXS4VEzzmC1aKZ9W+LzaYutouGfgopoRQQldkiWNAklahc039SQnSuqiQ==
+X-Received: by 10.55.100.12 with SMTP id y12mr55645202qkb.106.1468940899730;
+        Tue, 19 Jul 2016 08:08:19 -0700 (PDT)
+Received: from JeffPC (ool-45799e0d.dyn.optonline.net. [69.121.158.13])
+        by smtp.gmail.com with ESMTPSA id q187sm139202qke.42.2016.07.19.08.08.17
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 19 Jul 2016 08:08:18 -0700 (PDT)
+From: Jeff Koenig <koenigmgmt@gmail.com>
+X-Google-Original-From: "Jeff Koenig" <koenigmgmtjeff@gmail.com>
+To: "'Michael Settembre'" <msettemb@yahoo.com>,
+	"'Michael P. Benenati'" <benenatim@yahoo.com>
+Cc: "'Sullmattpc'" <sullmattpc@aol.com>,
+	<ATAndril534@aol.com>,
+	<ojpapa@optonline.net>,
+	<koenigmgmt@gmail.com>,
+	<mike@thelaundromatguys.com>,
+	<granee1@optonline.net>,
+	<rdonnelly@donnellyind.com>,
+	<lputter@2001realestate.com>,
+	<karl@towerassociatesrealty.com>
+References: <1523926886.2808724.1468358724186.JavaMail.yahoo@mail.yahoo.com> <155fed21719-46a1-acf5@webprd-m17.mail.aol.com> <1128581566.965722.1468872750689.JavaMail.yahoo@mail.yahoo.com> <AB73A03F-31D9-4E85-825A-0E7BEF3D1453@yahoo.com>
+In-Reply-To: <AB73A03F-31D9-4E85-825A-0E7BEF3D1453@yahoo.com>
+Subject: RE: EZ Wash - Lease Termination Agreement
+Date: Tue, 19 Jul 2016 11:08:32 -0400
+Message-ID: <002601d1e1cf$6ae30dc0$40a92940$@com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0027_01D1E1AD.E3D16DC0"
+X-Priority: 1 (Highest)
+X-MSMail-Priority: High
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AdHhyKnd4rfVWw3aT8uZFzkn2EWFjAABeQEw
+Content-Language: en-us
+Importance: High
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0027_01D1E1AD.E3D16DC0
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+All -- We are working diligently to complete the lease agreement. The =
+answer to" when will the lease be finished" is when changes/additions & =
+modifications cease to continue. There are certain business terms that =
+remain open. The group will have feedback today. Thank you for your =
+patience.
+
+=20
+
+Regards,
+
+=20
+
+Jeffrey S. Koenig
+
+Koenig Management, Ltd.
+
+120 North Main Street, Suite 500
+
+New City, NY 10956
+
+845-639-1292 ext. 203
+
+845-639-0433 fax
+
+=20
+
+=20
+
+=20
+
+From: Michael Settembre [mailto:msettemb@yahoo.com]=20
+Sent: Tuesday, July 19, 2016 10:20 AM
+To: Michael P. Benenati
+Cc: Sullmattpc; ATAndril534@aol.com; ojpapa@optonline.net; =
+koenigmgmt@gmail.com; mike@thelaundromatguys.com; granee1@optonline.net; =
+rdonnelly@donnellyind.com; lputter@2001realestate.com; =
+karl@towerassociatesrealty.com
+Subject: Re: EZ Wash - Lease Termination Agreement
+
+=20
+
+John,
+
+=20
+
+Please advise when final drafts of new lease and termination letter will =
+be disbursed and if changes are agreed upon. We are trying to schedule =
+closing for Thursday and need to execute these beforehand. Thank you for =
+your assistance.
+
+=20
+
+Mike
+
+Sent from my iPhone
+
+
+On Jul 18, 2016, at 4:12 PM, Michael P. Benenati <benenatim@yahoo.com> =
+wrote:
+
+Hello all.  Here are my comments about the draft Lease Termination =
+Agreement.  =20
+
+=20
+
+1.  Paragraph 3 should include as a contingency the closing of the =
+purchase of the business from EZ Wash LLC by Benenati Ventures, Inc.=20
+
+=20
+
+2.  Why not have Paragraph 4 just say that New Tenant shall complete to =
+the Premises according to the terms and conditions as outlined in =
+Schedule A which is attached to this Lease Termination Agreement as well =
+as the New Lease. =20
+
+=20
+
+3.  Paragraph 5 must read "and New Tenant shall have no recourse against =
+Tenant arising from the New Tenant's failure to complete the work as =
+outlined in Schedule A, which such failure(s) shall constitute a =
+Default, including the closing amounts for the purchase of the =
+business."
+
+=20
+
+Paragraph 5 is currently worded is too broadly.  I told Orlando that I =
+would forgo any claim against him and waive any right to the closing =
+cost, including purchase price, in the event that I defaulted on =
+completing any of the renovations outlined in Schedule A. That was our =
+agreement, not what is contained in this draft. =20
+
+=20
+
+I have to insist upon changes as outlined above in nos. 1 and 3. =20
+
+=20
+
+Kindly advise and provide a draft with such changes. =20
+
+=20
+
+Regards, Michael Benenati=20
+
+=20
+
+On Monday, July 18, 2016 12:23 PM, Sullmattpc <sullmattpc@aol.com> =
+wrote:
+
+=20
+
+Attached hereto is the latest revised Lease Termination Agreement.  =
+Please let me know if there are any revisions thereto.
+
+John P. Sullivan, Esq.
+
+Sullivan & Mattheiss, P.C.
+
+101 Vose Avenue
+
+South Orange, NJ 07079-2025
+
+Office: 973-275-1800
+
+Fax: 973-275-1901
+
+E-mail: Sullmattpc@aol.com
+
+=E3=80=80
+
+CONFIDENTIALITY NOTE: The contents of this e-mail and any attachments to =
+it contain confidential and/or legally privileged information from the =
+law firm of Sullivan & Mattheiss, P.C. This e-mail is intended only for =
+the person or entity to which it is addressed. If you are not the =
+intended recipient, you are hereby notified that any disclosure, =
+dissemination, distribution or copying of this e-mail or the information =
+herein by anyone other than the intended recipient is prohibited. =
+Additionally, any reliance on the information contained herein is =
+strictly prohibited. If you have received this e-mail in error, please =
+notify the sender immediately and return by e-mail. Thank you.
+
+=20
+
+Although this e-mail and any attachments are believed to be free of any =
+virus or other defect that might affect any computer system into which =
+it is received and opened, it is the responsibility of the recipient to =
+ensure that it is virus free and no responsibility is accepted by the =
+law firm of Sullivan & Mattheiss, P.C. for any loss or damage arising in =
+any way from its use.
+
+=20
+
+-----Original Message-----
+From: Michael P. Benenati <benenatim@yahoo.com>
+To: Rod Donnelly <rdonnelly@Donnellyind.com>; Orlando Papaleo =
+<ojpapa@optonline.net>; Michael Settembre <msettemb@yahoo.com>
+Cc: Sullmattpc <sullmattpc@aol.com>; ATAndril534@aol.com =
+ATAndril534@aol.com <ATAndril534@aol.com>; Jeff Koenig =
+<koenigmgmt@gmail.com>; mike <mike@thelaundromatguys.com>; Orlando A. =
+Papaleo <granee1@optonline.net>
+Sent: Tue, Jul 12, 2016 5:25 pm
+Subject: RE: EZ Wash - Lease Termination Agreement
+
+Hopefully Jeff will call soon. Can someone let Orlando and know such a =
+call will be made; please!
+
+Sent from Yahoo Mail on Android =
+<https://overview.mail.yahoo.com/mobile/?.src=3DAndroid>=20
+
+=20
+
+On Mon, Jul 11, 2016 at 5:03 PM, Rod Donnelly
+
+<rdonnelly@Donnellyind.com> wrote:
+
+Orlando =E2=80=93 As I just mentioned to you on the phone, Jeff Koenig =
+will be returning from vacation tomorrow. Since Jeff has been leading =
+the negotiations, for the landlord entity, I would ask that you and your =
+tenant wait for Jeff to call you on his return to bring this deal to the =
+finish line. I=E2=80=99m confident that we are close a settlement and =
+will be able to move forward right away.
+
+Thank you
+
+=20
+
+Rod Donnelly
+
+CEO
+
+ <https://www.donnellyconstruction.com/> <image001.gif>
+
+557 Route 23 South
+
+Wayne, NJ 07470
+
+973.672.1800 x122
+
+ <http://www.donnellyconstruction.com/> Donnellyconstruction.com
+
+=20
+
+=20
+
+From: Orlando Papaleo [mailto:ojpapa@optonline.net =
+<mailto:ojpapa@optonline.net?> ]=20
+Sent: Monday, July 11, 2016 9:46 AM
+To: Michael Settembre <msettemb@yahoo.com>
+Cc: Sullmattpc <sullmattpc@aol.com>; benenatim@yahoo.com; =
+ATAndril534@aol.com ATAndril534@aol.com <ATAndril534@aol.com>; Rod =
+Donnelly <rdonnelly@Donnellyind.com>; Jeff Koenig =
+<koenigmgmt@gmail.com>; mike@thelaundromatguys.com; Orlando A. Papaleo =
+<granee1@optonline.net>
+Subject: Re: EZ Wash - Lease Termination Agreement
+
+=20
+
+Rod/Jeff,
+
+Can you please incorporate the below changes so we can all move forward. =
+I would like to have this finalized today so we can schedule a closing =
+date. Thanks
+
+=20
+
+=20
+
+On Thu, Jul 07, 2016 at 05:47 PM, Michael Settembre wrote:
+
+=20
+
+=20
+
+Sorry, one final addition:
+
+=20
+
+In the event of default, Mr. Benenati shall have no recourse in regards =
+to closing amounts for purchase of business.
+
+=20
+
+Thank You,
+
+=20
+
+Michael Settembre
+The Laundromat Guys, Inc
+EFR, Inc.
+646-294-0491 (cell)
+201-326-1060 (office)
+201-326-1070 (fax)
+
+=20
+
+On Thursday, July 7, 2016 5:30 PM, Michael Settembre =
+<msettemb@yahoo.com> wrote:
+
+=20
+
+Hello All,
+
+=20
+
+After a phone conference with both Mr. Papaleo and Mr. Benenati =
+regarding the termination letter, both parties have come to agreement on =
+any and outstanding issues that remained.  With that said, there a a few =
+minor adjustments requested.
+
+=20
+
+1.	 Neither party will be responsible for any legal fees associated with =
+drafting, negotiating, or finalizing the new lease or termination =
+letter.
+2.	Exhibit A (1.)  Amend to read:=20
+
+(1.)             Tenant shall, at is sole expense, replace the current =
+HVAC system with a new HVAC system at at least its now current capacity =
+for the Premises or repair the current HVAC system to working order in =
+the event that the NJ Direct Install Program is unavailable.
+
+3.	 Add language stating that in the event of a default by new tenant, =
+new tenant indemnifies the current tenant for lease obligations.=20
+
+=20
+
+I hope that we can move forward rather quickly as everyone is eager to =
+get this done.
+
+=20
+
+Thank You,
+
+=20
+
+Michael Settembre
+The Laundromat Guys, Inc
+EFR, Inc.
+646-294-0491 (cell)
+201-326-1060 (office)
+201-326-1070 (fax)
+
+=20
+
+On Thursday, July 7, 2016 2:52 PM, Sullmattpc <sullmattpc@aol.com> =
+wrote:
+
+=20
+
+Attached hereto is Landlord's revised Lease Termination Agreement based =
+upon Michael Settembre's e-mail below.  This draft does not include any =
+of the proposed amendments from Al Andril as they came in as I was =
+finishing this draft. I believe that Orlando and Michael Benenati must =
+resolve most of the issues in Al Andril's proposed amendments before =
+Landlord weighs in.  Please also note that my client has not yet had a =
+chance to review my revisions to the Lease Termination Agreement, so we =
+reserve the right to make further revisions thereto.
+
+John P. Sullivan, Esq.
+
+Sullivan & Mattheiss, P.C.
+
+101 Vose Avenue
+
+South Orange, NJ 07079-2025
+
+Office: 973-275-1800
+
+Fax: 973-275-1901
+
+E-mail: Sullmattpc@aol.com
+
+=E3=80=80
+
+CONFIDENTIALITY NOTE: The contents of this e-mail and any attachments to =
+it contain confidential and/or legally privileged information from the =
+law firm of Sullivan & Mattheiss, P.C. This e-mail is intended only for =
+the person or entity to which it is addressed. If you are not the =
+intended recipient, you are hereby notified that any disclosure, =
+dissemination, distribution or copying of this e-mail or the information =
+herein by anyone other than the intended recipient is prohibited. =
+Additionally, any reliance on the information contained herein is =
+strictly prohibited. If you have received this e-mail in error, please =
+notify the sender immediately and return by e-mail. Thank you.
+
+=20
+
+Although this e-mail and any attachments are believed to be free of any =
+virus or other defect that might affect any computer system into which =
+it is received and opened, it is the responsibility of the recipient to =
+ensure that it is virus free and no responsibility is accepted by the =
+law firm of Sullivan & Mattheiss, P.C. for any loss or damage arising in =
+any way from its use.
+
+=20
+
+-----Original Message-----
+From: Michael P. Benenati <benenatim@yahoo.com>
+To: Michael Settembre <msettemb@yahoo.com>; ATAndril534 =
+<ATAndril534@aol.com>; sullmattpc <sullmattpc@aol.com>
+Cc: rdonnelly <rdonnelly@donnellyind.com>; koenigmgmt =
+<koenigmgmt@gmail.com>; mike <mike@thelaundromatguys.com>; ojpapa =
+<ojpapa@optonline.net>
+Sent: Thu, Jul 7, 2016 11:12 am
+Subject: Re: EZ Wash - Lease Termination Agreement
+
+John are you going to send out a revised schedule A today? =20
+
+=20
+
+Mike Benenati
+
+Sent from Yahoo Mail on Android =
+<https://overview.mail.yahoo.com/mobile/?.src=3DAndroid>=20
+
+=20
+
+On Wed, Jul 6, 2016 at 9:21 PM, Michael Settembre
+
+<msettemb@yahoo.com> wrote:
+
+Gentlemen,
+
+=20
+
+After speaking with Rod and all parties involved, I believe we have =
+finally resolved all of the issues at hand. =20
+
+=20
+
+Rod- please advise John to amend the termination letter on the two =
+points that we discussed:
+
+=20
+
+1.	 Please attach Schedule A to termination letter to clarify "Tenant's =
+Work".
+2.	 Language needs to be added stipulating that the 90 day time period =
+refers only to work performed outside of the NJ Direct Install program =
+or in conjunction with the program, namely, the HVAC, lighting, and =
+ceiling tiles.  All parties are under the belief that this program will =
+be reinstated in the near future, however, if I time frame needs to be =
+established, please allow 1 year.
+
+=20
+
+Please advise when these changes will be made as everyone is eager to =
+move forward.=20
+
+=20
+
+Regards,
+
+=20
+
+Michael Settembre
+The Laundromat Guys, Inc
+EFR, Inc.
+646-294-0491 (cell)
+201-326-1060 (office)
+201-326-1070 (fax)
+
+=20
+
+On Wednesday, July 6, 2016 4:22 PM, Michael P. Benenati =
+<benenatim@yahoo.com> wrote:
+
+=20
+
+Al, when can we expect a response?
+
+=20
+
+If there is no response by 12 noon tomorrow, then I'm done and you can =
+send back my deposit.=20
+
+=20
+
+These issues have been present since last week Monday and its =
+disappointing that Orlando is not making this a priority.=20
+
+=20
+
+Kindly advise Orlando of the deadline.=20
+
+=20
+
+Thanks, Mike Benenati
+
+=20
+
+Sent from Yahoo Mail on Android =
+<https://overview.mail.yahoo.com/mobile/?.src=3DAndroid>=20
+
+=20
+
+On Wed, Jul 6, 2016 at 4:00 PM, ATAndril534@aol.com
+
+<ATAndril534@aol.com> wrote:
+
+I have not yet spoken to Mr. Papaleo regarding the termination =
+agreement.  At this time I have no comment regarding the agreement. =20
+
+=20
+
+Alcides T. Andril, Esq.
+Andril & Espinosa, LLC
+534 Westfield Avenue
+Elizabeth, NJ 07208
+908-558-0100 Fax 908-558-0450=20
+
+=20
+
+In a message dated 7/6/2016 3:56:33 P.M. Eastern Daylight Time, =
+benenatim@yahoo.com writes:
+
+Al and Orlando,=20
+
+=20
+
+We have yet to hear any of your thoughts about John's draft and my =
+suggestion for a meeting. If you want to get this deal done, i suggest =
+we get together and have a meeting to hammer out all of the issues.
+
+=20
+
+I think doing that is a more cost effective approach for everyone.=20
+
+=20
+
+Kindly advise.=20
+
+=20
+
+Regards, Mike Benenati
+
+Sent from Yahoo Mail on Android =
+<https://overview.mail.yahoo.com/mobile/?.src=3DAndroid>=20
+
+=20
+
+On Wed, Jul 6, 2016 at 10:59 AM, Michael P. Benenati
+
+<benenatim@yahoo.com> wrote:
+
+I think its a good starting poi t. However, my concern is that there is =
+noreference the fact that certain renovations, lighting and HVAC, are =
+subject to NJ state government programs. Such programs may affect the =
+timeline.  I would be concerned about signing a lease that locks me into =
+a timeline without there being some leeway accounting for the firegoing. =
+=20
+
+=20
+
+I suggest we have a meeting to hammer out acceptable agreements between =
+all parties. Such a meeting would be a more cost effective approach then =
+having tons of phone and email correspondence.=20
+
+=20
+
+Please let me know if a meeting is feasible this week.
+
+=20
+
+Mike Benenati
+
+Sent from Yahoo Mail on Android =
+<https://overview.mail.yahoo.com/mobile/?.src=3DAndroid>=20
+
+=20
+
+On Wed, Jul 6, 2016 at 10:36 AM, Sullmattpc
+
+<sullmattpc@aol.com> wrote:
+
+Dear Mr. Andril and Mr. Benenati:
+
+Attached for your review is Landlord's proposed Lease Termination =
+Agreement for the January 30, 2003 E-Z Wash, L.L.C. lease.  Please let =
+me know your thoughts after you have had a chance to review same.=20
+
+=20
+
+I look forward to  hearing from you.
+
+
+John P. Sullivan, Esq.
+
+Sullivan & Mattheiss, P.C.
+
+101 Vose Avenue
+
+South Orange, NJ 07079-2025
+
+Office: 973-275-1800
+
+Fax: 973-275-1901
+
+E-mail: Sullmattpc@aol.com
+
+=E3=80=80
+
+CONFIDENTIALITY NOTE: The contents of this e-mail and any attachments to =
+it contain confidential and/or legally privileged information from the =
+law firm of Sullivan & Mattheiss, P.C. This e-mail is intended only for =
+the person or entity to which it is addressed. If you are not the =
+intended recipient, you are hereby notified that any disclosure, =
+dissemination, distribution or copying of this e-mail or the information =
+herein by anyone other than the intended recipient is prohibited. =
+Additionally, any reliance on the information contained herein is =
+strictly prohibited. If you have received this e-mail in error, please =
+notify the sender immediately and return by e-mail. Thank you.
+
+=20
+
+Although this e-mail and any attachments are believed to be free of any =
+virus or other defect that might affect any computer system into which =
+it is received and opened, it is the responsibility of the recipient to =
+ensure that it is virus free and no responsibility is accepted by the =
+law firm of Sullivan & Mattheiss, P.C. for any loss or damage arising in =
+any way from its use.
+
+=20
+
+=20
+
+=20
+
+=20
+
+<image001.gif>
+
+
+------=_NextPart_000_0027_01D1E1AD.E3D16DC0
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><meta =
+http-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8"><meta =
+name=3DGenerator content=3D"Microsoft Word 12 (filtered =
+medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Helvetica;
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"MS Gothic";
+	panose-1:2 11 6 9 7 2 5 8 2 4;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"\@MS Gothic";
+	panose-1:2 11 6 9 7 2 5 8 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-priority:99;
+	mso-style-link:"Balloon Text Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-priority:99;
+	mso-style-link:"Balloon Text";
+	font-family:"Tahoma","sans-serif";}
+span.EmailStyle20
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+/* List Definitions */
+@list l0
+	{mso-list-id:456215671;
+	mso-list-template-ids:2029680616;}
+@list l1
+	{mso-list-id:708187730;
+	mso-list-template-ids:-544282932;}
+@list l2
+	{mso-list-id:728652745;
+	mso-list-template-ids:-282953374;}
+@list l2:level1
+	{mso-level-start-at:3;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US link=3Dblue =
+vlink=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>All -- We are working diligently to complete the lease agreement. The =
+answer to&quot; when will the lease be finished&quot; is when =
+changes/additions &amp; modifications cease to continue. There are =
+certain business terms that remain open. The group will have feedback =
+today. Thank you for your patience.<o:p></o:p></span></p><p =
+class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Regards,<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><b><i><span =
+style=3D'font-size:11.0pt;color:#1F497D'>Jeffrey S. =
+Koenig<o:p></o:p></span></i></b></p><p class=3DMsoNormal><i><span =
+style=3D'font-size:11.0pt;color:#1F497D'>Koenig Management, =
+Ltd.<o:p></o:p></span></i></p><p class=3DMsoNormal><i><span =
+style=3D'font-size:11.0pt;color:#1F497D'>120 North Main Street, Suite =
+500<o:p></o:p></span></i></p><p class=3DMsoNormal><i><span =
+style=3D'font-size:11.0pt;color:#1F497D'>New City, NY =
+10956<o:p></o:p></span></i></p><p class=3DMsoNormal><i><span =
+style=3D'font-size:11.0pt;color:#1F497D'>845-639-1292 ext. =
+203<o:p></o:p></span></i></p><p class=3DMsoNormal><i><span =
+style=3D'font-size:11.0pt;color:#1F497D'>845-639-0433 =
+fax<o:p></o:p></span></i></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'><o:p>&nbsp;</o:p></span></p><div><div =
+style=3D'border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0in =
+0in 0in'><p class=3DMsoNormal><b><span =
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'>From:</span>=
+</b><span style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'> =
+Michael Settembre [mailto:msettemb@yahoo.com] <br><b>Sent:</b> Tuesday, =
+July 19, 2016 10:20 AM<br><b>To:</b> Michael P. Benenati<br><b>Cc:</b> =
+Sullmattpc; ATAndril534@aol.com; ojpapa@optonline.net; =
+koenigmgmt@gmail.com; mike@thelaundromatguys.com; granee1@optonline.net; =
+rdonnelly@donnellyind.com; lputter@2001realestate.com; =
+karl@towerassociatesrealty.com<br><b>Subject:</b> Re: EZ Wash - Lease =
+Termination Agreement<o:p></o:p></span></p></div></div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><div><p =
+class=3DMsoNormal>John,<o:p></o:p></p></div><div =
+id=3DAppleMailSignature><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div><div =
+id=3DAppleMailSignature><p class=3DMsoNormal>Please advise when final =
+drafts of new lease and termination letter will be disbursed and if =
+changes are agreed upon. We are trying to schedule closing for Thursday =
+and need to execute these beforehand. Thank you for your =
+assistance.<o:p></o:p></p></div><div id=3DAppleMailSignature><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div><div =
+id=3DAppleMailSignature><p class=3DMsoNormal>Mike<br><br>Sent from my =
+iPhone<o:p></o:p></p></div><div><p class=3DMsoNormal =
+style=3D'margin-bottom:12.0pt'><br>On Jul 18, 2016, at 4:12 PM, Michael =
+P. Benenati &lt;<a =
+href=3D"mailto:benenatim@yahoo.com">benenatim@yahoo.com</a>&gt; =
+wrote:<o:p></o:p></p></div><blockquote =
+style=3D'margin-top:5.0pt;margin-bottom:5.0pt'><div><div><div =
+id=3D"yui_3_16_0_1_1468861992863_53034"><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-family:"Helvetica","sans-serif";color:black'>Hello all. =
+&nbsp;Here are my comments about the draft Lease Termination Agreement. =
+&nbsp;&nbsp;<o:p></o:p></span></p></div><div =
+id=3D"yui_3_16_0_1_1468861992863_50819"><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-family:"Helvetica","sans-serif";color:black'><o:p>&nbsp;</o=
+:p></span></p></div><div id=3D"yui_3_16_0_1_1468861992863_48788"><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-family:"Helvetica","sans-serif";color:black'>1. =
+&nbsp;Paragraph 3 should include as a contingency the closing of the =
+purchase of the business from EZ Wash LLC by Benenati Ventures, =
+Inc.&nbsp;<o:p></o:p></span></p></div><div =
+id=3D"yui_3_16_0_1_1468861992863_48788"><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-family:"Helvetica","sans-serif";color:black'><o:p>&nbsp;</o=
+:p></span></p></div><div id=3D"yui_3_16_0_1_1468861992863_48788"><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-family:"Helvetica","sans-serif";color:black'>2. &nbsp;Why =
+not have Paragraph 4 just say that New Tenant shall complete to the =
+Premises according to the terms and conditions as outlined in Schedule A =
+which is attached to this Lease Termination Agreement as well as the New =
+Lease. &nbsp;<o:p></o:p></span></p></div><div =
+id=3D"yui_3_16_0_1_1468861992863_48788"><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-family:"Helvetica","sans-serif";color:black'><o:p>&nbsp;</o=
+:p></span></p></div><div id=3D"yui_3_16_0_1_1468861992863_48788"><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-family:"Helvetica","sans-serif";color:black'>3. =
+&nbsp;Paragraph 5 must read &quot;and New Tenant shall have no recourse =
+against Tenant arising from the New Tenant's failure to complete the =
+work as outlined in Schedule A, which such failure(s) shall constitute a =
+Default, including the closing amounts for the purchase of the =
+business.&quot;<o:p></o:p></span></p></div><div =
+id=3D"yui_3_16_0_1_1468861992863_48788"><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-family:"Helvetica","sans-serif";color:black'><o:p>&nbsp;</o=
+:p></span></p></div><div id=3D"yui_3_16_0_1_1468861992863_48788"><p =
+class=3DMsoNormal style=3D'background:white'><b><span =
+style=3D'font-family:"Helvetica","sans-serif";color:black'>Paragraph 5 =
+is currently worded is too broadly. &nbsp;I told Orlando that I would =
+forgo any claim against him and waive any right to the closing cost, =
+including purchase price, in the event that I defaulted on completing =
+any of the renovations outlined in Schedule A. That was our agreement, =
+not what is contained in this draft. &nbsp;</span></b><span =
+style=3D'font-family:"Helvetica","sans-serif";color:black'><o:p></o:p></s=
+pan></p></div><div id=3D"yui_3_16_0_1_1468861992863_48788"><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-family:"Helvetica","sans-serif";color:black'><o:p>&nbsp;</o=
+:p></span></p></div><div id=3D"yui_3_16_0_1_1468861992863_48788"><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-family:"Helvetica","sans-serif";color:black'>I have to =
+insist upon changes as outlined above in nos. 1 and 3. =
+&nbsp;<o:p></o:p></span></p></div><div =
+id=3D"yui_3_16_0_1_1468861992863_48788"><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-family:"Helvetica","sans-serif";color:black'><o:p>&nbsp;</o=
+:p></span></p></div><div id=3D"yui_3_16_0_1_1468861992863_48788"><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-family:"Helvetica","sans-serif";color:black'>Kindly advise =
+and provide a draft with such changes. =
+&nbsp;<o:p></o:p></span></p></div><div =
+id=3D"yui_3_16_0_1_1468861992863_48788"><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-family:"Helvetica","sans-serif";color:black'><o:p>&nbsp;</o=
+:p></span></p></div><div id=3D"yui_3_16_0_1_1468861992863_48788"><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-family:"Helvetica","sans-serif";color:black'>Regards, =
+Michael Benenati&nbsp;<o:p></o:p></span></p></div><div><p =
+class=3DMsoNormal style=3D'margin-bottom:12.0pt;background:white'><span =
+style=3D'font-family:"Helvetica","sans-serif";color:black'><o:p>&nbsp;</o=
+:p></span></p></div><div><div><div><div><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>O=
+n Monday, July 18, 2016 12:23 PM, Sullmattpc &lt;<a =
+href=3D"mailto:sullmattpc@aol.com">sullmattpc@aol.com</a>&gt; =
+wrote:</span><span =
+style=3D'font-family:"Helvetica","sans-serif";color:black'><o:p></o:p></s=
+pan></p></div><p class=3DMsoNormal =
+style=3D'margin-bottom:12.0pt;background:white'><span =
+style=3D'font-family:"Helvetica","sans-serif";color:black'><o:p>&nbsp;</o=
+:p></span></p><div><div id=3Dyiv5086810481><div><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-family:"Helvetica","sans-serif";color:blue'>Attached =
+hereto is the latest revised Lease Termination Agreement. &nbsp;Please =
+let me know if there are any revisions thereto.<br><br>John P. Sullivan, =
+Esq.</span><span =
+style=3D'font-family:"Helvetica","sans-serif";color:black'><o:p></o:p></s=
+pan></p><div><div><p class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-family:"Helvetica","sans-serif";color:black'>Sullivan =
+&amp; Mattheiss, P.C.<o:p></o:p></span></p></div><div><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-family:"Helvetica","sans-serif";color:black'>101 Vose =
+Avenue<o:p></o:p></span></p></div><div><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-family:"Helvetica","sans-serif";color:black'>South Orange, =
+NJ 07079-2025<o:p></o:p></span></p></div><div><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-family:"Helvetica","sans-serif";color:black'>Office: =
+973-275-1800<o:p></o:p></span></p></div><div><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-family:"Helvetica","sans-serif";color:black'>Fax: =
+973-275-1901<o:p></o:p></span></p></div><div><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-family:"Helvetica","sans-serif";color:black'>E-mail: <a =
+href=3D"mailto:Sullmattpc@aol.com" =
+target=3D"_blank">Sullmattpc@aol.com</a><o:p></o:p></span></p></div><div>=
+<p class=3DMsoNormal style=3D'background:white'><strong><span =
+style=3D'font-family:"MS =
+Gothic";color:black'>=E3=80=80</span></strong><span =
+style=3D'font-family:"Helvetica","sans-serif";color:black'><o:p></o:p></s=
+pan></p></div><div><p class=3DMsoNormal =
+style=3D'background:white'><strong><span =
+style=3D'font-size:10.0pt;font-family:"Helvetica","sans-serif";color:blac=
+k'>CONFIDENTIALITY NOTE: </span></strong><span =
+style=3D'font-size:7.5pt;font-family:"Helvetica","sans-serif";color:black=
+'>The contents of this e-mail and any attachments to it contain =
+confidential and/or legally privileged information from the law firm of =
+Sullivan &amp; Mattheiss, P.C. This e-mail is intended only for the =
+person or entity to which it is addressed. If you are not the intended =
+recipient, you are hereby notified that any disclosure, dissemination, =
+distribution or copying of this e-mail or the information herein by =
+anyone other than the intended recipient is prohibited. Additionally, =
+any reliance on the information contained herein is strictly prohibited. =
+If you have received this e-mail in error, please notify the sender =
+immediately and return by e-mail. Thank you.</span><span =
+style=3D'font-family:"Helvetica","sans-serif";color:black'><o:p></o:p></s=
+pan></p></div><div><p class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-family:"Helvetica","sans-serif";color:black'><o:p>&nbsp;</o=
+:p></span></p><div><p class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:7.5pt;font-family:"Helvetica","sans-serif";color:black=
+'>Although this e-mail and any attachments are believed to be free of =
+any virus or other defect that might affect any computer system into =
+which it is received and opened, it is the responsibility of the =
+recipient to ensure that it is virus free and no responsibility is =
+accepted by the law firm of Sullivan &amp; Mattheiss, P.C. for any loss =
+or damage arising in any way from its use.</span><span =
+style=3D'font-family:"Helvetica","sans-serif";color:black'><o:p></o:p></s=
+pan></p></div></div></div><p class=3DMsoNormal =
+style=3D'margin-bottom:12.0pt;background:white'><span =
+style=3D'font-family:"Helvetica","sans-serif";color:black'><o:p>&nbsp;</o=
+:p></span></p><div id=3Dyiv5086810481yqt60618><div><p class=3DMsoNormal =
+style=3D'margin-bottom:12.0pt;background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>-=
+----Original Message-----<br>From: Michael P. Benenati &lt;<a =
+href=3D"mailto:benenatim@yahoo.com">benenatim@yahoo.com</a>&gt;<br>To: =
+Rod Donnelly &lt;<a =
+href=3D"mailto:rdonnelly@donnellyind.com">rdonnelly@Donnellyind.com</a>&g=
+t;; Orlando Papaleo &lt;<a =
+href=3D"mailto:ojpapa@optonline.net">ojpapa@optonline.net</a>&gt;; =
+Michael Settembre &lt;<a =
+href=3D"mailto:msettemb@yahoo.com">msettemb@yahoo.com</a>&gt;<br>Cc: =
+Sullmattpc &lt;<a =
+href=3D"mailto:sullmattpc@aol.com">sullmattpc@aol.com</a>&gt;; <a =
+href=3D"mailto:ATAndril534@aol.com">ATAndril534@aol.com</a> <a =
+href=3D"mailto:ATAndril534@aol.com">ATAndril534@aol.com</a> &lt;<a =
+href=3D"mailto:ATAndril534@aol.com">ATAndril534@aol.com</a>&gt;; Jeff =
+Koenig &lt;<a =
+href=3D"mailto:koenigmgmt@gmail.com">koenigmgmt@gmail.com</a>&gt;; mike =
+&lt;<a =
+href=3D"mailto:mike@thelaundromatguys.com">mike@thelaundromatguys.com</a>=
+&gt;; Orlando A. Papaleo &lt;<a =
+href=3D"mailto:granee1@optonline.net">granee1@optonline.net</a>&gt;<br>Se=
+nt: Tue, Jul 12, 2016 5:25 pm<br>Subject: RE: EZ Wash - Lease =
+Termination Agreement<o:p></o:p></span></p><div =
+id=3D"yiv5086810481AOLMsgPart_1.2_d84c878d-ff69-4f03-aa55-79a52fa558aa"><=
+div><p class=3DMsoNormal =
+style=3D'margin-bottom:12.0pt;background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>H=
+opefully Jeff will call soon. Can someone let Orlando and know such a =
+call will be made; please!<o:p></o:p></span></p><div =
+id=3D"yiv5086810481ymail_android_signature"><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'><=
+a href=3D"https://overview.mail.yahoo.com/mobile/?.src=3DAndroid" =
+target=3D"_blank">Sent from Yahoo Mail on =
+Android</a><o:p></o:p></span></p></div><blockquote =
+style=3D'margin-left:0in;margin-right:0in;margin-bottom:15.0pt'><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'><=
+o:p>&nbsp;</o:p></span></p><div><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>O=
+n Mon, Jul 11, 2016 at 5:03 PM, Rod =
+Donnelly<o:p></o:p></span></p></div><div><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>&=
+lt;<a href=3D"mailto:rdonnelly@Donnellyind.com" =
+target=3D"_blank">rdonnelly@Donnellyind.com</a>&gt; =
+wrote:<o:p></o:p></span></p></div><div =
+style=3D'border:none;border-left:solid #6D00F6 1.0pt;padding:0in 0in 0in =
+15.0pt;margin-top:7.5pt'><div><div><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-size:11.0pt;font-family:"Arial","sans-serif";color:#1F497D'=
+>Orlando =E2=80=93 As I just mentioned to you on the phone, Jeff Koenig =
+will be returning from vacation tomorrow. Since Jeff has been leading =
+the negotiations, for the landlord entity, I would ask that you and your =
+tenant wait for Jeff to call you on his return to bring this deal to the =
+finish line. I=E2=80=99m confident that we are close a settlement and =
+will be able to move forward right away.</span><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'><=
+o:p></o:p></span></p></div><div><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-size:11.0pt;font-family:"Arial","sans-serif";color:#1F497D'=
+>Thank you</span><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'><=
+o:p></o:p></span></p></div><div><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-size:11.0pt;font-family:"Arial","sans-serif";color:#1F497D'=
+>&nbsp;</span><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'><=
+o:p></o:p></span></p></div><div><p class=3DMsoNormal =
+style=3D'background:white'><b><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:#002060'=
+>Rod Donnelly</span></b><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'><=
+o:p></o:p></span></p></div><div><p class=3DMsoNormal =
+style=3D'background:white'><i><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:#002060'=
+>CEO</span></i><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'><=
+o:p></o:p></span></p></div><div><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'><=
+a href=3D"https://www.donnellyconstruction.com/" =
+target=3D"_blank"><i><span =
+style=3D'text-decoration:none'>&lt;image001.gif&gt;</span></i></a><o:p></=
+o:p></span></p></div><div><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:#002060'=
+>557 Route 23 South</span><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'><=
+o:p></o:p></span></p></div><div><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:#002060'=
+>Wayne, NJ 07470</span><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'><=
+o:p></o:p></span></p></div><div><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:#002060'=
+>973.672.1800 x122</span><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'><=
+o:p></o:p></span></p></div><div><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:#002060'=
+><a href=3D"http://www.donnellyconstruction.com/" =
+target=3D"_blank"><span =
+style=3D'color:#0563C1'>Donnellyconstruction.com</span></a></span><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'><=
+o:p></o:p></span></p></div><div><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-size:11.0pt;font-family:"Arial","sans-serif";color:#1F497D'=
+>&nbsp;</span><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'><=
+o:p></o:p></span></p></div><div><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-size:11.0pt;font-family:"Arial","sans-serif";color:#1F497D'=
+>&nbsp;</span><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'><=
+o:p></o:p></span></p></div><div><p class=3DMsoNormal =
+style=3D'background:white'><b><span =
+style=3D'font-size:11.0pt;font-family:"Arial","sans-serif";color:black'>F=
+rom:</span></b><span =
+style=3D'font-size:11.0pt;font-family:"Arial","sans-serif";color:black'> =
+Orlando Papaleo [<a href=3D"mailto:ojpapa@optonline.net?" =
+target=3D"_blank">mailto:ojpapa@optonline.net</a>] <br><b>Sent:</b> =
+Monday, July 11, 2016 9:46 AM<br><b>To:</b> Michael Settembre &lt;<a =
+href=3D"mailto:msettemb@yahoo.com" =
+target=3D"_blank">msettemb@yahoo.com</a>&gt;<br><b>Cc:</b> Sullmattpc =
+&lt;<a href=3D"mailto:sullmattpc@aol.com" =
+target=3D"_blank">sullmattpc@aol.com</a>&gt;; <a =
+href=3D"mailto:benenatim@yahoo.com" =
+target=3D"_blank">benenatim@yahoo.com</a>; <a =
+href=3D"mailto:ATAndril534@aol.com" =
+target=3D"_blank">ATAndril534@aol.com</a> <a =
+href=3D"mailto:ATAndril534@aol.com" =
+target=3D"_blank">ATAndril534@aol.com</a> &lt;<a =
+href=3D"mailto:ATAndril534@aol.com" =
+target=3D"_blank">ATAndril534@aol.com</a>&gt;; Rod Donnelly &lt;<a =
+href=3D"mailto:rdonnelly@Donnellyind.com" =
+target=3D"_blank">rdonnelly@Donnellyind.com</a>&gt;; Jeff Koenig &lt;<a =
+href=3D"mailto:koenigmgmt@gmail.com" =
+target=3D"_blank">koenigmgmt@gmail.com</a>&gt;; <a =
+href=3D"mailto:mike@thelaundromatguys.com" =
+target=3D"_blank">mike@thelaundromatguys.com</a>; Orlando A. Papaleo =
+&lt;<a href=3D"mailto:granee1@optonline.net" =
+target=3D"_blank">granee1@optonline.net</a>&gt;<br><b>Subject:</b> Re: =
+EZ Wash - Lease Termination Agreement</span><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'><=
+o:p></o:p></span></p></div><div><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>&=
+nbsp;<o:p></o:p></span></p></div><div><div><div><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>R=
+od/Jeff,<o:p></o:p></span></p></div></div><div><div><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>C=
+an you please incorporate the below changes so we can all move forward. =
+I would like to have this finalized today so we can schedule a closing =
+date. Thanks<o:p></o:p></span></p></div></div><div><div><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>&=
+nbsp;<o:p></o:p></span></p></div></div><div><div><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>&=
+nbsp;<o:p></o:p></span></p></div></div><div><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>O=
+n Thu, Jul 07, 2016 at 05:47 PM, Michael Settembre =
+wrote:<o:p></o:p></span></p></div><div><div><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>&=
+nbsp;<o:p></o:p></span></p></div></div><div><div><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>&=
+nbsp;<o:p></o:p></span></p></div></div><blockquote =
+style=3D'border:none;border-left:solid #888888 1.5pt;padding:0in 0in 0in =
+6.0pt;margin-left:4.8pt;margin-top:5.0pt;margin-right:0in;margin-bottom:5=
+.0pt'><div><div =
+id=3D"yiv5086810481yui_3_16_0_ym19_1_1467718924926_127794"><div><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>S=
+orry, one final addition:<o:p></o:p></span></p></div></div><div =
+id=3D"yiv5086810481yui_3_16_0_ym19_1_1467718924926_127948"><div><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>&=
+nbsp;<o:p></o:p></span></p></div></div><div =
+id=3D"yiv5086810481yui_3_16_0_ym19_1_1467718924926_128096"><div><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>I=
+n the event of default, Mr. Benenati shall have no recourse in regards =
+to closing amounts for purchase of =
+business.<o:p></o:p></span></p></div></div><div =
+id=3D"yiv5086810481yui_3_16_0_ym19_1_1467718924926_128121"><div><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>&=
+nbsp;<o:p></o:p></span></p></div></div><div =
+id=3D"yiv5086810481yui_3_16_0_ym19_1_1467718924926_128134"><div><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>T=
+hank You,<o:p></o:p></span></p></div></div><div =
+id=3D"yiv5086810481yui_3_16_0_ym19_1_1467718924926_128135"><div><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>&=
+nbsp;<o:p></o:p></span></p></div></div><div =
+id=3D"yiv5086810481yui_3_16_0_ym19_1_1467718924926_128136"><div><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:13.5pt;font-family:"Arial","sans-serif";color:black;ba=
+ckground:white'>Michael Settembre</span><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'><=
+br>The Laundromat Guys, Inc<br>EFR, Inc.<br>646-294-0491 =
+(cell)<br>201-326-1060 (office)<br>201-326-1070 =
+(fax)<o:p></o:p></span></p></div></div><div><div =
+style=3D'margin-bottom:12.0pt'><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>&=
+nbsp;<o:p></o:p></span></p></div></div><div><div><div><div><div><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>O=
+n Thursday, July 7, 2016 5:30 PM, Michael Settembre &lt;<span =
+class=3DMsoHyperlink>msettemb@yahoo.com</span>&gt; =
+wrote:<o:p></o:p></span></p></div></div><div =
+style=3D'margin-bottom:12.0pt'><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>&=
+nbsp;<o:p></o:p></span></p></div><div><div =
+id=3Dyiv5086810481><div><div><div =
+id=3D"yiv5086810481yui_3_16_0_ym19_1_1467718924926_119459"><div><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>H=
+ello All,<o:p></o:p></span></p></div></div><div =
+id=3D"yiv5086810481yui_3_16_0_ym19_1_1467718924926_118916"><div><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>&=
+nbsp;<o:p></o:p></span></p></div></div><div =
+id=3D"yiv5086810481yui_3_16_0_ym19_1_1467718924926_118917"><div><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>A=
+fter a phone conference with both Mr. Papaleo and Mr. Benenati regarding =
+the termination letter, both parties have come to agreement on any and =
+outstanding issues that remained.&nbsp; With that said, there a a few =
+minor adjustments requested.<o:p></o:p></span></p></div></div><div =
+id=3D"yiv5086810481yui_3_16_0_ym19_1_1467718924926_119072"><div><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>&=
+nbsp;<o:p></o:p></span></p></div></div><ol start=3D1 type=3D1 =
+id=3D"yiv5086810481yui_3_16_0_ym19_1_1467718924926_119119"><li =
+class=3DMsoNormal =
+style=3D'color:black;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;m=
+so-list:l0 level1 lfo1;background:white' =
+id=3D"yiv5086810481yui_3_16_0_ym19_1_1467718924926_119118"><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif"'>&nbsp;Neither=
+ party will be responsible for any legal fees associated with drafting, =
+negotiating, or finalizing the new lease or termination =
+letter.<o:p></o:p></span></li><li class=3DMsoNormal =
+style=3D'color:black;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;m=
+so-list:l0 level1 lfo1;background:white' =
+id=3D"yiv5086810481yui_3_16_0_ym19_1_1467718924926_119118"><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif"'>Exhibit A =
+(1.)&nbsp; Amend to read: <o:p></o:p></span></li></ol><div =
+style=3D'margin-left:.5in'><p class=3DMsoNormal =
+style=3D'text-align:justify;background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>(=
+1.)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p; Tenant shall, at is sole expense, replace the current HVAC system =
+with a new HVAC system at at least its now current capacity for the =
+Premises or repair the current HVAC system to working order in the event =
+that the NJ Direct Install Program is =
+unavailable.<o:p></o:p></span></p></div><ol start=3D3 type=3D1><li =
+class=3DMsoNormal =
+style=3D'color:black;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;m=
+so-list:l2 level1 lfo2;background:white' =
+id=3D"yiv5086810481yui_3_16_0_ym19_1_1467718924926_119118"><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif"'>&nbsp;Add =
+language stating that in the event of a default by new tenant, new =
+tenant indemnifies the current tenant for lease =
+obligations.&nbsp;<o:p></o:p></span></li></ol><div =
+id=3D"yiv5086810481yui_3_16_0_ym19_1_1467718924926_120603"><div><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>&=
+nbsp;<o:p></o:p></span></p></div></div><div =
+id=3D"yiv5086810481yui_3_16_0_ym19_1_1467718924926_120604"><div><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>I=
+ hope that we can move forward rather quickly as everyone is eager to =
+get this done.<o:p></o:p></span></p></div></div><div =
+id=3D"yiv5086810481yui_3_16_0_ym19_1_1467718924926_120848"><div><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>&=
+nbsp;<o:p></o:p></span></p></div></div><div =
+id=3D"yiv5086810481yui_3_16_0_ym19_1_1467718924926_120849"><div><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>T=
+hank You,<o:p></o:p></span></p></div></div><div =
+id=3D"yiv5086810481yui_3_16_0_ym19_1_1467718924926_119117"><div><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>&=
+nbsp;<o:p></o:p></span></p></div></div><div =
+id=3D"yiv5086810481yui_3_16_0_ym19_1_1467718924926_119792"><div><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:13.5pt;font-family:"Arial","sans-serif";color:black;ba=
+ckground:white'>Michael Settembre</span><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'><=
+br>The Laundromat Guys, Inc<br>EFR, Inc.<br>646-294-0491 =
+(cell)<br>201-326-1060 (office)<br>201-326-1070 =
+(fax)<o:p></o:p></span></p></div></div><div><div =
+style=3D'margin-bottom:12.0pt'><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>&=
+nbsp;<o:p></o:p></span></p></div></div><div =
+id=3Dyiv5086810481yqt70472><div><div><div><div><div><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>O=
+n Thursday, July 7, 2016 2:52 PM, Sullmattpc &lt;<span =
+class=3DMsoHyperlink>sullmattpc@aol.com</span>&gt; =
+wrote:<o:p></o:p></span></p></div></div><div =
+style=3D'margin-bottom:12.0pt'><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>&=
+nbsp;<o:p></o:p></span></p></div><div><div id=3Dyiv5086810481><div><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:blue'>At=
+tached hereto is Landlord's revised Lease Termination Agreement based =
+upon Michael Settembre's e-mail below. &nbsp;This draft does not include =
+any of the proposed amendments from Al Andril as they came in as I was =
+finishing this draft. I believe that Orlando and Michael Benenati must =
+resolve most of the issues in Al Andril's proposed amendments before =
+Landlord weighs in. &nbsp;Please also note that my client has not yet =
+had a chance to review my revisions to the Lease Termination Agreement, =
+so we reserve the right to make further revisions thereto.<br><br>John =
+P. Sullivan, Esq.</span><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'><=
+o:p></o:p></span></p></div><div><div><div><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>S=
+ullivan &amp; Mattheiss, =
+P.C.<o:p></o:p></span></p></div></div><div><div><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>1=
+01 Vose Avenue<o:p></o:p></span></p></div></div><div><div><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>S=
+outh Orange, NJ 07079-2025<o:p></o:p></span></p></div></div><div><div><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>O=
+ffice: 973-275-1800<o:p></o:p></span></p></div></div><div><div><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>F=
+ax: 973-275-1901<o:p></o:p></span></p></div></div><div><div><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>E=
+-mail: <span =
+class=3DMsoHyperlink>Sullmattpc@aol.com</span><o:p></o:p></span></p></div=
+></div><div><div><p class=3DMsoNormal =
+style=3D'background:white'><strong><span =
+style=3D'font-size:10.0pt;font-family:"MS =
+Gothic";color:black'>=E3=80=80</span></strong><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'><=
+o:p></o:p></span></p></div></div><div><div><p class=3DMsoNormal =
+style=3D'background:white'><strong><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>C=
+ONFIDENTIALITY NOTE: </span></strong><span =
+style=3D'font-size:7.5pt;font-family:"Arial","sans-serif";color:black'>Th=
+e contents of this e-mail and any attachments to it contain confidential =
+and/or legally privileged information from the law firm of Sullivan =
+&amp; Mattheiss, P.C. This e-mail is intended only for the person or =
+entity to which it is addressed. If you are not the intended recipient, =
+you are hereby notified that any disclosure, dissemination, distribution =
+or copying of this e-mail or the information herein by anyone other than =
+the intended recipient is prohibited. Additionally, any reliance on the =
+information contained herein is strictly prohibited. If you have =
+received this e-mail in error, please notify the sender immediately and =
+return by e-mail. Thank you.</span><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'><=
+o:p></o:p></span></p></div></div><div><div><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>&=
+nbsp;<o:p></o:p></span></p></div><div><div><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-size:7.5pt;font-family:"Arial","sans-serif";color:black'>Al=
+though this e-mail and any attachments are believed to be free of any =
+virus or other defect that might affect any computer system into which =
+it is received and opened, it is the responsibility of the recipient to =
+ensure that it is virus free and no responsibility is accepted by the =
+law firm of Sullivan &amp; Mattheiss, P.C. for any loss or damage =
+arising in any way from its use.</span><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'><=
+o:p></o:p></span></p></div></div></div></div><div =
+style=3D'margin-bottom:12.0pt'><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>&=
+nbsp;<o:p></o:p></span></p></div><div><div =
+style=3D'margin-bottom:12.0pt'><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>-=
+----Original Message-----<br>From: Michael P. Benenati &lt;<span =
+class=3DMsoHyperlink>benenatim@yahoo.com</span>&gt;<br>To: Michael =
+Settembre &lt;<span class=3DMsoHyperlink>msettemb@yahoo.com</span>&gt;; =
+ATAndril534 &lt;<span =
+class=3DMsoHyperlink>ATAndril534@aol.com</span>&gt;; sullmattpc =
+&lt;<span class=3DMsoHyperlink>sullmattpc@aol.com</span>&gt;<br>Cc: =
+rdonnelly &lt;<span =
+class=3DMsoHyperlink>rdonnelly@donnellyind.com</span>&gt;; koenigmgmt =
+&lt;<span class=3DMsoHyperlink>koenigmgmt@gmail.com</span>&gt;; mike =
+&lt;<span class=3DMsoHyperlink>mike@thelaundromatguys.com</span>&gt;; =
+ojpapa &lt;<span =
+class=3DMsoHyperlink>ojpapa@optonline.net</span>&gt;<br>Sent: Thu, Jul =
+7, 2016 11:12 am<br>Subject: Re: EZ Wash - Lease Termination =
+Agreement<o:p></o:p></span></p></div><div =
+id=3D"yiv5086810481AOLMsgPart_2_30d80f1f-8b5d-4f66-815d-5af19a085c9f"><di=
+v><div><p class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>J=
+ohn are you going to send out a revised schedule A today?&nbsp; =
+<o:p></o:p></span></p></div><div =
+id=3D"yiv5086810481yMail_cursorElementTracker_0.8377729602652266"><div><p=
+ class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>&=
+nbsp;<o:p></o:p></span></p></div></div><div =
+id=3D"yiv5086810481yMail_cursorElementTracker_0.8377729602652266"><div =
+style=3D'margin-bottom:12.0pt'><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>M=
+ike Benenati<o:p></o:p></span></p></div><div =
+id=3D"yiv5086810481ymail_android_signature"><div><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'><=
+a href=3D"https://overview.mail.yahoo.com/mobile/?.src=3DAndroid" =
+target=3D"_blank">Sent from Yahoo Mail on =
+Android</a><o:p></o:p></span></p></div></div><div><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>&=
+nbsp;<o:p></o:p></span></p></div><blockquote =
+style=3D'margin-left:0in;margin-top:5.0pt;margin-right:0in;margin-bottom:=
+15.0pt'><div><div><p class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>O=
+n Wed, Jul 6, 2016 at 9:21 PM, Michael =
+Settembre<o:p></o:p></span></p></div></div><div><div><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>&=
+lt;<span class=3DMsoHyperlink>msettemb@yahoo.com</span>&gt; =
+wrote:<o:p></o:p></span></p></div></div><div =
+style=3D'border:none;border-left:solid #6D00F6 1.0pt;padding:0in 0in 0in =
+15.0pt;margin-top:7.5pt'><div><div id=3Dyiv5086810481><div =
+id=3D"yiv5086810481yui_3_16_0_ym19_1_1467718924926_95536"><div =
+id=3D"yiv5086810481yui_3_16_0_ym19_1_1467718924926_95535"><div =
+id=3D"yiv5086810481yui_3_16_0_ym19_1_1467718924926_92204"><div><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>G=
+entlemen,<o:p></o:p></span></p></div></div><div =
+id=3D"yiv5086810481yui_3_16_0_ym19_1_1467718924926_92208"><div><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>&=
+nbsp;<o:p></o:p></span></p></div></div><div =
+id=3D"yiv5086810481yui_3_16_0_ym19_1_1467718924926_92265"><div><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>A=
+fter speaking with Rod and all parties involved, I believe we have =
+finally resolved all of the issues at hand.&nbsp; =
+<o:p></o:p></span></p></div></div><div =
+id=3D"yiv5086810481yui_3_16_0_ym19_1_1467718924926_92379"><div><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>&=
+nbsp;<o:p></o:p></span></p></div></div><div =
+id=3D"yiv5086810481yui_3_16_0_ym19_1_1467718924926_92444"><div =
+id=3D"yiv5086810481yui_3_16_0_ym19_1_1467718924926_96301"><div><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>R=
+od- please advise John to amend the termination letter on the two points =
+that we discussed:<o:p></o:p></span></p></div></div><div =
+id=3D"yiv5086810481yui_3_16_0_ym19_1_1467718924926_96302"><div><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>&=
+nbsp;<o:p></o:p></span></p></div></div></div><div =
+id=3D"yiv5086810481yui_3_16_0_ym19_1_1467718924926_92445"><ol start=3D1 =
+type=3D1><li class=3DMsoNormal =
+style=3D'color:black;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;m=
+so-list:l1 level1 lfo3;background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif"'>&nbsp;Please =
+attach Schedule A to termination letter to clarify &quot;Tenant's =
+Work&quot;.<o:p></o:p></span></li><li class=3DMsoNormal =
+style=3D'color:black;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;m=
+so-list:l1 level1 lfo3;background:white' =
+id=3D"yiv5086810481yui_3_16_0_ym19_1_1467718924926_96171"><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif"'>&nbsp;Languag=
+e needs to be added stipulating that the 90 day time period refers only =
+to work performed outside of the NJ Direct Install program or in =
+conjunction with the program, namely, the HVAC, lighting, and ceiling =
+tiles.&nbsp; All parties are under the belief that this program will be =
+reinstated in the near future, however, if I time frame needs to be =
+established, please allow 1 year.<o:p></o:p></span></li></ol></div><div =
+id=3D"yiv5086810481yui_3_16_0_ym19_1_1467718924926_92205"><div><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>&=
+nbsp;<o:p></o:p></span></p></div></div><div =
+id=3D"yiv5086810481yui_3_16_0_ym19_1_1467718924926_92206"><div =
+id=3D"yiv5086810481yui_3_16_0_ym19_1_1467718924926_96604"><div><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>P=
+lease advise when these changes will be made as everyone is eager to =
+move forward. <o:p></o:p></span></p></div></div><div =
+id=3D"yiv5086810481yui_3_16_0_ym19_1_1467718924926_96602"><div><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>&=
+nbsp;<o:p></o:p></span></p></div></div><div =
+id=3D"yiv5086810481yui_3_16_0_ym19_1_1467718924926_96603"><div><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>R=
+egards,<o:p></o:p></span></p></div></div></div><div =
+id=3D"yiv5086810481yui_3_16_0_ym19_1_1467718924926_96068"><div><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>&=
+nbsp;<o:p></o:p></span></p></div></div><div =
+id=3D"yiv5086810481yui_3_16_0_ym19_1_1467718924926_95901"><div><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:13.5pt;font-family:"Arial","sans-serif";color:black;ba=
+ckground:white'>Michael Settembre</span><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'><=
+br>The Laundromat Guys, Inc<br>EFR, Inc.<br>646-294-0491 =
+(cell)<br>201-326-1060 (office)<br>201-326-1070 =
+(fax)<o:p></o:p></span></p></div></div><div><div =
+style=3D'margin-bottom:12.0pt'><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>&=
+nbsp;<o:p></o:p></span></p></div></div></div></div></div><div =
+id=3Dyiv5086810481yqt56365><div><div><div><div><div><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>O=
+n Wednesday, July 6, 2016 4:22 PM, Michael P. Benenati &lt;<span =
+class=3DMsoHyperlink>benenatim@yahoo.com</span>&gt; =
+wrote:<o:p></o:p></span></p></div></div><div =
+style=3D'margin-bottom:12.0pt'><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>&=
+nbsp;<o:p></o:p></span></p></div><div><div id=3Dyiv5086810481><div><div =
+id=3D"yiv5086810481yMail_cursorElementTracker_0.662605088371983"><div><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>A=
+l, when can we expect a response?<o:p></o:p></span></p></div></div><div =
+id=3D"yiv5086810481yMail_cursorElementTracker_0.662605088371983"><div><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>&=
+nbsp;<o:p></o:p></span></p></div></div><div =
+id=3D"yiv5086810481yMail_cursorElementTracker_0.662605088371983"><div><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>I=
+f there is no response by 12 noon tomorrow, then I'm done and you can =
+send back my deposit.&nbsp;<o:p></o:p></span></p></div></div><div =
+id=3D"yiv5086810481yMail_cursorElementTracker_0.662605088371983"><div><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>&=
+nbsp;<o:p></o:p></span></p></div></div><div =
+id=3D"yiv5086810481yMail_cursorElementTracker_0.662605088371983"><div><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>T=
+hese issues have been present since last week Monday and its =
+disappointing that Orlando is not making this a =
+priority.&nbsp;<o:p></o:p></span></p></div></div><div =
+id=3D"yiv5086810481yMail_cursorElementTracker_0.662605088371983"><div><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>&=
+nbsp;<o:p></o:p></span></p></div></div><div =
+id=3D"yiv5086810481yMail_cursorElementTracker_0.662605088371983"><div><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>K=
+indly advise Orlando of the =
+deadline.&nbsp;<o:p></o:p></span></p></div></div><div =
+id=3D"yiv5086810481yMail_cursorElementTracker_0.662605088371983"><div><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>&=
+nbsp;<o:p></o:p></span></p></div></div><div =
+id=3D"yiv5086810481yMail_cursorElementTracker_0.662605088371983"><div><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>T=
+hanks, Mike Benenati<o:p></o:p></span></p></div></div><div =
+style=3D'margin-bottom:12.0pt'><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>&=
+nbsp;<o:p></o:p></span></p></div><div =
+id=3D"yiv5086810481ymail_android_signature"><div><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'><=
+a href=3D"https://overview.mail.yahoo.com/mobile/?.src=3DAndroid" =
+target=3D"_blank">Sent from Yahoo Mail on =
+Android</a><o:p></o:p></span></p></div></div><div><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>&=
+nbsp;<o:p></o:p></span></p></div><div =
+id=3Dyiv5086810481yqt55447><blockquote =
+style=3D'margin-left:0in;margin-top:5.0pt;margin-right:0in;margin-bottom:=
+15.0pt'><div><div><p class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>O=
+n Wed, Jul 6, 2016 at 4:00 PM, <span =
+class=3DMsoHyperlink>ATAndril534@aol.com</span><o:p></o:p></span></p></di=
+v></div><div><div><p class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>&=
+lt;<span class=3DMsoHyperlink>ATAndril534@aol.com</span>&gt; =
+wrote:<o:p></o:p></span></p></div></div><div =
+style=3D'border:none;border-left:solid #6D00F6 1.0pt;padding:0in 0in 0in =
+15.0pt;margin-top:7.5pt'><div><div><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>I=
+ have not yet spoken to Mr. Papaleo regarding the termination =
+agreement.&nbsp; At this time I have no comment regarding the =
+agreement.&nbsp; <o:p></o:p></span></p></div></div><div><div><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>&=
+nbsp;<o:p></o:p></span></p></div></div><div><div><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>A=
+lcides T. Andril, Esq.<br>Andril &amp; Espinosa, LLC<br>534 Westfield =
+Avenue<br>Elizabeth, NJ 07208<br>908-558-0100 Fax 908-558-0450 =
+<o:p></o:p></span></p></div><div><div><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>&=
+nbsp;<o:p></o:p></span></p></div></div><div><div><div><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>I=
+n a message dated 7/6/2016 3:56:33 P.M. Eastern Daylight Time, <span =
+class=3DMsoHyperlink>benenatim@yahoo.com</span> =
+writes:<o:p></o:p></span></p></div></div><div =
+id=3Dyiv5086810481yqt63508><blockquote =
+style=3D'border:none;border-left:solid blue 1.5pt;padding:0in 0in 0in =
+4.0pt;margin-left:3.75pt;margin-top:5.0pt;margin-bottom:5.0pt'><div><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>A=
+l and Orlando, <o:p></o:p></span></p></div><div =
+id=3D"yiv5086810481yMail_cursorElementTracker_0.6614519238102006"><div><p=
+ class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>&=
+nbsp;<o:p></o:p></span></p></div></div><div =
+id=3D"yiv5086810481yMail_cursorElementTracker_0.6614519238102006"><div><p=
+ class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>W=
+e have yet to hear any of your thoughts about John's draft and my =
+suggestion for a meeting. If you want to get this deal done, i suggest =
+we get together and have a meeting to hammer out all of the =
+issues.<o:p></o:p></span></p></div></div><div =
+id=3D"yiv5086810481yMail_cursorElementTracker_0.6614519238102006"><div><p=
+ class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>&=
+nbsp;<o:p></o:p></span></p></div></div><div =
+id=3D"yiv5086810481yMail_cursorElementTracker_0.6614519238102006"><div><p=
+ class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>I=
+ think doing that is a more cost effective approach for =
+everyone.&nbsp;<o:p></o:p></span></p></div></div><div =
+id=3D"yiv5086810481yMail_cursorElementTracker_0.6614519238102006"><div><p=
+ class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>&=
+nbsp;<o:p></o:p></span></p></div></div><div =
+id=3D"yiv5086810481yMail_cursorElementTracker_0.6614519238102006"><div><p=
+ class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>K=
+indly advise.&nbsp;<o:p></o:p></span></p></div></div><div =
+id=3D"yiv5086810481yMail_cursorElementTracker_0.6614519238102006"><div><p=
+ class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>&=
+nbsp;<o:p></o:p></span></p></div></div><div =
+id=3D"yiv5086810481yMail_cursorElementTracker_0.6614519238102006"><div =
+style=3D'margin-bottom:12.0pt'><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>R=
+egards, Mike Benenati<o:p></o:p></span></p></div><div =
+id=3D"yiv5086810481ymail_android_signature"><div><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'><=
+a href=3D"https://overview.mail.yahoo.com/mobile/?.src=3DAndroid" =
+target=3D"_blank" =
+title=3D"https://overview.mail.yahoo.com/mobile/?.src=3DAndroid">Sent =
+from Yahoo Mail on Android</a><o:p></o:p></span></p></div></div><div><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>&=
+nbsp;<o:p></o:p></span></p></div><blockquote =
+style=3D'margin-left:0in;margin-top:5.0pt;margin-right:0in;margin-bottom:=
+15.0pt'><div><div><p class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>O=
+n Wed, Jul 6, 2016 at 10:59 AM, Michael P. =
+Benenati<o:p></o:p></span></p></div></div><div><div><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>&=
+lt;<span class=3DMsoHyperlink>benenatim@yahoo.com</span>&gt; =
+wrote:<o:p></o:p></span></p></div></div><div =
+style=3D'border:none;border-left:solid #6D00F6 1.0pt;padding:0in 0in 0in =
+15.0pt;margin-top:7.5pt'><div><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>I=
+ think its a good starting poi t. However, my concern is that there is =
+noreference the fact that certain renovations, lighting and HVAC, are =
+subject to NJ state government programs. Such programs may affect the =
+timeline. &nbsp;I would be concerned about signing a lease that locks me =
+into a timeline without there being some leeway accounting for the =
+firegoing.&nbsp; <o:p></o:p></span></p></div><div =
+id=3D"yiv5086810481yMail_cursorElementTracker_0.8382184874853924"><div><p=
+ class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>&=
+nbsp;<o:p></o:p></span></p></div></div><div =
+id=3D"yiv5086810481yMail_cursorElementTracker_0.8382184874853924"><div><p=
+ class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>I=
+ suggest we have a meeting to hammer out acceptable agreements between =
+all parties. Such a meeting would be a more cost effective approach then =
+having tons of phone and email =
+correspondence.&nbsp;<o:p></o:p></span></p></div></div><div =
+id=3D"yiv5086810481yMail_cursorElementTracker_0.8382184874853924"><div><p=
+ class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>&=
+nbsp;<o:p></o:p></span></p></div></div><div =
+id=3D"yiv5086810481yMail_cursorElementTracker_0.8382184874853924"><div><p=
+ class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>P=
+lease let me know if a meeting is feasible this =
+week.<o:p></o:p></span></p></div></div><div =
+id=3D"yiv5086810481yMail_cursorElementTracker_0.8382184874853924"><div =
+id=3D"yiv5086810481yMail_cursorElementTracker_0.7243845284735555"><div><p=
+ class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>&=
+nbsp;<o:p></o:p></span></p></div></div><div =
+id=3D"yiv5086810481yMail_cursorElementTracker_0.7243845284735555"><div =
+style=3D'margin-bottom:12.0pt'><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>M=
+ike Benenati<o:p></o:p></span></p></div><div =
+id=3D"yiv5086810481ymail_android_signature"><div><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'><=
+a href=3D"https://overview.mail.yahoo.com/mobile/?.src=3DAndroid" =
+target=3D"_blank" =
+title=3D"https://overview.mail.yahoo.com/mobile/?.src=3DAndroid">Sent =
+from Yahoo Mail on Android</a><o:p></o:p></span></p></div></div><div><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>&=
+nbsp;<o:p></o:p></span></p></div><blockquote =
+style=3D'margin-left:0in;margin-top:5.0pt;margin-right:0in;margin-bottom:=
+15.0pt'><div><div><p class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>O=
+n Wed, Jul 6, 2016 at 10:36 AM, =
+Sullmattpc<o:p></o:p></span></p></div></div><div><div><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>&=
+lt;<span class=3DMsoHyperlink>sullmattpc@aol.com</span>&gt; =
+wrote:<o:p></o:p></span></p></div></div><div =
+style=3D'border:none;border-left:solid #6D00F6 1.0pt;padding:0in 0in 0in =
+15.0pt;margin-top:7.5pt'><div><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:blue'>De=
+ar Mr. Andril and Mr. Benenati:<br><br>Attached for your review is =
+Landlord's proposed Lease Termination Agreement for the January 30, 2003 =
+E-Z Wash, L.L.C. lease. &nbsp;Please let me know your thoughts after you =
+have had a chance to review same. </span><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'><=
+o:p></o:p></span></p></div><div><div><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>&=
+nbsp;<o:p></o:p></span></p></div></div><div><div><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>I=
+ look forward to &nbsp;hearing from =
+you.<o:p></o:p></span></p></div></div><div><div><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'><=
+br>John P. Sullivan, Esq.<o:p></o:p></span></p></div><div><div><div><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>S=
+ullivan &amp; Mattheiss, =
+P.C.<o:p></o:p></span></p></div></div><div><div><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>1=
+01 Vose Avenue<o:p></o:p></span></p></div></div><div><div><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>S=
+outh Orange, NJ 07079-2025<o:p></o:p></span></p></div></div><div><div><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>O=
+ffice: 973-275-1800<o:p></o:p></span></p></div></div><div><div><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>F=
+ax: 973-275-1901<o:p></o:p></span></p></div></div><div><div><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>E=
+-mail: </span><u><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:blue'><s=
+pan class=3DMsoHyperlink>Sullmattpc@aol.com</span></span></u><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'><=
+o:p></o:p></span></p></div></div><div><div><p class=3DMsoNormal =
+style=3D'background:white'><strong><span =
+style=3D'font-size:10.0pt;font-family:"MS =
+Gothic";color:black'>=E3=80=80</span></strong><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'><=
+o:p></o:p></span></p></div></div><div><div><p class=3DMsoNormal =
+style=3D'background:white'><strong><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>C=
+ONFIDENTIALITY NOTE: </span></strong><span =
+style=3D'font-size:7.5pt;font-family:"Arial","sans-serif";color:black'>Th=
+e contents of this e-mail and any attachments to it contain confidential =
+and/or legally privileged information from the law firm of Sullivan =
+&amp; Mattheiss, P.C. This e-mail is intended only for the person or =
+entity to which it is addressed. If you are not the intended recipient, =
+you are hereby notified that any disclosure, dissemination, distribution =
+or copying of this e-mail or the information herein by anyone other than =
+the intended recipient is prohibited. Additionally, any reliance on the =
+information contained herein is strictly prohibited. If you have =
+received this e-mail in error, please notify the sender immediately and =
+return by e-mail. Thank you.</span><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'><=
+o:p></o:p></span></p></div></div><div><div><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>&=
+nbsp;<o:p></o:p></span></p></div><div><div><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-size:7.5pt;font-family:"Arial","sans-serif";color:black'>Al=
+though this e-mail and any attachments are believed to be free of any =
+virus or other defect that might affect any computer system into which =
+it is received and opened, it is the responsibility of the recipient to =
+ensure that it is virus free and no responsibility is accepted by the =
+law firm of Sullivan &amp; Mattheiss, P.C. for any loss or damage =
+arising in any way from its use.</span><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'><=
+o:p></o:p></span></p></div></div></div></div></div></div></blockquote></d=
+iv></div></div></blockquote></div></blockquote></div></div></div></div></=
+blockquote></div></div></div><div style=3D'margin-bottom:12.0pt'><p =
+class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>&=
+nbsp;<o:p></o:p></span></p></div></div></div></div></div></div></div></di=
+v></blockquote></div></div></div></div></div><div =
+style=3D'margin-bottom:12.0pt'><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>&=
+nbsp;<o:p></o:p></span></p></div></div></div></div></div></div></div></di=
+v></div><div style=3D'margin-bottom:12.0pt'><p class=3DMsoNormal =
+style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>&=
+nbsp;<o:p></o:p></span></p></div></div></div></div></div></div></blockquo=
+te></div></div></div></blockquote></div></div></div></div></div></div><p =
+class=3DMsoNormal style=3D'margin-bottom:12.0pt;background:white'><span =
+style=3D'font-family:"Helvetica","sans-serif";color:black'><o:p>&nbsp;</o=
+:p></span></p></div></div></div></div></div></div></blockquote><blockquot=
+e style=3D'margin-top:5.0pt;margin-bottom:5.0pt'><div><p =
+class=3DMsoNormal>&lt;image001.gif&gt;<o:p></o:p></p></div></blockquote><=
+/div></body></html>
+------=_NextPart_000_0027_01D1E1AD.E3D16DC0--
+

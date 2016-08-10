@@ -1,0 +1,60 @@
+Return-path: <warmon28@gmail.com>
+Envelope-to: mike@thelaundromatguys.com
+Delivery-date: Fri, 08 Apr 2016 12:38:09 -0700
+Received: from mail-lf0-f53.google.com ([209.85.215.53]:36058)
+	by a2plcpnl0434.prod.iad2.secureserver.net with esmtps (TLSv1.2:AES128-GCM-SHA256:128)
+	(Exim 4.85_1)
+	(envelope-from <warmon28@gmail.com>)
+	id 1aocEL-001vTj-Lk
+	for mike@thelaundromatguys.com; Fri, 08 Apr 2016 12:38:09 -0700
+Received: by mail-lf0-f53.google.com with SMTP id g184so89297263lfb.3
+        for <mike@thelaundromatguys.com>; Fri, 08 Apr 2016 12:38:09 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to;
+        bh=vANpu0NgoFGCWkPsr9uBTkjq+YlsUWKfhTdVO6FZEbs=;
+        b=KsEKNvZ5Uh12Ss3GPYo+ECAnHemB0pUfTJVM5QZhZ5mHxrxTYW5nw7wbJ1liBscSlx
+         GsfCO5bNe5eLPX9MD21PXoQhCTgvBRR/6n7xzNz7ZYTuFSOrrs3BTCWLohwbR/vTylPl
+         tXnlpdEQuRDVa7icPNI9oW0w8XB8gYueAeA/YTxIFynV21i27hofO8YCUWlHJEjxUnm+
+         ynmlaDACWiXwGvEEjzvgNOG9UpS7O85GLF4yfFnVZacv3dsdX85GkPwb4ACBHHo4Vc1d
+         mfLkologw5v+Yj8pQSWWCBt8r3hoMfJEVz4ajdabqgH4el/ZAK5OSzois93cxH5xpLfg
+         UOMQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:date:message-id:subject:from:to;
+        bh=vANpu0NgoFGCWkPsr9uBTkjq+YlsUWKfhTdVO6FZEbs=;
+        b=grs6c1djrkAI4L6eXAwdQXDKzUmeZFcSobX7CAaegfG0boTAMoZLB2VRih/tOt+Rl8
+         mdfC8bf0IqF83vWDKEtsYXsuhDmLMPwXxQ9iW9KLOwljXbST6Vw0W3lvbn5kUukolQGK
+         +cz0TmEcsLnS0052aKpgFqZhl+pKubElkMZFWIM5bFyCNcZ6BuI84kBInBFNJ97W5P59
+         gs+BDfg4viDX6IE9S/2wOuTMz3CCLjVjxR5O62w/vChWmYxtqCVSB3alvQXigiVnhSSQ
+         VicfjrlL43E+XtHugGkDE8TcWaQpfsmr54FC0ifcn7/DOdY0G/9rGiqYv8XRJZ17Qr4U
+         X7Yw==
+X-Gm-Message-State: AD7BkJIRP1vQvETJciq+kikfV6JbZBIMs9dIYBq3ujjWBTanTYTRu6XHb5FQr7zfH0IZ9uOuhivVwhTObxr/YQ==
+MIME-Version: 1.0
+X-Received: by 10.25.21.98 with SMTP id l95mr4501323lfi.161.1460144288168;
+ Fri, 08 Apr 2016 12:38:08 -0700 (PDT)
+Received: by 10.112.168.101 with HTTP; Fri, 8 Apr 2016 12:38:08 -0700 (PDT)
+Date: Fri, 8 Apr 2016 15:38:08 -0400
+Message-ID: <CADryN_g=N9TX8JqiqDryqkpNiSc8bBsQjGQ_2C2H6KsRxKh2mg@mail.gmail.com>
+Subject: Water heaters for Laundromat
+From: John Peruso <warmon28@gmail.com>
+To: mike@thelaundromatguys.com
+Content-Type: multipart/alternative; boundary=001a114021c09e0619052ffe55b1
+
+--001a114021c09e0619052ffe55b1
+Content-Type: text/plain; charset=UTF-8
+
+Mike
+                   CWN360SYS.  Lochinvar 360 GPH water heating system w/
+(2) 120 gal. Storage tanks, circulating pump, & controls.     $ 5,965.00
+
+--001a114021c09e0619052ffe55b1
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Mike<div>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0CWN360SYS.=C2=A0 Lochinvar 360 GPH water heating system w/ (2) 120 gal. =
+Storage tanks, circulating pump, &amp; controls. =C2=A0 =C2=A0 $ 5,965.00</=
+div><div><br></div><div><br></div>
+
+--001a114021c09e0619052ffe55b1--

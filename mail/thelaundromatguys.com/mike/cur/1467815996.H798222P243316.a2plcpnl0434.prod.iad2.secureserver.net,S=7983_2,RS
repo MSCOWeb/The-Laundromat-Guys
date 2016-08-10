@@ -1,0 +1,191 @@
+Return-path: <vincedirect@gmail.com>
+Envelope-to: mike@thelaundromatguys.com
+Delivery-date: Wed, 06 Jul 2016 07:39:56 -0700
+Received: from mail-it0-f41.google.com ([209.85.214.41]:37160)
+	by a2plcpnl0434.prod.iad2.secureserver.net with esmtps (TLSv1.2:AES128-GCM-SHA256:128)
+	(Exim 4.85_1)
+	(envelope-from <vincedirect@gmail.com>)
+	id 1bKnzY-0011II-MX
+	for mike@thelaundromatguys.com; Wed, 06 Jul 2016 07:39:56 -0700
+Received: by mail-it0-f41.google.com with SMTP id f6so107390805ith.0
+        for <mike@thelaundromatguys.com>; Wed, 06 Jul 2016 07:39:56 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=from:content-transfer-encoding:mime-version:subject:message-id:date
+         :references:in-reply-to:to;
+        bh=c3jH+r2cJXiBGITfGoOoB3x7DXqOuY7csMaiTXP7QXY=;
+        b=O4M3tSOJGTP7undQfUm0z/kA3V9DhaAwORJNMiCl4TJP0nWAH4tOS1C886HSY4qYkw
+         uCkhxkk3q9vyOS6KU6q/SFhyqK0Pk0skC6kZewyF+qFt8KLtTlF2a+Ce+tKxYVxWKVJc
+         LwACpRbSXL1Q6n3f7J+FB3VMogjSFKPd6QAJG4cASKwD13fbupFTxBQdMPIiPm9wLVr1
+         yEIYhtcL6fYz1x1I/8Uq1CPSnl729x6uFZp8i7Ov45HFYRH1PzbdvDVxcCdC2ybunl0l
+         m9wJhUCWDv1yJdjPcmzosHzvTZ7BmOJjP7bnfwuQnF0yeTS9NbSyg0wsWpzYaU5bh36O
+         hgng==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:from:content-transfer-encoding:mime-version
+         :subject:message-id:date:references:in-reply-to:to;
+        bh=c3jH+r2cJXiBGITfGoOoB3x7DXqOuY7csMaiTXP7QXY=;
+        b=REdBk0DLFn5gHRQEZdl8eFMWsXNQD+6wiVXfIbG3+Y4DM+vAdCbN+bJLW3NKM5k2pS
+         6UgjK17NSHz6ccoAUeAR5yRPfA7c3p8lSpstUrjCM/ASo6vI1C0/LwpI4ryQkQ7a6NZN
+         bgtLlTDIH+YUH1uK+jOd6ZAvf/q+6n1Jnj1ePN3N6cVl1l5Q+JrT0heQPbZFlpOFSZPQ
+         EE6nrvyHihK62e0cmNVqzTHAc7EPJNyFVHViIi2UzRK//LYuhHADsGNVkkbnSYkg8fVg
+         uBg6F8Mzp7WrMup9D0fhlNOCqFYSsL1yKO2lgR0ZwJ9x47WhXjrb10PAvDM2KjeotvGA
+         VKjQ==
+X-Gm-Message-State: ALyK8tJjW2uQoYTSBblVixrh2etG/odbE9LwiLOsy4Q8EC6JyI/wsJMtMaVsDU7cPDfLRQ==
+X-Received: by 10.36.55.2 with SMTP id r2mr16119634itr.73.1467815995699;
+        Wed, 06 Jul 2016 07:39:55 -0700 (PDT)
+Received: from [10.23.113.208] ([166.170.20.215])
+        by smtp.gmail.com with ESMTPSA id w101sm2039403ioi.12.2016.07.06.07.39.54
+        for <mike@thelaundromatguys.com>
+        (version=TLS1 cipher=ECDHE-RSA-AES128-SHA bits=128/128);
+        Wed, 06 Jul 2016 07:39:54 -0700 (PDT)
+From: Vinny <vincedirect@gmail.com>
+Content-Type: multipart/alternative;
+	boundary=Apple-Mail-FBBED090-11C0-4EAC-A1B1-FE733A2B8578
+Content-Transfer-Encoding: 7bit
+Mime-Version: 1.0 (1.0)
+Subject: Re: Laundromat Listing Agreement
+Message-Id: <F3359961-8ADA-4C8D-A638-8E1142C267AD@gmail.com>
+Date: Wed, 6 Jul 2016 10:39:53 -0400
+References: <20160523125812.Horde.UmN4YBu2_0UaYkE7Ogouhw3@a2plcpnl0434.prod.iad2.secureserver.net> <DF657ED2-694C-42E8-9A8C-0AF6A80BFA7F@gmail.com> <20160706131707.Horde.mxMIxAXs2op07WpnUw_fSg1@a2plcpnl0434.prod.iad2.secureserver.net>
+In-Reply-To: <20160706131707.Horde.mxMIxAXs2op07WpnUw_fSg1@a2plcpnl0434.prod.iad2.secureserver.net>
+To: mike@thelaundromatguys.com
+X-Mailer: iPhone Mail (13B143)
+
+
+--Apple-Mail-FBBED090-11C0-4EAC-A1B1-FE733A2B8578
+Content-Type: text/plain;
+	charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+Yes Mike still interested in selling I can sign something
+For you that will protect you for  your clients and showings=20
+But my family does not want to be locked in a exclusive contract  I understa=
+nd  that's not how your company normally do things I hope you can make a exc=
+eption=20
+
+
+Thanks=20
+Vinny=20
+(609)213-1996
+
+
+
+Cash4house.com
+
+> On Jul 6, 2016, at 9:17 AM, mike@thelaundromatguys.com wrote:
+>=20
+> Hey Vinny,
+>=20
+> I just wanted to check in with you and see if you were still interested in=
+ selling your parents laundromat.  I do have current customer who is interes=
+ted in finding or building a laundromat in that area.  Please let me know ei=
+ther way so I can let him know.  Hope all is well.
+>=20
+> Thanks,
+>=20
+>=20
+>=20
+> Quoting Vinny <vincedirect@gmail.com>:
+>=20
+>> Ok thanks !!
+>>=20
+>> Sent from my iPhone
+>>=20
+>>> On May 23, 2016, at 8:58 AM, mike@thelaundromatguys.com wrote:
+>>> =20
+>>> Hello Vince,
+>>>=20
+>>> It was a pleasure speaking with you the other day.  Attached is our list=
+ing agreement for you to review.  I did some preliminary research of the are=
+a that your fathers laundromat is located and we do have several investors w=
+ho may be interested.  Please call me if you have any questions and I look f=
+orward to assisting in helping you sell the laundromat.
+>>>=20
+>>> Regards
+>>>=20
+>>> =20
+>>>=20
+>>> Michael Settembre
+>>> THE LAUNDROMAT GUYS
+>>> 646-294-0491 (cell)
+>>> 201-326-1060 (office)
+>>> 201-326-1070 (fax)
+>>> <LMG Business Listing Agreement.pdf>
+>=20
+>=20
+> =20
+>=20
+> Michael Settembre
+> THE LAUNDROMAT GUYS
+> 646-294-0491 (cell)
+> 201-326-1060 (office)
+> 201-326-1070 (fax)
+>=20
+
+--Apple-Mail-FBBED090-11C0-4EAC-A1B1-FE733A2B8578
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<html><head><meta http-equiv="content-type" content="text/html; charset=utf-8"></head><body dir="auto"><div>Yes Mike still interested in selling I can sign something</div><div id="AppleMailSignature">For you that will protect you for &nbsp;your clients and showings&nbsp;</div><div id="AppleMailSignature">But my family does not want to be locked in a exclusive contract &nbsp;I understand &nbsp;that's not how your company normally do things I hope you can make a exception&nbsp;</div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature">Thanks&nbsp;</div><div id="AppleMailSignature">Vinny&nbsp;</div><div id="AppleMailSignature">(609)213-1996</div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature"><br><br><a href="http://cash4house.com">Cash4house.com</a></div><div><br>On Jul 6, 2016, at 9:17 AM, <a href="mailto:mike@thelaundromatguys.com">mike@thelaundromatguys.com</a> wrote:<br><br></div><blockquote type="cite"><div>
+
+
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<title></title>
+
+
+<p>Hey Vinny,<br>
+<br>
+I just wanted to check in with you and see if you were still interested in selling your parents laundromat.&nbsp; I do have current customer who is interested in finding or building a laundromat in that area.&nbsp; Please let me know either way so I can let him know.&nbsp; Hope all is well.<br>
+<br>
+Thanks,<br>
+<br>
+<br>
+<br>
+Quoting Vinny &lt;<a href="mailto:vincedirect@gmail.com">vincedirect@gmail.com</a>&gt;:</p>
+<blockquote style="border-left:2px solid blue;margin-left:2px;padding-left:12px;" type="cite">
+<div>Ok thanks !!<br>
+<br>
+Sent from my iPhone</div>
+<div><br>
+On May 23, 2016, at 8:58 AM, <a href="mailto:mike@thelaundromatguys.com">mike@thelaundromatguys.com</a> wrote:<br>
+&nbsp;</div>
+<blockquote type="cite">
+<div>
+<p>Hello Vince,<br>
+<br>
+It was a pleasure speaking with you the other day.&nbsp; Attached is our listing agreement for you to review.&nbsp; I did some preliminary research of the area that your fathers laundromat is located and we do have several investors who may be interested.&nbsp; Please call me if you have any questions and I look forward to assisting in helping you sell the laundromat.<br>
+<br>
+Regards</p>
+<div>
+<h3 style="color:blue;">&nbsp;</h3>
+<div>
+<div>Michael Settembre</div>
+<div>THE LAUNDROMAT GUYS</div>
+<div>646-294-0491 (cell)</div>
+<div>201-326-1060 (office)</div>
+<div>201-326-1070 (fax)</div>
+</div>
+</div>
+</div>
+</blockquote>
+<blockquote type="cite">
+<div>&lt;LMG Business Listing Agreement.pdf&gt;</div>
+</blockquote>
+</blockquote>
+<p><br>
+<br></p>
+<div>
+<h3 style="color:blue;">&nbsp;</h3>
+<div>
+<div>Michael Settembre</div>
+<div>THE LAUNDROMAT GUYS</div>
+<div>646-294-0491 (cell)</div>
+<div>201-326-1060 (office)</div>
+<div>201-326-1070 (fax)</div>
+</div>
+<br></div>
+
+</div></blockquote></body></html>
+--Apple-Mail-FBBED090-11C0-4EAC-A1B1-FE733A2B8578--

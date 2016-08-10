@@ -1,0 +1,152 @@
+Return-path: <ngiacopelli@gmail.com>
+Envelope-to: mike@thelaundromatguys.com
+Delivery-date: Wed, 30 Mar 2016 02:56:12 -0700
+Received: from mail-qg0-f54.google.com ([209.85.192.54]:36222)
+	by a2plcpnl0434.prod.iad2.secureserver.net with esmtps (TLSv1.2:AES128-GCM-SHA256:128)
+	(Exim 4.85_1)
+	(envelope-from <ngiacopelli@gmail.com>)
+	id 1alCrE-001rif-RH
+	for mike@thelaundromatguys.com; Wed, 30 Mar 2016 02:56:12 -0700
+Received: by mail-qg0-f54.google.com with SMTP id w104so28632356qge.3
+        for <mike@thelaundromatguys.com>; Wed, 30 Mar 2016 02:56:12 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=subject:to:references:from:message-id:date:user-agent:mime-version
+         :in-reply-to;
+        bh=nk+eAtcFfMvReLXLDGfsHjYYxy86TZoFwdkxDRBcD0A=;
+        b=0JRhHhld4Pita/J+e+wgBK9iRfgUYOisAQ7jK5rwCiWqwKp3p1UoBR9RxEJvsyynIH
+         kp82aBissG2KSg8ZPWA4X5QK8+lDMBA5ZU53GcT8otNGjHCxM9p5oBVrN0xaA+LUCVTT
+         sttI7A4QVzfDGdFL3CaUlabrTQf8JyJWjlU/vAcZrGl7tObbJpGCKtAJbAxMw2iwCBUv
+         8nK9XUrg+iyS3ttpxH6wFHTtLxxUbuR3BVqv0Dr+NHow3Hr+0WJ3jSflbjkWv9o6PBGo
+         cRrJvqC8V88/BCmV/qCJBzvwG/XDefjLlPbLKfAAIr++5dndYQhdKcVtmIP7EUNMy0+k
+         d6AA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:subject:to:references:from:message-id:date
+         :user-agent:mime-version:in-reply-to;
+        bh=nk+eAtcFfMvReLXLDGfsHjYYxy86TZoFwdkxDRBcD0A=;
+        b=EqjgUZEVJdQSru5MXsXPn2kamfGsla13GLrfLJ/JpPvLTT3uRvIrjbAQzLyyV0Kk/d
+         SnutYkFa0tRhCbBzrXlfAH04RqXJZLRzv0MgEVfRgT5sj8ER30SjUF60WYsU5fmZ4a29
+         39HOGRGJLlyQaW0CdS2dFMEPExfxoqcjA4HKWt4Z3wMNOJyOHpoBgkOnPflxf7ZqqIqK
+         tNG7r4F+P76SPVS5924Wr1mPXEbbZ09rsdup/yYPkYQ8iMb0pomSSKFfE/m7hEHbbXo/
+         DWsc52LPlMqjsv60EKUI7S0Axek5fqVcpWBiifoqAmFN2mSqO+qkk2m7J380YTk0JMqH
+         2cTw==
+X-Gm-Message-State: AD7BkJIvLmeN7Qw6ngfiCEHuHrsTZz3ZTGYTKlkB9xrAcrG+0BbVDQsem0Xug1Y9B4Rnww==
+X-Received: by 10.140.231.80 with SMTP id b77mr8973831qhc.56.1459331772263;
+        Wed, 30 Mar 2016 02:56:12 -0700 (PDT)
+Received: from Nicholass-iMac.home (pool-173-72-57-112.cmdnnj.fios.verizon.net. [173.72.57.112])
+        by smtp.googlemail.com with ESMTPSA id c18sm1363501qgd.49.2016.03.30.02.56.10
+        for <mike@thelaundromatguys.com>
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Wed, 30 Mar 2016 02:56:10 -0700 (PDT)
+Subject: Re: NDA Etc.
+To: mike@thelaundromatguys.com
+References: <20160329223430.Horde.thWKPTKXt98bsu0k-E2YOA2@a2plcpnl0434.prod.iad2.secureserver.net>
+From: Nick Giacopelli <ngiacopelli@gmail.com>
+Message-ID: <56FBA2BD.7000307@gmail.com>
+Date: Wed, 30 Mar 2016 05:56:13 -0400
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:38.0)
+ Gecko/20100101 Thunderbird/38.6.0
+MIME-Version: 1.0
+In-Reply-To: <20160329223430.Horde.thWKPTKXt98bsu0k-E2YOA2@a2plcpnl0434.prod.iad2.secureserver.net>
+Content-Type: multipart/alternative;
+ boundary="------------030108030807050009040401"
+
+This is a multi-part message in MIME format.
+--------------030108030807050009040401
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 8bit
+
+Hi Mike,
+
+It was nice to connect with you too – I enjoyed the engaging 
+conversation and appreciate the insight that you shared. I'll have a 
+detailed look at the NDA, proposal, and a questionnaire – I will follow 
+up early next week.
+
+Respectfully,
+Nick
+
+--
+Nicholas Giacopelli
+c: 917.941.4331
+
+On 3/29/16 6:34 PM, mike@thelaundromatguys.com wrote:
+>
+> Hey Nick,
+>
+> It was a pleasure speaking with you earlier.  Attached is our NDA, 
+> proposal, and a questionnaire that I would appreciate you filling out 
+> for our records.  Please reach out to me with any questions and if you 
+> want to move forward with our services.  I will be happy to discuss 
+> options as far as our fee is concerned.  Hope to hear from you soon.
+>
+> Regards,
+>
+>
+> Michael Settembre
+> THE LAUNDROMAT GUYS
+> 646-294-0491 (cell)
+> 201-326-1060 (office)
+> 201-326-1070 (fax)
+>
+
+
+--------------030108030807050009040401
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+<html>
+  <head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+  </head>
+  <body bgcolor="#FFFFFF" text="#000000">
+    <font face="Georgia">Hi Mike, <br>
+      <br>
+      It was nice to connect with you too – I enjoyed the engaging
+      conversation and appreciate the insight that you shared. I'll have
+      a detailed look at the NDA, proposal, and a questionnaire – I will
+      follow up early next week. <br>
+      <br>
+      Respectfully, <br>
+      Nick <br>
+    </font>
+    <pre class="moz-signature" cols="72">--
+Nicholas Giacopelli
+c: 917.941.4331</pre>
+    <div class="moz-cite-prefix">On 3/29/16 6:34 PM,
+      <a class="moz-txt-link-abbreviated" href="mailto:mike@thelaundromatguys.com">mike@thelaundromatguys.com</a> wrote:<br>
+    </div>
+    <blockquote
+cite="mid:20160329223430.Horde.thWKPTKXt98bsu0k-E2YOA2@a2plcpnl0434.prod.iad2.secureserver.net"
+      type="cite">
+      <meta http-equiv="content-type" content="text/html; charset=utf-8">
+      <title></title>
+      <p>Hey Nick,<br>
+        <br>
+        It was a pleasure speaking with you earlier.  Attached is our
+        NDA, proposal, and a questionnaire that I would appreciate you
+        filling out for our records.  Please reach out to me with any
+        questions and if you want to move forward with our services.  I
+        will be happy to discuss options as far as our fee is concerned.
+         Hope to hear from you soon.<br>
+        <br>
+        Regards,<br>
+      </p>
+      <div>
+        <h3 style="color:blue;"> </h3>
+        <div>
+          <div>Michael Settembre</div>
+          <div>THE LAUNDROMAT GUYS</div>
+          <div>646-294-0491 (cell)</div>
+          <div>201-326-1060 (office)</div>
+          <div>201-326-1070 (fax)</div>
+        </div>
+        <br>
+      </div>
+    </blockquote>
+    <br>
+  </body>
+</html>
+
+--------------030108030807050009040401--

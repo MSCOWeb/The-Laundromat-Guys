@@ -1,0 +1,203 @@
+Return-path: <koenigmgmt@gmail.com>
+Envelope-to: mike@thelaundromatguys.com
+Delivery-date: Wed, 22 Jun 2016 07:06:42 -0700
+Received: from mail-qk0-f172.google.com ([209.85.220.172]:33781)
+	by a2plcpnl0434.prod.iad2.secureserver.net with esmtps (TLSv1.2:AES128-GCM-SHA256:128)
+	(Exim 4.85_1)
+	(envelope-from <koenigmgmt@gmail.com>)
+	id 1bFini-004L6j-CA
+	for mike@thelaundromatguys.com; Wed, 22 Jun 2016 07:06:42 -0700
+Received: by mail-qk0-f172.google.com with SMTP id a186so65810354qkf.0
+        for <mike@thelaundromatguys.com>; Wed, 22 Jun 2016 07:06:42 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=from:to:cc:subject:date:message-id:mime-version:thread-index
+         :content-language;
+        bh=sF/DKs47aJ9+Yt2zLc5lwE7mdgUrOI3fpZAM17wdfMw=;
+        b=JdXATIEEFrfOmq+hN0FPUNrlXMn2lnzkDGrM0y72e+90dMOjp8pn+36D+nTr1ov1l8
+         u1fGoSUZH+puJlp1gn6SwhOIyl0prQ/21RO8MeRhsaKo7OxZEHCdZlwvwqp6K4wPXqxn
+         KD/g76FgUautaF8KggylZ5+oQpff3itTNuOs+PAw/cbQh5s2wKS8KQVuGevINmuNjfJy
+         PTnzQ1vA0EWKD2zrcMAWZWwG6wOMz7jTzb7llo7igo+prfP2BdVf3YpfXWx1Bid7tcOa
+         BMmKI5s5M1sm2WZGrNAt9Om91m98eMwRfOLOusauUhqcmmyGGEGre2Ukq1wrMz3unUhB
+         uV0Q==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:from:to:cc:subject:date:message-id:mime-version
+         :thread-index:content-language;
+        bh=sF/DKs47aJ9+Yt2zLc5lwE7mdgUrOI3fpZAM17wdfMw=;
+        b=AUHjBYI8J2s2HT7YFPOyuW4xyknr9yZBeI6Wur/pRYbOshyufzl5MQbPBBxcJeip2F
+         K3pa06sgPQd4XS2/P6ghVsaRBP18V8UUNPX9+kvvi10CkuPdoqpDtGHb+8fIDmpYn8xj
+         Dv+IbMZRJbug0xxNNIHEe7epQoxdgUppeEBzNuYcHXY65JngaIxwNq+7hEnoi2TYvKMX
+         1jIwL4OvOjgtZ8D3rEoQUhL5Bc4HwFOzhVppqqaGpxPY9zXnjCiOTedMeEtI1zvRFxrd
+         q7v1cGL8qnQwoE3GK29aGza7ULTfoUboVVzwM96BoF6VADa6bfsKtYKe+MWxDx+GakWq
+         FxTQ==
+X-Gm-Message-State: ALyK8tKNTNeWMsh/Dz64cEiMqN2BSNF2wwVtJZ9C16X1nh3e6qjxtFifdXllTYbqFm+yFA==
+X-Received: by 10.55.164.20 with SMTP id n20mr35992940qke.73.1466604401924;
+        Wed, 22 Jun 2016 07:06:41 -0700 (PDT)
+Received: from FrontDeskPC (ool-45799e0d.dyn.optonline.net. [69.121.158.13])
+        by smtp.gmail.com with ESMTPSA id 143sm25887743qkk.39.2016.06.22.07.06.39
+        (version=TLS1 cipher=ECDHE-RSA-AES128-SHA bits=128/128);
+        Wed, 22 Jun 2016 07:06:40 -0700 (PDT)
+From: "Koenig Management" <koenigmgmt@gmail.com>
+To: <mike@thelaundromatguys.com>
+Cc: "'Koenig Management'" <koenigmgmt@gmail.com>
+Subject: Meeting
+Date: Wed, 22 Jun 2016 10:06:40 -0400
+Message-ID: <001d01d1cc8f$4cafe300$e60fa900$@gmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001E_01D1CC6D.C59FC9A0"
+X-Mailer: Microsoft Outlook 16.0
+Thread-Index: AdHMjNT6CCmvBexxSeazeHVJfeAFrw==
+Content-Language: en-us
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_001E_01D1CC6D.C59FC9A0
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Good morning Mike,
+
+ 
+
+Jeff can meet you and your client this Friday 6/24 at 10:00 am at Rod's
+office at 557 Route 23, South Wayne, NJ.
+
+ 
+
+Please confirm your availability.
+
+ 
+
+Thank you,
+
+ 
+
+Valeria Palacios
+
+Administrative Assistant
+
+Koenig Management, Ltd. 
+
+120 North Main Street - Suite 500
+
+New City, NY 10956
+
+845-639-1292, X201
+
+845-639-0433 Fax 
+
+ 
+
+ 
+
+
+------=_NextPart_000_001E_01D1CC6D.C59FC9A0
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><meta =
+http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Dus-ascii"><meta name=3DGenerator content=3D"Microsoft Word 15 =
+(filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+p.msonormal0, li.msonormal0, div.msonormal0
+	{mso-style-name:msonormal;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+span.EmailStyle18
+	{mso-style-type:personal-compose;
+	font-family:"Times New Roman",serif;
+	color:black;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;
+	font-family:"Calibri",sans-serif;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US =
+link=3D"#0563C1" vlink=3D"#954F72"><div class=3DWordSection1><p =
+class=3DMsoNormal><span style=3D'font-family:"Times New =
+Roman",serif;color:black'>Good morning Mike,<o:p></o:p></span></p><p =
+class=3DMsoNormal><span style=3D'font-family:"Times New =
+Roman",serif;color:black'><o:p>&nbsp;</o:p></span></p><p =
+class=3DMsoNormal><span style=3D'font-family:"Times New =
+Roman",serif;color:black'>Jeff can meet you and your client this Friday =
+6/24 at 10:00 am at Rod&#8217;s office</span><span =
+style=3D'font-family:"Times New Roman",serif;color:black'> at =
+</span><span style=3D'font-family:"Times New =
+Roman",serif;color:black'>557 Route 23, South Wayne, NJ.</span><span =
+style=3D'font-family:"Times New =
+Roman",serif;color:black'><o:p></o:p></span></p><p =
+class=3DMsoNormal><span style=3D'font-family:"Times New =
+Roman",serif;color:black'><o:p>&nbsp;</o:p></span></p><p =
+class=3DMsoNormal><span style=3D'font-family:"Times New =
+Roman",serif;color:black'>Please confirm your =
+availability.<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-family:"Times New =
+Roman",serif;color:black'><o:p>&nbsp;</o:p></span></p><p =
+class=3DMsoNormal><span style=3D'font-family:"Times New =
+Roman",serif;color:black'>Thank you,<o:p></o:p></span></p><p =
+class=3DMsoNormal><span style=3D'font-family:"Times New =
+Roman",serif;color:black'><o:p>&nbsp;</o:p></span></p><p =
+class=3DMsoNormal><b><i><span style=3D'font-family:"Times New =
+Roman",serif;color:black'>Valeria =
+Palacios<o:p></o:p></span></i></b></p><p class=3DMsoNormal><i><span =
+style=3D'font-family:"Times New Roman",serif;color:black'>Administrative =
+Assistant<o:p></o:p></span></i></p><p class=3DMsoNormal><i><span =
+style=3D'font-family:"Times New Roman",serif;color:black'>Koenig =
+Management, Ltd. <o:p></o:p></span></i></p><p class=3DMsoNormal><i><span =
+style=3D'font-family:"Times New Roman",serif;color:black'>120 North Main =
+Street - Suite 500<o:p></o:p></span></i></p><p =
+class=3DMsoNormal><i><span style=3D'font-family:"Times New =
+Roman",serif;color:black'>New City, NY 10956<o:p></o:p></span></i></p><p =
+class=3DMsoNormal><i><span style=3D'font-family:"Times New =
+Roman",serif;color:black'>845-639-1292, X201<o:p></o:p></span></i></p><p =
+class=3DMsoNormal><i><span style=3D'font-family:"Times New =
+Roman",serif;color:black'>845-639-0433 Fax <o:p></o:p></span></i></p><p =
+class=3DMsoNormal><span style=3D'font-family:"Times New =
+Roman",serif;color:black'><o:p>&nbsp;</o:p></span></p><p =
+class=3DMsoNormal><span style=3D'font-family:"Times New =
+Roman",serif;color:black'><o:p>&nbsp;</o:p></span></p></div></body></html=
+>
+------=_NextPart_000_001E_01D1CC6D.C59FC9A0--
+

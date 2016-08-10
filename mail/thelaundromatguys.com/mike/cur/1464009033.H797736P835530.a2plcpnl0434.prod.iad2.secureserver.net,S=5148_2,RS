@@ -1,0 +1,116 @@
+Return-path: <vincedirect@gmail.com>
+Envelope-to: mike@thelaundromatguys.com
+Delivery-date: Mon, 23 May 2016 06:10:33 -0700
+Received: from mail-qk0-f177.google.com ([209.85.220.177]:33079)
+	by a2plcpnl0434.prod.iad2.secureserver.net with esmtps (TLSv1.2:AES128-GCM-SHA256:128)
+	(Exim 4.85_1)
+	(envelope-from <vincedirect@gmail.com>)
+	id 1b4pcv-003VM6-Nc
+	for mike@thelaundromatguys.com; Mon, 23 May 2016 06:10:33 -0700
+Received: by mail-qk0-f177.google.com with SMTP id n63so107010623qkf.0
+        for <mike@thelaundromatguys.com>; Mon, 23 May 2016 06:10:33 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=from:content-transfer-encoding:mime-version:subject:message-id:date
+         :references:in-reply-to:to;
+        bh=A1ZjKwiW4U7g4P1fWjDEvG1cGQkO+FXbhE+0aY2e5go=;
+        b=sz2lK5nmOLvx9dtqh5aAr/yZf/kMdpMdcAlA7nS/pUiG9C1rAmPCRY551s0flEpJSS
+         uT3WUwTbqStm/I2ov3S89MjUkZSmuE4g4gvL0rdWtNeaWW61gHwUrJEzGY15RyllbzsP
+         /rLcmEeaLll3ZaoH8pazSk4pRhIH5e3ZBeiA8PueYse2bVpwm0DUX2tOfFM2qjKRt0cz
+         f849xSZHPfurax3Q1hc72N4gvkp5Nyn8My/yPkh7IU4SABukdfzxh7EUwKBu6ZfV4Syj
+         4PFpvfkblbGo2yjopj4ZznkDLYn+8TPYbaMaQ/Uhh0x8xzl1Ez8ksGYruSGGFVdV0b9F
+         Jbbg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:from:content-transfer-encoding:mime-version
+         :subject:message-id:date:references:in-reply-to:to;
+        bh=A1ZjKwiW4U7g4P1fWjDEvG1cGQkO+FXbhE+0aY2e5go=;
+        b=BE2O1OWp60rH8YXCI/tkTlbA8U0JDtF2KJ6hcdpfZ3u9XyVdE3vT2KJfPmQox/DSKe
+         d/XUhjobLkuzthN8yZ6RGZvHzJQcwKQzF5e2cxnBGxDc3xR12/h5iwm+XSxkBV/5pf3Q
+         eq1TyHFAFnSYlbEzyzmcIEPKQ1TXjLJAyk6pcvth85MOrkeDmtFEvR1VI17dz/iBDaXw
+         0RJG20SBXpfpx6OI0NYIZWTJlo1ytsV3uvZwRq9mtoKei0LONoiQs34lhWNQZ3cm9Kd8
+         MfwQvgXmwk2WMsnLUkY406Tkhmg0O3iFeROwvSLJr8KlgdjW6NkPpl4cwL+7k6eCzkBb
+         0Z9g==
+X-Gm-Message-State: AOPr4FW+4HveLpCzhrgfKRNQRKtXashDw/NZjW5oi/jzE6U2P1h3CLsLEyhUasrAGOs0pA==
+X-Received: by 10.200.53.139 with SMTP id k11mr11900803qtb.25.1464009033149;
+        Mon, 23 May 2016 06:10:33 -0700 (PDT)
+Received: from [192.168.1.2] ([71.188.115.43])
+        by smtp.gmail.com with ESMTPSA id n194sm3401294qkn.3.2016.05.23.06.10.31
+        for <mike@thelaundromatguys.com>
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Mon, 23 May 2016 06:10:32 -0700 (PDT)
+From: Vinny <vincedirect@gmail.com>
+Content-Type: multipart/alternative;
+	boundary=Apple-Mail-738DD28E-C08E-4504-9E69-11B4B2511415
+Content-Transfer-Encoding: 7bit
+Mime-Version: 1.0 (1.0)
+Subject: Re: Laundromat Listing Agreement
+Message-Id: <DF657ED2-694C-42E8-9A8C-0AF6A80BFA7F@gmail.com>
+Date: Mon, 23 May 2016 09:10:31 -0400
+References: <20160523125812.Horde.UmN4YBu2_0UaYkE7Ogouhw3@a2plcpnl0434.prod.iad2.secureserver.net>
+In-Reply-To: <20160523125812.Horde.UmN4YBu2_0UaYkE7Ogouhw3@a2plcpnl0434.prod.iad2.secureserver.net>
+To: mike@thelaundromatguys.com
+X-Mailer: iPhone Mail (13B143)
+
+
+--Apple-Mail-738DD28E-C08E-4504-9E69-11B4B2511415
+Content-Type: text/plain;
+	charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+Ok thanks !!
+
+Sent from my iPhone
+
+> On May 23, 2016, at 8:58 AM, mike@thelaundromatguys.com wrote:
+>=20
+> Hello Vince,
+>=20
+> It was a pleasure speaking with you the other day.  Attached is our listin=
+g agreement for you to review.  I did some preliminary research of the area t=
+hat your fathers laundromat is located and we do have several investors who m=
+ay be interested.  Please call me if you have any questions and I look forwa=
+rd to assisting in helping you sell the laundromat.
+>=20
+> Regards
+>=20
+> =20
+>=20
+> Michael Settembre
+> THE LAUNDROMAT GUYS
+> 646-294-0491 (cell)
+> 201-326-1060 (office)
+> 201-326-1070 (fax)
+>=20
+> <LMG Business Listing Agreement.pdf>
+
+--Apple-Mail-738DD28E-C08E-4504-9E69-11B4B2511415
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<html><head><meta http-equiv="content-type" content="text/html; charset=utf-8"></head><body dir="auto"><div>Ok thanks !!<br><br>Sent from my iPhone</div><div><br>On May 23, 2016, at 8:58 AM, <a href="mailto:mike@thelaundromatguys.com">mike@thelaundromatguys.com</a> wrote:<br><br></div><blockquote type="cite"><div>
+
+
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<title></title>
+
+
+<p>Hello Vince,<br>
+<br>
+It was a pleasure speaking with you the other day.&nbsp; Attached is our listing agreement for you to review.&nbsp; I did some preliminary research of the area that your fathers laundromat is located and we do have several investors who may be interested.&nbsp; Please call me if you have any questions and I look forward to assisting in helping you sell the laundromat.<br>
+<br>
+Regards</p>
+<div>
+<h3 style="color:blue;">&nbsp;</h3>
+<div>
+<div>Michael Settembre</div>
+<div>THE LAUNDROMAT GUYS</div>
+<div>646-294-0491 (cell)</div>
+<div>201-326-1060 (office)</div>
+<div>201-326-1070 (fax)</div>
+</div>
+<br></div>
+
+</div></blockquote><blockquote type="cite"><div>&lt;LMG Business Listing Agreement.pdf&gt;</div></blockquote></body></html>
+--Apple-Mail-738DD28E-C08E-4504-9E69-11B4B2511415--

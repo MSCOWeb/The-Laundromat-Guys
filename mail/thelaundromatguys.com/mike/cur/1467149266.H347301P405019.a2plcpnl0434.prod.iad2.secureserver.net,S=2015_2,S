@@ -1,0 +1,40 @@
+Return-path: <ojpapa@optonline.net>
+Envelope-to: mike@thelaundromatguys.com
+Delivery-date: Tue, 28 Jun 2016 14:27:46 -0700
+Received: from mta9.srv.hcvlny.cv.net ([167.206.4.204]:33378)
+	by a2plcpnl0434.prod.iad2.secureserver.net with esmtps (TLSv1.2:DHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.85_1)
+	(envelope-from <ojpapa@optonline.net>)
+	id 1bI0Xq-001hMC-97
+	for mike@thelaundromatguys.com; Tue, 28 Jun 2016 14:27:46 -0700
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=optonline.net;
+	s=dkim-001; t=1467149265;
+	bh=myqBCz7r2+rYvu+2BegmcUedHqYtQ06P7Feeo12XsTo=;
+	h=From:Subject:Message-Id:Date:To;
+	b=AV9PUnRijM7yTp68t87rtElAZbnlL+hTEuQZmDK03KCXRvBRB2WwvIqpd8ksjLFDX
+	 VeEvSxGXemaN1oY8IbTBDfHTxUzGErjY2CPq4ujfYllWNi2rXF8qXbVZLZPEjD0+lT
+	 8iJLiZE7GHM2YbkAxJPZfvnYvZ6J/ldCOSUa1ZYG3jLNziQRcmtr8RYAKSN8TyZaZW
+	 xcbNVH3hIhBxge4c6nnZdebZcdJVlGvqeOVs6t3uan7yniU++ELqax2jYjV3Mvv8XS
+	 QyGeWLGrugQLo82pHxW97uW+ZFCM3CZs5SLBhU8MxSDmm08pOr24WGrpPvFfYQqcvU
+	 Ds4cV/vUUYPcg==
+Authentication-Results:  mta1.srv.hcvlny.cv.net smtp.user=ojpapa@optonline.net; auth=pass (LOGIN)
+X-Content-Analysis: v=2.1 cv=dbF9pije c=1 sm=1 tr=0 a=lcJK+7pyc93JmLbAiFL9qg==:117 a=lcJK+7pyc93JmLbAiFL9qg==:17 a=L9H7d07YOLsA:10 a=9cW_t1CCXrUA:10 a=s5jvgZ67dGcA:10 a=kj9zAlcOel0A:10 a=n-W9yTF7P0zU72B5rUQA:9 a=CjuIK1q_8ugA:10 a=IElf2ab8YEIA:10 a=Tarf4gehK9QA:10 a=1u_bPEpVfToA:10
+Received: from [108.60.230.202] ([108.60.230.202:27919] helo=[10.200.61.15])
+	by mta1.srv.hcvlny.cv.net (envelope-from <ojpapa@optonline.net>)
+	(ecelerity 3.6.9.48312 r(Core:3.6.9.0)) with ESMTPA
+	id 8F/2F-02215-1DBE2775; Tue, 28 Jun 2016 17:27:45 -0400
+From: Orlando Papaleo <ojpapa@optonline.net>
+Content-Type: text/plain;
+	charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Mime-Version: 1.0 (1.0)
+Subject: Status
+Message-Id: <BD8F2998-CB91-4F29-B833-ACEFF209094F@optonline.net>
+Date: Tue, 28 Jun 2016 17:27:43 -0400
+To: mike@thelaundromatguys.com
+X-Mailer: iPhone Mail (13F69)
+
+Hi, what's the status and did he sign the lease yet?
+
+Orlando J. Papaleo
+917-417-0789

@@ -1,0 +1,76 @@
+Return-path: <aperretti@comcast.net>
+Envelope-to: mike@thelaundromatguys.com
+Delivery-date: Fri, 03 Jun 2016 17:05:38 -0700
+Received: from resqmta-ch2-05v.sys.comcast.net ([69.252.207.37]:34004)
+	by a2plcpnl0434.prod.iad2.secureserver.net with esmtps (TLSv1.2:DHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.85_1)
+	(envelope-from <aperretti@comcast.net>)
+	id 1b8z5u-003ALt-9W
+	for mike@thelaundromatguys.com; Fri, 03 Jun 2016 17:05:38 -0700
+Received: from resomta-ch2-16v.sys.comcast.net ([69.252.207.112])
+	by comcast with SMTP
+	id 8z4tbEl8lBE6O8z5sbivuv; Sat, 04 Jun 2016 00:05:36 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=comcast.net;
+	s=q20140121; t=1464998736;
+	bh=/93rsklY+dc49VVNSQAopUXMHXjAojVpT7lm4vSvSdY=;
+	h=Received:Received:Date:Subject:Message-ID:From:To:MIME-Version:
+	 Content-Type;
+	b=IQRYAXOeJudyQgAGCkMnyIvf6jaPK8PfBe4H99wKuYqK+sdeSlhYR7Ljqxx6lYTR8
+	 qrMMPunyOpHRQnJWD7ltC0k/Oj74Np4AVgSWr/T1e6FBv9xkqZue60GEHlzeUm68dh
+	 23oz5eEUZ11X9L2iPvArQVZf8bWfAU6GA74Qtf/KeXggjNDewHd78LpXcDQKc1zgdk
+	 eactmxYYYFAkQOVyLNkr/cpgS9DiG8MkrgFUjMttETr/oAuEr+7/m8P+3MtmnSFl8M
+	 syKilPGc+0Q4G2+IiYsQJkr6EwwA48/yWaPKCvzfjxUsNX4hYPU2Ex6UhQ5z0eP1Ud
+	 mMwIBSAADEGsg==
+Received: from [IPv6:2600:1001:b018:273b:3cd8:688d:8e36:9d64] ([IPv6:2600:1001:b018:273b:3cd8:688d:8e36:9d64])
+	by resomta-ch2-16v.sys.comcast.net with comcast
+	id 2Q5R1t0031hCDZH01Q5V3n; Sat, 04 Jun 2016 00:05:34 +0000
+Date: Fri, 03 Jun 2016 20:05:26 -0400
+Subject: RE: Laundromat
+Message-ID: <5d6vdb5r88hw01ignudh0dbr.1464998726124@email.android.com>
+Importance: normal
+From: aperretti <aperretti@comcast.net>
+To: mike@thelaundromatguys.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="--_com.android.email_4721189401140770"
+
+----_com.android.email_4721189401140770
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: base64
+
+CiAgICAKU3Bva2Ugd2l0aCBKb3NlIGFnYWluLiDCoCBTYXlzIHJlYnVpbHQgd2FzaGVycyBhbHNv
+CgoKU2VudCBmcm9tIG15IFZlcml6b24gV2lyZWxlc3MgNEcgTFRFIHNtYXJ0cGhvbmUKCi0tLS0t
+LS0tIE9yaWdpbmFsIG1lc3NhZ2UgLS0tLS0tLS0KRnJvbTogbWlrZUB0aGVsYXVuZHJvbWF0Z3V5
+cy5jb20gCkRhdGU6IDA2LzAzLzIwMTYgIDQ6MDMgUE0gIChHTVQtMDU6MDApIApUbzogYXBlcnJl
+dHRpQGNvbWNhc3QubmV0IApTdWJqZWN0OiBMYXVuZHJvbWF0IAoKCkhleSBBbnRob255LAoKCgpB
+dHRhY2hlZCBpcyBvdXIgcXVlc3Rpb25uYWlyZSBhbmQgcHJvcG9zYWwgdGhhdCB3ZSBzcG9rZSBh
+Ym91dC7CoCBQbGVhc2UgcmV2aWV3IHRoZW0gYW5kIGZlZWwgZnJlZSB0byBjYWxsIG1lIHdpdGgg
+YW55IG90aGVyIHF1ZXN0aW9ucy7CoCBJIGxvb2sgZm9yd2FyZCB0byBob3BlZnVsbHkgaGVscGlu
+ZyB5b3UgYWxvbmcgdGhpcyBwcm9jZXNzLgoKCgpSZWdhcmRzLAoKwqAKCk1pY2hhZWwgU2V0dGVt
+YnJlClRIRSBMQVVORFJPTUFUIEdVWVMKNjQ2LTI5NC0wNDkxIChjZWxsKQoyMDEtMzI2LTEwNjAg
+KG9mZmljZSkKMjAxLTMyNi0xMDcwIChmYXgpCgoKCg==
+
+----_com.android.email_4721189401140770
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: base64
+
+PGh0bWw+PGhlYWQ+PG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1UeXBlIiBjb250ZW50PSJ0ZXh0
+L2h0bWw7IGNoYXJzZXQ9VVRGLTgiPjwvaGVhZD48Ym9keT4KICAgIAo8ZGl2PlNwb2tlIHdpdGgg
+Sm9zZSBhZ2Fpbi4gJm5ic3A7IFNheXMgcmVidWlsdCB3YXNoZXJzIGFsc288L2Rpdj48ZGl2Pjxi
+cj48L2Rpdj48ZGl2Pjxicj48L2Rpdj48ZGl2Pjxicj48L2Rpdj48ZGl2IGlkPSJjb21wb3Nlcl9z
+aWduYXR1cmUiPjxkaXYgc3R5bGU9ImZvbnQtc2l6ZTo4NSU7Y29sb3I6IzU3NTc1NyI+U2VudCBm
+cm9tIG15IFZlcml6b24gV2lyZWxlc3MgNEcgTFRFIHNtYXJ0cGhvbmU8L2Rpdj48L2Rpdj48YnI+
+PGJyPi0tLS0tLS0tIE9yaWdpbmFsIG1lc3NhZ2UgLS0tLS0tLS08YnI+RnJvbTogbWlrZUB0aGVs
+YXVuZHJvbWF0Z3V5cy5jb20gPGJyPkRhdGU6IDA2LzAzLzIwMTYgIDQ6MDMgUE0gIChHTVQtMDU6
+MDApIDxicj5UbzogYXBlcnJldHRpQGNvbWNhc3QubmV0IDxicj5TdWJqZWN0OiBMYXVuZHJvbWF0
+IDxicj48YnI+CjxwPkhleSBBbnRob255LDxicj4KPGJyPgpBdHRhY2hlZCBpcyBvdXIgcXVlc3Rp
+b25uYWlyZSBhbmQgcHJvcG9zYWwgdGhhdCB3ZSBzcG9rZSBhYm91dC4mbmJzcDsgUGxlYXNlIHJl
+dmlldyB0aGVtIGFuZCBmZWVsIGZyZWUgdG8gY2FsbCBtZSB3aXRoIGFueSBvdGhlciBxdWVzdGlv
+bnMuJm5ic3A7IEkgbG9vayBmb3J3YXJkIHRvIGhvcGVmdWxseSBoZWxwaW5nIHlvdSBhbG9uZyB0
+aGlzIHByb2Nlc3MuPGJyPgo8YnI+ClJlZ2FyZHMsPC9wPgo8ZGl2Pgo8aDMgc3R5bGU9ImNvbG9y
+OmJsdWU7Ij4mbmJzcDs8L2gzPgo8ZGl2Pgo8ZGl2Pk1pY2hhZWwgU2V0dGVtYnJlPC9kaXY+Cjxk
+aXY+VEhFIExBVU5EUk9NQVQgR1VZUzwvZGl2Pgo8ZGl2PjY0Ni0yOTQtMDQ5MSAoY2VsbCk8L2Rp
+dj4KPGRpdj4yMDEtMzI2LTEwNjAgKG9mZmljZSk8L2Rpdj4KPGRpdj4yMDEtMzI2LTEwNzAgKGZh
+eCk8L2Rpdj4KPC9kaXY+Cjxicj48L2Rpdj4KPC9ib2R5PjwvaHRtbD4=
+
+----_com.android.email_4721189401140770--
+

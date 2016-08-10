@@ -1,0 +1,51 @@
+Return-path: <>
+Envelope-to: laundromatguys@a2plcpnl0434.prod.iad2.secureserver.net
+Delivery-date: Thu, 16 Jun 2016 17:00:28 -0700
+Received: from mailnull by a2plcpnl0434.prod.iad2.secureserver.net with local (Exim 4.85_1)
+	id 1bDhD2-000tRs-K7
+	for laundromatguys@a2plcpnl0434.prod.iad2.secureserver.net; Thu, 16 Jun 2016 17:00:28 -0700
+X-Failed-Recipients: msettemb@yahoo.com,
+  jsoniker@msco.com,
+  rob@greatlaundry.com,
+  stephen@msmdesignz.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0434.prod.iad2.secureserver.net>
+To: laundromatguys@a2plcpnl0434.prod.iad2.secureserver.net
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1bDhD2-000tRs-K7@a2plcpnl0434.prod.iad2.secureserver.net>
+Date: Thu, 16 Jun 2016 17:00:28 -0700
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  msettemb@yahoo.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 DhD2bc2oATkAn :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.1 cv=ZJ934SPb c=1 sm=1 tr=0 p=gk1oxHJJCDVQBFU0fcUA:9 a=p/JKKMXu4QUl3IhKsNivew==:117 a=L9H7d07YOLsA:10 a=9cW_t1CCXrUA:10 a=s5jvgZ67dGcA:10 a=8nJEP1OIZ-IA:10 a=odrq-oPf3h8A:10 a=1oVVrAhnBNsA:10 a=pD_ry4oyNxEA:10 a=D-qANSVKaVMA:10 a=pGLkceISAAAA:8 a=epY3dyrHAAAA:8 a=FksurZriAAAA:8 a=63p45FpCyOoZrLn5:21 a=NYbX_f2vJqGEbK6D:21 a=_lQvgoRqin3Q2uEX:21 a=wPNLvfGTeEIA:10 a=_W_S_7VecoQA:10 a=gIiv_RBqPJAA:10 a=tbKErgX7K8MA:10 a=3JDr4lrrFAUA:10 a=6kGIvZw6iX1k4Y-7sg4_:22 a=s4ehmqDCAOLaHabZEpmW:22 a=btBHrAeG74nsRHXE2QS4:22 ::
+    100.00
+  jsoniker@msco.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 DhD2bAxGpN8F6 :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.1 cv=aPNQ0eJm c=1 sm=1 tr=0 p=gk1oxHJJCDVQBFU0fcUA:9 a=p/JKKMXu4QUl3IhKsNivew==:117 a=L9H7d07YOLsA:10 a=9cW_t1CCXrUA:10 a=s5jvgZ67dGcA:10 a=8nJEP1OIZ-IA:10 a=odrq-oPf3h8A:10 a=1oVVrAhnBNsA:10 a=pD_ry4oyNxEA:10 a=D-qANSVKaVMA:10 a=pGLkceISAAAA:8 a=epY3dyrHAAAA:8 a=FksurZriAAAA:8 a=63p45FpCyOoZrLn5:21 a=NYbX_f2vJqGEbK6D:21 a=_lQvgoRqin3Q2uEX:21 a=wPNLvfGTeEIA:10 a=_W_S_7VecoQA:10 a=gIiv_RBqPJAA:10 a=tbKErgX7K8MA:10 a=3JDr4lrrFAUA:10 a=6kGIvZw6iX1k4Y-7sg4_:22 a=s4ehmqDCAOLaHabZEpmW:22 a=btBHrAeG74nsRHXE2QS4:22 ::
+    100.00
+  rob@greatlaundry.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 DhD2bAxGoN8F6 :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.1 cv=aPNQ0eJm c=1 sm=1 tr=0 p=gk1oxHJJCDVQBFU0fcUA:9 a=p/JKKMXu4QUl3IhKsNivew==:117 a=L9H7d07YOLsA:10 a=9cW_t1CCXrUA:10 a=s5jvgZ67dGcA:10 a=8nJEP1OIZ-IA:10 a=odrq-oPf3h8A:10 a=1oVVrAhnBNsA:10 a=pD_ry4oyNxEA:10 a=D-qANSVKaVMA:10 a=pGLkceISAAAA:8 a=epY3dyrHAAAA:8 a=FksurZriAAAA:8 a=63p45FpCyOoZrLn5:21 a=NYbX_f2vJqGEbK6D:21 a=_lQvgoRqin3Q2uEX:21 a=wPNLvfGTeEIA:10 a=_W_S_7VecoQA:10 a=gIiv_RBqPJAA:10 a=tbKErgX7K8MA:10 a=3JDr4lrrFAUA:10 a=6kGIvZw6iX1k4Y-7sg4_:22 a=s4ehmqDCAOLaHabZEpmW:22 a=btBHrAeG74nsRHXE2QS4:22 ::
+    100.00
+  stephen@msmdesignz.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 DhD2bZnwqMHFi :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.1 cv=G9G8a4Q5 c=1 sm=1 tr=0 p=gk1oxHJJCDVQBFU0fcUA:9 a=p/JKKMXu4QUl3IhKsNivew==:117 a=L9H7d07YOLsA:10 a=9cW_t1CCXrUA:10 a=s5jvgZ67dGcA:10 a=8nJEP1OIZ-IA:10 a=odrq-oPf3h8A:10 a=1oVVrAhnBNsA:10 a=pD_ry4oyNxEA:10 a=D-qANSVKaVMA:10 a=pGLkceISAAAA:8 a=epY3dyrHAAAA:8 a=FksurZriAAAA:8 a=63p45FpCyOoZrLn5:21 a=NYbX_f2vJqGEbK6D:21 a=_lQvgoRqin3Q2uEX:21 a=wPNLvfGTeEIA:10 a=_W_S_7VecoQA:10 a=gIiv_RBqPJAA:10 a=tbKErgX7K8MA:10 a=3JDr4lrrFAUA:10 a=6kGIvZw6iX1k4Y-7sg4_:22 a=s4ehmqDCAOLaHabZEpmW:22 a=btBHrAeG74nsRHXE2QS4:22 ::
+    100.00
+

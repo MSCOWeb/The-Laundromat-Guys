@@ -1,0 +1,91 @@
+Return-path: <jsoniker@msco.com>
+Envelope-to: laundromatguys@a2plcpnl0434.prod.iad2.secureserver.net
+Delivery-date: Sat, 11 Jun 2016 11:26:28 -0700
+Received: from mail-qg0-f52.google.com ([209.85.192.52]:36266)
+	by a2plcpnl0434.prod.iad2.secureserver.net with esmtps (TLSv1.2:AES128-GCM-SHA256:128)
+	(Exim 4.85_1)
+	(envelope-from <jsoniker@msco.com>)
+	id 1bBnc4-004Gzb-TP
+	for laundromatguys@a2plcpnl0434.prod.iad2.secureserver.net; Sat, 11 Jun 2016 11:26:28 -0700
+Received: by mail-qg0-f52.google.com with SMTP id v76so18917196qgv.3
+        for <laundromatguys@a2plcpnl0434.prod.iad2.secureserver.net>; Sat, 11 Jun 2016 11:26:28 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=msco-com.20150623.gappssmtp.com; s=20150623;
+        h=to:from:date:message-id:subject:mime-version
+         :content-transfer-encoding:content-disposition:precedence
+         :auto-submitted;
+        bh=P/bBXYszOAJhm0H71Dbi/ZegBblXC/DBL7u/TXo/nBM=;
+        b=Wz8ZSIF0SjFqTxn9AzuX/DgW9GVDj9mkYw7GXYOyOTSvLaPAg78U+EbXjlr8T/w/Ak
+         Qi74jjvFH9volepN7JddOxYYSy1viUShJhaluxwUmrhrMh6PRnZMEChYSfRHr9y9WD2x
+         CAsSay2y8OvC7Q0dIs143F3pn0XOlISYSeoSR032NvmotbHaDQQPxHTiG6V6wHdU5N9w
+         vICssCKahMvX2m7L2GBVXeSyCNuAWsihJqoJOfzW0kaYiqqaiY/6SwmN5t9tLbXlffIH
+         d3diyun5vafZPZ1ehxVeciF77wrDbxmRpn+LOCuoZ6vDcdjKFFZgiPVUXpJEo/UFp+9G
+         xHNg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:to:from:date:message-id:subject:mime-version
+         :content-transfer-encoding:content-disposition:precedence
+         :auto-submitted;
+        bh=P/bBXYszOAJhm0H71Dbi/ZegBblXC/DBL7u/TXo/nBM=;
+        b=VCP20Kravrm35QF+wKtbX0vwQ/EksJKOUOAgfnwa8LhNDCTnPMhpwAYg9m4H68vqt8
+         Gr08pfCiX4HabI+va0FvZWvgfng0uuNeWiP844nYUYPL9cgjsrix6r2DTWaa4hmV7Hsr
+         nowbwn0Z0gZFwvAi2Kdw6yCwZzvdbYsNpmNqet+/mQgt9qauvh/QeHXM8+3QdAJ3G9ha
+         t9u7d0TNCC1qvMcflnnQXo04oL0r3oX3mL0deYHYzuOcBD3PxJLdPsBiKppe05iQJ2E6
+         7gNh/E46kHwUSWkAQkvpsXN8U0HCONHv3xsFE7nt/0qpUZRWdWHs8OTt+LBDtIwb3pM8
+         Auzg==
+X-Gm-Message-State: ALyK8tIEMsRkBuVat0A9LYU4KsPwS7aiSN2AGqOEDt744bh8/UokJqv1jMV3gpIxF6CY/T4+Y1dH8PKzY+8ZIcWyZNeYK2mCYEkMzg4=
+X-Received: by 10.140.38.165 with SMTP id t34mr7288071qgt.47.1465669588532;
+        Sat, 11 Jun 2016 11:26:28 -0700 (PDT)
+To: laundromatguys@a2plcpnl0434.prod.iad2.secureserver.net
+From: "Jonathan Soniker" <jsoniker@msco.com>
+Date: Sat, 11 Jun 2016 11:26:28 -0700
+Message-ID: <CAOOGmVgpxmDvrH_k2DzOjdgtB+=Wm1jc7mh-Ps6nswrGPjx5Bg@mail.gmail.com>
+Subject: Out of office reply Re: The Laundromat Guys General Inquiry
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: base64
+Content-Disposition: inline
+Precedence: bulk
+X-Autoreply: yes
+Auto-Submitted: auto-replied
+
+PGRpdiBkaXI9Imx0ciI+PGRpdj5JIHdpbGwgaGF2ZSBubyBhY2Nlc3MgdG8gZW1haWwgb3Igdm9p
+Y2VtYWlsIG9uIDYvMTEsIDYvMTIgYW5kIDYvMTMuIEkgd2lsbCBnZXQgYmFjayB0byB5b3UgYXMg
+c29vbiBhcyBJIGNhbi48YnI+PC9kaXY+PGRpdj48YnI+PC9kaXY+PGRpdj5JZiB5b3UgbmVlZCBh
+biBpbW1lZGlhdGUgcmVzcG9uc2UsIHBsZWFzZSBjb250YWN0IE1vbmljYSBIdWdoZXMgYXQgOTE0
+LTI1MS0xNTAwIG9yIG1odWdoZXMyPGEgaHJlZj0ibWFpbHRvOnRvbW15QG1zY28uY29tIiB0YXJn
+ZXQ9Il9ibGFuayI+QG1zY28uY29tPC9hPjwvZGl2PjxkaXY+PGJyPjwvZGl2PjxkaXY+VGhhbmtz
+LjwvZGl2PjwvZGl2Pjxici8+PGJyLz4tLSA8YnIvPjxkaXYgZGlyPSJsdHIiPjxkaXY+PGJyPkJl
+c3QgcmVnYXJkcyw8L2Rpdj48ZGl2PkpvbmF0aGFuIFNvbmlrZXI8L2Rpdj48ZGl2PlNlbmlvciBW
+aWNlIFByZXNpZGVudDwvZGl2PjxkaXY+PHNwYW4gc3R5bGU9ImZvbnQtZmFtaWx5OmFyaWFsLHNh
+bnMtc2VyaWY7Zm9udC1zaXplOjEyLjQ5OTk5OTA0NjMyNTY4NHB4O2JhY2tncm91bmQtY29sb3I6
+cmdiKDI1NSwyNTUsMjU1KSI+TVNDTyB8IFRoZSBBcnQgYW5kIFNjaWVuY2Ugb2YgR3Jvd2luZyBC
+dXNpbmVzc2VzPC9zcGFuPjxiciBzdHlsZT0iZm9udC1mYW1pbHk6YXJpYWwsc2Fucy1zZXJpZjtm
+b250LXNpemU6MTIuNDk5OTk5MDQ2MzI1Njg0cHg7YmFja2dyb3VuZC1jb2xvcjpyZ2IoMjU1LDI1
+NSwyNTUpIj48c3BhbiBzdHlsZT0iZm9udC1mYW1pbHk6YXJpYWwsc2Fucy1zZXJpZjtmb250LXNp
+emU6MTIuNDk5OTk5MDQ2MzI1Njg0cHg7YmFja2dyb3VuZC1jb2xvcjpyZ2IoMjU1LDI1NSwyNTUp
+Ij44MDAgV2VzdGNoZXN0ZXIgQXZlIFJ5ZSBCcm9vaywgTlkgMTA1NzM8L3NwYW4+PGJyIHN0eWxl
+PSJmb250LWZhbWlseTphcmlhbCxzYW5zLXNlcmlmO2ZvbnQtc2l6ZToxMi40OTk5OTkwNDYzMjU2
+ODRweDtiYWNrZ3JvdW5kLWNvbG9yOnJnYigyNTUsMjU1LDI1NSkiPjxzcGFuIHN0eWxlPSJmb250
+LWZhbWlseTphcmlhbCxzYW5zLXNlcmlmO2ZvbnQtc2l6ZToxMi40OTk5OTkwNDYzMjU2ODRweDti
+YWNrZ3JvdW5kLWNvbG9yOnJnYigyNTUsMjU1LDI1NSkiPlRlbDogwqA8L3NwYW4+PGEgdmFsdWU9
+IisxOTE0MjUxMTUwMCIgc3R5bGU9ImNvbG9yOnJnYigxNyw4NSwyMDQpO2ZvbnQtZmFtaWx5OmFy
+aWFsLHNhbnMtc2VyaWY7Zm9udC1zaXplOjEyLjQ5OTk5OTA0NjMyNTY4NHB4O2JhY2tncm91bmQt
+Y29sb3I6cmdiKDI1NSwyNTUsMjU1KSI+OTE0LjI1MS4xNTAwPC9hPjwvZGl2PjxkaXY+PHNwYW4g
+c3R5bGU9ImZvbnQtZmFtaWx5OmFyaWFsLHNhbnMtc2VyaWY7Zm9udC1zaXplOjEyLjQ5OTk5OTA0
+NjMyNTY4NHB4O2JhY2tncm91bmQtY29sb3I6cmdiKDI1NSwyNTUsMjU1KSI+Q2VsbDo8Zm9udCBj
+b2xvcj0iIzIyMjIyMiI+wqA8L2ZvbnQ+PC9zcGFuPjxhIHZhbHVlPSIrMTkxNDI1MTE1MDAiIHN0
+eWxlPSJjb2xvcjpyZ2IoMTcsODUsMjA0KTtmb250LWZhbWlseTphcmlhbCxzYW5zLXNlcmlmO2Zv
+bnQtc2l6ZToxMi40OTk5OTkwNDYzMjU2ODRweDtiYWNrZ3JvdW5kLWNvbG9yOnJnYigyNTUsMjU1
+LDI1NSkiPjkxNy43OTcuODQ0ODwvYT48L2Rpdj48ZGl2PjxzcGFuIHN0eWxlPSJmb250LWZhbWls
+eTphcmlhbCxzYW5zLXNlcmlmO2ZvbnQtc2l6ZToxMi40OTk5OTkwNDYzMjU2ODRweDtiYWNrZ3Jv
+dW5kLWNvbG9yOnJnYigyNTUsMjU1LDI1NSkiPkZheDo8Zm9udCBjb2xvcj0iIzIyMjIyMiI+wqA8
+L2ZvbnQ+PC9zcGFuPjxhIHZhbHVlPSIrMTkxNDI1MTA4MDAiIHN0eWxlPSJjb2xvcjpyZ2IoMTcs
+ODUsMjA0KTtmb250LWZhbWlseTphcmlhbCxzYW5zLXNlcmlmO2ZvbnQtc2l6ZToxMi40OTk5OTkw
+NDYzMjU2ODRweDtiYWNrZ3JvdW5kLWNvbG9yOnJnYigyNTUsMjU1LDI1NSkiPjkxNC4yNTEuMDgw
+MDwvYT48YnIgc3R5bGU9ImNvbG9yOnJnYigzNCwzNCwzNCk7Zm9udC1mYW1pbHk6YXJpYWwsc2Fu
+cy1zZXJpZjtmb250LXNpemU6MTIuNDk5OTk5MDQ2MzI1Njg0cHg7YmFja2dyb3VuZC1jb2xvcjpy
+Z2IoMjU1LDI1NSwyNTUpIj48YSBocmVmPSJodHRwOi8vd3d3Lm1zY28uY29tLyIgc3R5bGU9ImNv
+bG9yOnJnYigxNyw4NSwyMDQpO2ZvbnQtZmFtaWx5OmFyaWFsLHNhbnMtc2VyaWY7Zm9udC1zaXpl
+OjEyLjQ5OTk5OTA0NjMyNTY4NHB4O2JhY2tncm91bmQtY29sb3I6cmdiKDI1NSwyNTUsMjU1KSIg
+dGFyZ2V0PSJfYmxhbmsiPnd3dy5NU0NPLmNvbTwvYT48L2Rpdj48L2Rpdj48YnIvPg0K
